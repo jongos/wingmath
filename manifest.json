@@ -477,6 +477,15 @@
       "kind": "provenance",
       "sha256": "789c9d4fbeee5749d35d6ba0c55535f804d530df6fec87d084d81bfbede72516",
       "bytes": 602
+    },
+    {
+      "path": "data/2026-09-15/prices/expanded-menu.json",
+      "records": 32,
+      "bytes": 13196,
+      "sha256": "84a68637620eda999e3beee047312aaa7985d57471bcaae12abc283d54dd89ca",
+      "classification": "Sourced menu observations with eligibility decisions",
+      "source": "Restaurant-owned menus and merchant ordering pages; per-row URLs",
+      "notes": "29 eligible and 3 excluded; separate from original six-menu edition."
     }
   ]
 }

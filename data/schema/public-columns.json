@@ -1,0 +1,169 @@
+{
+  "datasets": [
+    "id",
+    "as_of"
+  ],
+  "restaurants": [
+    "id",
+    "dataset",
+    "record_key",
+    "name",
+    "state",
+    "market"
+  ],
+  "restaurant_features": [
+    "restaurant_id",
+    "feature",
+    "value",
+    "status"
+  ],
+  "reviewer_visits": [
+    "id",
+    "restaurant_id",
+    "source_id",
+    "name",
+    "state",
+    "source_rank",
+    "total",
+    "appearance",
+    "meatiness",
+    "texture",
+    "sauce",
+    "experience"
+  ],
+  "menu_prices": [
+    "id",
+    "restaurant_id",
+    "amount",
+    "quantity",
+    "unit",
+    "scope",
+    "source_id",
+    "observed_at"
+  ],
+  "wing_price_editions": [
+    "id",
+    "observed_at"
+  ],
+  "wing_price_observations": [
+    "id",
+    "edition_id",
+    "restaurant_id",
+    "amount",
+    "quantity",
+    "unit",
+    "scope",
+    "source_url",
+    "eligible",
+    "reason"
+  ],
+  "state_economics": [
+    "state",
+    "rpp",
+    "population",
+    "rpp_year",
+    "population_year"
+  ],
+  "market_quotes": [
+    "symbol",
+    "name",
+    "price",
+    "change",
+    "change_percent",
+    "snapshot_at"
+  ],
+  "annual_inflation": [
+    "year",
+    "cpi",
+    "restaurant_index",
+    "months",
+    "missing_months_json",
+    "snapshot_at"
+  ],
+  "crypto_snapshots": [
+    "id",
+    "retrieved_at"
+  ],
+  "crypto_quotes": [
+    "snapshot_id",
+    "coin_id",
+    "name",
+    "symbol",
+    "market_cap_rank",
+    "price",
+    "market_cap",
+    "change",
+    "change_percent",
+    "quote_at",
+    "source_url"
+  ],
+  "sources": [
+    "id",
+    "dataset",
+    "source_key",
+    "title",
+    "url"
+  ],
+  "public_reviews": [
+    "restaurant_id",
+    "platform",
+    "stars",
+    "review_count",
+    "observed_at",
+    "source_id"
+  ],
+  "atl_evidence": [
+    "restaurant_id",
+    "infatuation_rank",
+    "eater",
+    "reddit_branch_factor",
+    "continuity",
+    "contribution",
+    "history"
+  ],
+  "culture_sources": [
+    "restaurant_id",
+    "source_id"
+  ],
+  "reddit_comments": [
+    "id",
+    "thread",
+    "source_id",
+    "observed_at"
+  ],
+  "reddit_mentions": [
+    "comment_id",
+    "restaurant_key",
+    "polarity"
+  ],
+  "social_snapshots": [
+    "id",
+    "observed_at"
+  ],
+  "social_searches": [
+    "id",
+    "snapshot_id",
+    "restaurant_id",
+    "platform",
+    "query",
+    "query_url",
+    "status",
+    "sampled"
+  ],
+  "social_results": [
+    "search_id",
+    "position",
+    "url"
+  ],
+  "search_demand_snapshots": [
+    "id",
+    "observed_at"
+  ],
+  "keyword_observations": [
+    "snapshot_id",
+    "restaurant_id",
+    "keyword",
+    "avg_monthly_searches",
+    "source_row"
+  ]
+}

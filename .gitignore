@@ -23,3 +23,7 @@ server/
 *.sqlite
 *.sqlite3
 *.db
+
+# Only automation metadata; website code remains excluded.
+!SYNC.md
+!.github/workflows/sync-data.yml

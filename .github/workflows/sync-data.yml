@@ -1,0 +1,60 @@
+name: Sync public WingMath data
+on:
+  schedule:
+    - cron: '3-58/5 * * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/sync-data.yml', 'data/schema/public-columns.json']
+permissions:
+  contents: write
+concurrency:
+  group: public-data-sync
+  cancel-in-progress: false
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      - name: Download and validate curated public data
+        env:
+          DATA_URL: https://wingmath.jongos.chatgpt.site/api/public-data
+        run: |
+          python3 - <<'PY'
+          import datetime, hashlib, json, os, pathlib, re, urllib.request
+          request = urllib.request.Request(os.environ['DATA_URL'], headers={'Accept':'application/json', 'User-Agent':'WingMath-public-data-sync/1.0'})
+          with urllib.request.urlopen(request, timeout=60) as response:
+              if response.headers.get('X-WingMath-Data-Source') != 'd1':
+                  raise RuntimeError('Expected a live database response; refusing a fallback snapshot')
+              raw = response.read(20_000_001)
+          if len(raw) > 20_000_000:
+              raise RuntimeError('Export exceeds reviewed size limit')
+          data = json.loads(raw)
+          schema = json.loads(pathlib.Path('data/schema/public-columns.json').read_text())
+          if data.get('formatVersion') != 1 or set(data.get('tables',{})) != set(schema):
+              raise RuntimeError('Unreviewed export schema; keeping previous data')
+          for table, rows in data['tables'].items():
+              if not isinstance(rows,list): raise RuntimeError('Expected table rows')
+              for row in rows:
+                  if set(row) != set(schema[table]): raise RuntimeError('Unreviewed column')
+                  if any(isinstance(v,(dict,list)) for v in row.values()): raise RuntimeError('Unexpected nested content')
+          serialized = json.dumps(data,ensure_ascii=False,sort_keys=True,indent=2)+'\n'
+          if re.search(r'gh[pousr]_[A-Za-z0-9]{20,}|github_pat_[A-Za-z0-9_]{20,}|-----BEGIN .*PRIVATE KEY-----|chatgpt\.com/(?:c|share)/', serialized):
+              raise RuntimeError('Sensitive content detected; export rejected')
+          target = pathlib.Path('data/current/database.json')
+          target.parent.mkdir(parents=True,exist_ok=True)
+          if not target.exists() or target.read_text() != serialized:
+              target.write_text(serialized)
+              manifest = {'formatVersion':1,'source':os.environ['DATA_URL'],'retrievedAt':datetime.datetime.now(datetime.timezone.utc).isoformat(),'sha256':hashlib.sha256(serialized.encode()).hexdigest(),'bytes':len(serialized.encode()),'tables':{k:len(v) for k,v in data['tables'].items()}}
+              pathlib.Path('data/current/manifest.json').write_text(json.dumps(manifest,sort_keys=True,indent=2)+'\n')
+          PY
+      - name: Commit changed public records
+        run: |
+          git config user.name 'WingMath data sync'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- data/current/database.json data/current/manifest.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update curated WingMath database snapshot'
+            git push origin HEAD:main
+          fi

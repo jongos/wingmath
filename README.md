@@ -35,3 +35,9 @@ Start with [data/2026-09-15](data/2026-09-15), the [data dictionary](DATA_DICTIO
 WingMath’s original contributions are available under [CC BY 4.0](LICENSE.md), with third-party materials identified separately. Cite WingMath, the snapshot date, this repository, and the original sources relevant to your use.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) to submit corrected or newly collected data. This repository is a versioned research snapshot; committing data here does not automatically update the production database.
+
+## Expanded menu edition and database mirror
+
+The expanded menu edition contains **29 eligible restaurant prices across 25 states and D.C.**, plus three excluded quotes. See [expanded-menu.json](data/2026-09-15/prices/expanded-menu.json) for the source prices and eligibility decisions. The original six-price snapshot remains unchanged.
+
+The [database synchronization workflow](.github/workflows/sync-data.yml) checks for curated public-data changes every five minutes. Its latest successful output is stored under `data/current/`; Git history preserves earlier snapshots. See [SYNC.md](SYNC.md) for the field allowlist, privacy exclusions, timing limits and failure behavior. Website source is not included.
