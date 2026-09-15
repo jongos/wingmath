@@ -1,0 +1,32 @@
+{
+  "bytes": 725256,
+  "formatVersion": 1,
+  "retrievedAt": "2026-09-15T21:37:50.737974+00:00",
+  "sha256": "4919146e793728cc59db92be3141a3e1ea3bf4feee9c6fe439084e8edee59c37",
+  "source": "https://wingmath.jongos.chatgpt.site/api/public-data",
+  "tables": {
+    "annual_inflation": 47,
+    "atl_evidence": 19,
+    "crypto_quotes": 25,
+    "crypto_snapshots": 1,
+    "culture_sources": 25,
+    "datasets": 8,
+    "keyword_observations": 50,
+    "market_quotes": 502,
+    "menu_prices": 6,
+    "public_reviews": 34,
+    "reddit_comments": 42,
+    "reddit_mentions": 67,
+    "restaurant_features": 150,
+    "restaurants": 1449,
+    "reviewer_visits": 89,
+    "search_demand_snapshots": 1,
+    "social_results": 324,
+    "social_searches": 152,
+    "social_snapshots": 2,
+    "sources": 74,
+    "state_economics": 51,
+    "wing_price_editions": 1,
+    "wing_price_observations": 32
+  }
+}
