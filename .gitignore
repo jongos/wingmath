@@ -9,6 +9,11 @@
 !manifest.json
 !data/**/*.csv
 !data/**/*.json
+!submissions/**/*.json
+!submissions/**/*.yaml
+!submissions/**/*.yml
+!submissions/**/*.html
+!submissions/**/*.md
 .git/
 node_modules/
 dist/
