@@ -1,11 +1,8 @@
 name: Sync public WingMath data
 on:
   schedule:
-    - cron: '3-58/5 * * * *'
+    - cron: '0 12 * * *'
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths: ['.github/workflows/sync-data.yml', 'data/schema/public-columns.json']
 permissions:
   contents: write
 concurrency:
