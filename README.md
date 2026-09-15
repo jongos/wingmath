@@ -10,13 +10,11 @@ For centuries, civilization attempted to understand itself through gold, oil and
 
 ## Saucy Wing Science, Jumbo Data
 
-**Wing science** powers customizable national rankings, state exploration and ATL 10. It brings together restaurant and reviewer evidence, editorial coverage, cultural history, social visibility and search demand, while letting visitors choose their own priorities. The goal is to make the evidence—and the role of personal taste—visible.
+**Wing science** powers customizable national rankings, state exploration and ATL 10. It brings together restaurant and reviewer evidence, editorial coverage, cultural history, social visibility and search demand, while letting visitors choose their own priorities. The goal is to make data—and the role of personal taste—visible.
 
-**Wingonomics** uses the chicken wing as a unit for exploring prices and purchasing power. The Wing Index establishes an experimental price-per-wing benchmark from an expanded menu sample, with equal weight for each eligible restaurant. That shared denominator powers comparisons across stocks, Crispy Crypto and Wingflation, alongside restaurant-price research.
+**Wingonomics** uses the chicken wing as a unit for exploring prices and purchasing power. The Wing Index establishes an experimental price-per-wing benchmark from an expanded menu sample, with equal weight for each eligible restaurant. That shared denominator powers comparisons across stocks, Crispy Crypto and 'Wingflation', alongside traditional restaurant-prices.
 
-Our founding proposition is audacious: a wing can be both delicious and divisible. Divide its menu price by its count and a unit price emerges. Divide again by a regional price index and the napkin becomes a research instrument. Put the result in a serif typeface and the institution is essentially complete.
-
-The humor is deliberate; the distinctions in the data matter. Missing evidence remains missing. Uncollected reviews do not become praise. Unobserved prices do not become zero. Model-coded taste signals are labeled provisional. A broader menu sample does not mean we have measured every American restaurant.
+Our founding proposition is audacious: a wing can be both delicious and quantified. Divide menu price by wing count and the per wing unit price emerges. Divide again by a regional price index and the napkin becomes a research instrument. 
 
 Good wings deserve attention. Big claims deserve evidence. We intend to consume a concerning amount of the former while steadily improving the latter.
 
@@ -24,7 +22,7 @@ Explore the [website](https://wingmath.com), read [About WingMath](https://wingm
 
 ## What this repository contains
 
-This repository contains dated CSV and JSON data snapshots, research annotations, source references, and data documentation. The website, application code, deployment configuration, database credentials, assets, and website Git history are maintained separately. This is an open-data project; the website software is not licensed by this repository.
+This repository contains dated CSV and JSON data snapshots, research annotations, source references, and data documentation. The website, application code, deployment configuration, database credentials, assets, and website Git history are maintained separately. This is an open-data project.
 
 ## Initial edition: 2026-09-15
 
