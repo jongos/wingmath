@@ -1,0 +1,79 @@
+[
+  {
+    "region": "New England",
+    "name": "J Timothy's",
+    "state": "CT",
+    "score": 45.5,
+    "sourceRow": 2
+  },
+  {
+    "region": "Mid Atlantic",
+    "name": "The Dirty Buffalo",
+    "state": "VA",
+    "score": 44.5,
+    "sourceRow": 3
+  },
+  {
+    "region": "Southeast Atlantic",
+    "name": "The Local",
+    "state": "GA",
+    "score": 47.5,
+    "sourceRow": 4
+  },
+  {
+    "region": "Southeast Central",
+    "name": "Ching's Hot Wings",
+    "state": "TN",
+    "score": 44.75,
+    "sourceRow": 5
+  },
+  {
+    "region": "South Central",
+    "name": "Wayne's Wings",
+    "state": "TX",
+    "score": 44.5,
+    "sourceRow": 6
+  },
+  {
+    "region": "Southwest",
+    "name": "Dirty Birds",
+    "state": "CA",
+    "score": 46.25,
+    "sourceRow": 7
+  },
+  {
+    "region": "Pacific",
+    "name": "Vindicktive Wings",
+    "state": "WA",
+    "score": 44.75,
+    "sourceRow": 8
+  },
+  {
+    "region": "Rocky Mountains",
+    "name": "Weitzel's Wings (aka Double Dubs)",
+    "state": "WY",
+    "score": 47.25,
+    "sourceRow": 9
+  },
+  {
+    "region": "Midwest/Great Plains",
+    "name": "Everett's",
+    "state": "NE",
+    "score": 44.75,
+    "sourceRow": 10
+  },
+  {
+    "region": "Midwest/Great Lakes",
+    "name": "Legend Larry's",
+    "state": "WI",
+    "score": 44.5,
+    "sourceRow": 11
+  },
+  {
+    "region": "New York",
+    "name": "Bar-Bill",
+    "state": "NY",
+    "score": 47.25,
+    "sourceRow": 12
+  }
+]

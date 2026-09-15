@@ -1,0 +1,65 @@
+{
+  "id": "atl-social-2026-09-15-pilot-2",
+  "asOf": "2026-09-15",
+  "cap": 5,
+  "channels": [
+    "google",
+    "youtube",
+    "x",
+    "news"
+  ],
+  "provider": "Google indexed search; News vertical for news",
+  "scope": "Food-related brand visibility, including owned pages and metropolitan branches. This is not branch-specific wing quality.",
+  "protocol": "At most five primary linked result headings in rendered order for the disclosed quoted restaurant name plus Atlanta wings, with no date filter. The original collection used unique headings and confirmed nonpersonalized results in Atlanta. The team requested pws=0 but did not confirm personalization; loaded searches reported DuPage County, Illinois. Team audit decisions are retained, including rejected headings. Three Dollar Cafe YouTube includes duplicate headings within its five-position sample; Jamal’s X includes Google’s unquoted fallback. Inspect identity and food context; exclude unresolved matches, X profiles and unrelated venues. Deduplicate Google/news by publisher, YouTube by video ID and X by post ID. Remove specialized-channel URLs from Google. Sources and channels are not independent.",
+  "limitations": [
+    "Search ranking, exact names, query wording, indexing and collection date affect this small nonrandom sample.",
+    "Some Google and news results repeat reviews or cultural coverage used elsewhere. Owned content, promotions and controversy can increase visibility.",
+    "Only indexed watch URLs and indexed X posts were sampled. Private, deleted and unindexed material, Shorts and platform-native totals are outside coverage.",
+    "No Google query-volume, YouTube total-view, X total-post or complete news hit counts were obtained.",
+    "For reference only, Google displayed about 1,830,000 results for the Local query. This unstable, ambiguous estimate is excluded from scoring.",
+    "The two collection batches used different search locations, and team personalization was unconfirmed. Complete four-channel coverage does not establish comparable sampling conditions.",
+    "Three Dollar Cafe YouTube used five headings containing only two distinct videos; duplicate headings were not replaced. Jamal’s X returned unquoted fallback results after no quoted matches.",
+    "The team attachment is reported observational evidence. Import validation checks structure, identities, queries and arithmetic; it does not independently reproduce the historical results."
+  ],
+  "previousSnapshotId": "atl-social-2026-09-15-pilot-1",
+  "mergedAt": "2026-09-15T14:09:41Z",
+  "batches": [
+    {
+      "id": "original-2026-09-15",
+      "observedAt": "2026-09-15",
+      "observedSearches": 49,
+      "searchLocation": "Atlanta, Georgia, reported by Google",
+      "personalization": "Google footer reported results were not personalized",
+      "source": "Original WingMath browser collection; exact per-query timestamps and rejected snippets were not retained."
+    },
+    {
+      "id": "team-2026-09-15",
+      "observedAt": "2026-09-15",
+      "observedSearches": 15,
+      "blockedSearches": 12,
+      "searchLocation": "DuPage County, Illinois from IP when SERP loaded",
+      "personalization": "pws=0 requested; Google account/personalization not confirmed",
+      "source": "User-supplied team snapshot; query strings, counts and audit decisions checked on import. Search pages were not independently re-created.",
+      "sourceFile": "ATL10_remaining_visibility_2026-09-15.json",
+      "sourceSha256": "b9837c3673ceafd371808a944e549b88297f8ba1090573a5cf5fd1d74a1814a0"
+    }
+  ],
+  "defaultBatchId": "original-2026-09-15",
+  "corrections": [
+    {
+      "field": "team.gapReport",
+      "reported": "13 of 27 blocked",
+      "corrected": "12 of 27 blocked",
+      "basis": "The 27 row-level records contain 15 observed and 12 blocked, agreeing with the numeric summary fields."
+    }
+  ],
+  "coverageCounts": {
+    "restaurants": 19,
+    "completeRestaurants": 14,
+    "incompleteRestaurants": 5,
+    "totalSearches": 76,
+    "observedSearches": 64,
+    "blockedSearches": 12,
+    "acceptedLinks": 175
+  }
+}

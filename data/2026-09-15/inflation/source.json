@@ -1,0 +1,25 @@
+{
+  "retrievedAt": "2026-09-15",
+  "firstYear": 1980,
+  "lastYear": 2025,
+  "unit": "One menu-listed bone-in restaurant wing piece; before tax, tip and fees",
+  "sources": [
+    {
+      "name": "BLS All Items CPI-U, not seasonally adjusted, via FRED",
+      "series": "CPIAUCNS",
+      "url": "https://fred.stlouisfed.org/series/CPIAUCNS"
+    },
+    {
+      "name": "BLS Food Away from Home CPI-U, not seasonally adjusted, via FRED",
+      "series": "CUUR0000SEFV",
+      "url": "https://fred.stlouisfed.org/series/CUUR0000SEFV"
+    }
+  ],
+  "anchor": {
+    "menuDate": "2026-09-15",
+    "menuCount": 6,
+    "indexMonth": "2026-08",
+    "restaurantIndex": 397.868
+  },
+  "historicalWingPriceStatus": "Modeled from food-away-from-home CPI and the menu sample, not observed historical national wing prices."
+}

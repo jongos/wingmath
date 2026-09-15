@@ -1,0 +1,308 @@
+[
+  {
+    "rank": 1,
+    "entryId": "sam-row-2",
+    "state": "GA",
+    "sourceRow": 2
+  },
+  {
+    "rank": 2,
+    "entryId": "sam-row-3",
+    "state": "NY",
+    "sourceRow": 3
+  },
+  {
+    "rank": 3,
+    "entryId": "sam-row-4",
+    "state": "WY",
+    "sourceRow": 4
+  },
+  {
+    "rank": 4,
+    "entryId": "sam-row-7",
+    "state": "CA",
+    "sourceRow": 5
+  },
+  {
+    "rank": 5,
+    "entryId": "sam-row-9",
+    "state": "CT",
+    "sourceRow": 6
+  },
+  {
+    "rank": 6,
+    "entryId": "sam-row-12",
+    "state": "TN",
+    "sourceRow": 7
+  },
+  {
+    "rank": 7,
+    "entryId": "sam-row-13",
+    "state": "WA",
+    "sourceRow": 8
+  },
+  {
+    "rank": 8,
+    "entryId": "sam-row-14",
+    "state": "NE",
+    "sourceRow": 9
+  },
+  {
+    "rank": 9,
+    "entryId": "sam-row-16",
+    "state": "MN",
+    "sourceRow": 10
+  },
+  {
+    "rank": 10,
+    "entryId": "sam-row-17",
+    "state": "WI",
+    "sourceRow": 11
+  },
+  {
+    "rank": 11,
+    "entryId": "sam-row-18",
+    "state": "VA",
+    "sourceRow": 12
+  },
+  {
+    "rank": 12,
+    "entryId": "sam-row-19",
+    "state": "AZ",
+    "sourceRow": 13
+  },
+  {
+    "rank": 13,
+    "entryId": "sam-row-20",
+    "state": "TX",
+    "sourceRow": 14
+  },
+  {
+    "rank": 14,
+    "entryId": "sam-row-21",
+    "state": "MO",
+    "sourceRow": 15
+  },
+  {
+    "rank": 15,
+    "entryId": "sam-row-23",
+    "state": "CO",
+    "sourceRow": 16
+  },
+  {
+    "rank": 16,
+    "entryId": "sam-row-24",
+    "state": "LA",
+    "sourceRow": 17
+  },
+  {
+    "rank": 17,
+    "entryId": "sam-row-31",
+    "state": "NH",
+    "sourceRow": 18
+  },
+  {
+    "rank": 18,
+    "entryId": "sam-row-32",
+    "state": "KS",
+    "sourceRow": 19
+  },
+  {
+    "rank": 19,
+    "entryId": "sam-row-34",
+    "state": "ME",
+    "sourceRow": 20
+  },
+  {
+    "rank": 20,
+    "entryId": "sam-row-35",
+    "state": "MI",
+    "sourceRow": 21
+  },
+  {
+    "rank": 21,
+    "entryId": "sam-row-36",
+    "state": "NJ",
+    "sourceRow": 22
+  },
+  {
+    "rank": 22,
+    "entryId": "sam-row-37",
+    "state": "PA",
+    "sourceRow": 23
+  },
+  {
+    "rank": 23,
+    "entryId": "sam-row-38",
+    "state": "FL",
+    "sourceRow": 24
+  },
+  {
+    "rank": 24,
+    "entryId": "sam-row-39",
+    "state": "OH",
+    "sourceRow": 25
+  },
+  {
+    "rank": 25,
+    "entryId": "sam-row-40",
+    "state": "WV",
+    "sourceRow": 26
+  },
+  {
+    "rank": 26,
+    "entryId": "sam-row-41",
+    "state": "ND",
+    "sourceRow": 27
+  },
+  {
+    "rank": 27,
+    "entryId": "sam-row-44",
+    "state": "NC",
+    "sourceRow": 28
+  },
+  {
+    "rank": 28,
+    "entryId": "sam-row-45",
+    "state": "OK",
+    "sourceRow": 29
+  },
+  {
+    "rank": 29,
+    "entryId": "sam-row-47",
+    "state": "AL",
+    "sourceRow": 30
+  },
+  {
+    "rank": 30,
+    "entryId": "sam-row-48",
+    "state": "UT",
+    "sourceRow": 31
+  },
+  {
+    "rank": 31,
+    "entryId": "sam-row-50",
+    "state": "SD",
+    "sourceRow": 32
+  },
+  {
+    "rank": 32,
+    "entryId": "sam-row-51",
+    "state": "HI",
+    "sourceRow": 33
+  },
+  {
+    "rank": 33,
+    "entryId": "sam-row-53",
+    "state": "NM",
+    "sourceRow": 34
+  },
+  {
+    "rank": 34,
+    "entryId": "sam-row-55",
+    "state": "MD",
+    "sourceRow": 35
+  },
+  {
+    "rank": 35,
+    "entryId": "sam-row-58",
+    "state": "SC",
+    "sourceRow": 36
+  },
+  {
+    "rank": 36,
+    "entryId": "sam-row-60",
+    "state": "OR",
+    "sourceRow": 37
+  },
+  {
+    "rank": 37,
+    "entryId": "sam-row-61",
+    "state": "DC",
+    "sourceRow": 38
+  },
+  {
+    "rank": 38,
+    "entryId": "sam-row-62",
+    "state": "MT",
+    "sourceRow": 39
+  },
+  {
+    "rank": 39,
+    "entryId": "sam-row-67",
+    "state": "IN",
+    "sourceRow": 40
+  },
+  {
+    "rank": 40,
+    "entryId": "sam-row-68",
+    "state": "AK",
+    "sourceRow": 41
+  },
+  {
+    "rank": 41,
+    "entryId": "sam-row-69",
+    "state": "KY",
+    "sourceRow": 42
+  },
+  {
+    "rank": 42,
+    "entryId": "sam-row-70",
+    "state": "AR",
+    "sourceRow": 43
+  },
+  {
+    "rank": 43,
+    "entryId": "sam-row-71",
+    "state": "NV",
+    "sourceRow": 44
+  },
+  {
+    "rank": 44,
+    "entryId": "sam-row-72",
+    "state": "ID",
+    "sourceRow": 45
+  },
+  {
+    "rank": 45,
+    "entryId": "sam-row-73",
+    "state": "IL",
+    "sourceRow": 46
+  },
+  {
+    "rank": 46,
+    "entryId": "sam-row-77",
+    "state": "VT",
+    "sourceRow": 47
+  },
+  {
+    "rank": 47,
+    "entryId": "sam-row-78",
+    "state": "MS",
+    "sourceRow": 48
+  },
+  {
+    "rank": 48,
+    "entryId": "sam-row-81",
+    "state": "IA",
+    "sourceRow": 49
+  },
+  {
+    "rank": 49,
+    "entryId": "sam-row-82",
+    "state": "RI",
+    "sourceRow": 50
+  },
+  {
+    "rank": 50,
+    "entryId": "sam-row-87",
+    "state": "MA",
+    "sourceRow": 51
+  },
+  {
+    "rank": 51,
+    "entryId": "sam-row-88",
+    "state": "DE",
+    "sourceRow": 52
+  }
+]

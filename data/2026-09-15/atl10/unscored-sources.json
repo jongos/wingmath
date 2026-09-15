@@ -1,0 +1,48 @@
+{
+  "videos": [
+    {
+      "url": "https://www.facebook.com/watch/?v=1031114742106196",
+      "label": "Mr. ChimeTime: Ranking Atlanta wings",
+      "status": "Title and partial indexed text found. Full transcript unavailable; no ordering or rating inferred."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=0flOY79qX2A&t=1323s",
+      "label": "YouTube: 0flOY79qX2A",
+      "status": "Title indexed as “THINK I FOUND THE BEST WINGS IN ATL !!”; video/transcript blocked."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=BTVZLSmS6YM",
+      "label": "YouTube: BTVZLSmS6YM",
+      "status": "No reliable transcript retrieved; unscored."
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=X1lJvZ1LqH4",
+      "label": "YouTube: X1lJvZ1LqH4",
+      "status": "No reliable transcript retrieved; unscored."
+    }
+  ],
+  "editorialWatchlist": [
+    "Broad Street BBQ",
+    "Wing Depot on Campbellton Road",
+    "Delbar",
+    "Hungry AF",
+    "Taco Pete",
+    "J.R. Crickets — Union City",
+    "How Crispy Express",
+    "The Wing Bar",
+    "Poor Hendrix (one explicit negative Reddit report)",
+    "A Town Wings",
+    "Mukja",
+    "Brew and Bird",
+    "Owens and Hull",
+    "Brockett Pub",
+    "Rumi’s Kitchen — Sandy Springs",
+    "Nando’s — Dunwoody"
+  ],
+  "localNominations": [
+    "magic",
+    "jr",
+    "trap"
+  ],
+  "missingLocalNominations": 2
+}

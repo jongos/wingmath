@@ -1,0 +1,482 @@
+{
+  "formatVersion": 1,
+  "snapshotDate": "2026-09-15",
+  "repository": "https://github.com/jongos/wingmath",
+  "exportBasis": "Saved source dataset snapshots used to populate the WingMath database; not a live database backup.",
+  "licenseScope": "CC BY 4.0 for WingMath-owned contributions only; third-party scope in LICENSE.md.",
+  "normalization": [
+    "Source values and missingness preserved; executable JavaScript dataset wrappers removed.",
+    "Original Reddit account names replaced with participant IDs; no comment text exported.",
+    "Website presentation fields, computed WingMath rankings and wing conversions excluded.",
+    "Provisional assessments and annual aggregate inputs classified separately from observations."
+  ],
+  "files": [
+    {
+      "path": "data/2026-09-15/restaurants/census.csv",
+      "records": 1380,
+      "description": "National restaurant candidate catalog; 51 states/DC represented. Name/state associations and city hints do not verify a branch.",
+      "sources": [
+        "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=785571269",
+        "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=1966110816",
+        "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=1738999221",
+        "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=0",
+        "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=1019055173",
+        "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=1658778128"
+      ],
+      "kind": "normalized-identities",
+      "sha256": "e8975d87b32ace628f205b21836553df95db302e991b302bcd09e1abacba435d",
+      "bytes": 203044
+    },
+    {
+      "path": "data/2026-09-15/restaurants/seed-identities.csv",
+      "records": 50,
+      "description": "The original 50 restaurant identity records. IDs share the census namespace.",
+      "sources": [],
+      "kind": "normalized-identities",
+      "sha256": "4943aaee8a3edc6e1c03b56f37a60cd106e3076d573a63e486699511dc4f7be9",
+      "bytes": 4477
+    },
+    {
+      "path": "data/2026-09-15/restaurants/census-sources.json",
+      "records": 1352,
+      "description": "Source links associated with catalog records.",
+      "sources": [
+        "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=785571269",
+        "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=1966110816",
+        "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=1738999221",
+        "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=0",
+        "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=1019055173",
+        "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=1658778128"
+      ],
+      "kind": "provenance",
+      "sha256": "de6151da2973ac4559abe1ac022dbe315af70838c015e34ef01278f0dc05f1ba",
+      "bytes": 373061
+    },
+    {
+      "path": "data/2026-09-15/annotations/seed-assessments.json",
+      "records": 50,
+      "description": "Original provisional model-coded traits and research notes; these are analyst assessments, not measured review ratings. Historical final ranks/scores are excluded.",
+      "sources": [],
+      "kind": "analyst-annotations",
+      "sha256": "6c2b0ad1dcbec05b4ff151c65100d10b875f532a6e79f5a52a733ecfb65cc3f9",
+      "bytes": 21940
+    },
+    {
+      "path": "data/2026-09-15/reviewer/visits.csv",
+      "records": 89,
+      "description": "Sam Reid visit-level scores as reported, including 87 scored visits and two N/A visits. Source rank is the reviewer’s, not a WingMath output.",
+      "sources": [
+        "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/edit#gid=1966110816"
+      ],
+      "kind": "observations",
+      "sha256": "cf276e8408860e6139c0404adb97b70f05e1c94265bfa63145223655662b61b7",
+      "bytes": 11348
+    },
+    {
+      "path": "data/2026-09-15/reviewer/suggestions.json",
+      "records": 1403,
+      "description": "1,403 normalized suggestion groups retaining aliases and all 1,975 original row references. Viewer names/comments are not included.",
+      "sources": [
+        "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=785571269",
+        "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=1966110816",
+        "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=1738999221",
+        "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=0",
+        "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=1019055173",
+        "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=1658778128"
+      ],
+      "kind": "normalized-identities",
+      "sha256": "65aa98c733bea528688d3648c334c2ecd6e8376b92a40e37d54f4610b81d409f",
+      "bytes": 288315
+    },
+    {
+      "path": "data/2026-09-15/reviewer/state-representatives.json",
+      "records": 51,
+      "description": "State representative selections reported by the reviewer.",
+      "sources": [
+        "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=785571269",
+        "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=1966110816",
+        "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=1738999221",
+        "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=0",
+        "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=1019055173",
+        "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=1658778128"
+      ],
+      "kind": "observations",
+      "sha256": "cbfbfe3895ff3febeb0a69597d0fd56fcd3573f1eb03e5625956d98228b233f7",
+      "bytes": 4724
+    },
+    {
+      "path": "data/2026-09-15/reviewer/regional-winners.json",
+      "records": 11,
+      "description": "Regional winners reported by the reviewer.",
+      "sources": [
+        "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=785571269",
+        "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=1966110816",
+        "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=1738999221",
+        "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=0",
+        "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=1019055173",
+        "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=1658778128"
+      ],
+      "kind": "observations",
+      "sha256": "7f5fb475f442a8d1e2479c332d9dd4a50f49f571a5a02dcf1c7fa41d49e9614e",
+      "bytes": 1420
+    },
+    {
+      "path": "data/2026-09-15/reviewer/heat-challenges.json",
+      "records": 16,
+      "description": "Heat-challenge list reported by the reviewer.",
+      "sources": [
+        "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=785571269",
+        "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=1966110816",
+        "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=1738999221",
+        "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=0",
+        "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=1019055173",
+        "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=1658778128"
+      ],
+      "kind": "observations",
+      "sha256": "4613e39e1aa84e3920b19ea052cc8469089f2e19b5f7662e424db25d5f807a08",
+      "bytes": 2344
+    },
+    {
+      "path": "data/2026-09-15/reviewer/source.json",
+      "records": null,
+      "description": "Reviewer source spreadsheet, retrieval date, tabs, video references, and matching limitations.",
+      "sources": [
+        "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=785571269",
+        "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=1966110816",
+        "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=1738999221",
+        "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=0",
+        "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=1019055173",
+        "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=1658778128"
+      ],
+      "kind": "provenance",
+      "sha256": "9693537489e50c03b1c8ad5429d6bf122c9a114bb583ca1960ab9cd91f1da67d",
+      "bytes": 2825
+    },
+    {
+      "path": "data/2026-09-15/prices/menu-observations.csv",
+      "records": 6,
+      "description": "Six observed menu order prices in USD; quantity is menu-listed bone-in pieces. Branch limitations are retained.",
+      "sources": [
+        "https://jtimothys.com/food-menus/main-food-menu/",
+        "https://valleywingsonline.com/menu/",
+        "https://order.toasttab.com/online/buffs-pub",
+        "https://order.toasttab.com/online/seoulside-wings-17452-northwest-fwy",
+        "https://baltimoresbestwings.com/food-menu",
+        "https://order.toasttab.com/online/the-chicken-coop-kitchen-and-bar-1463-atwood-avenue"
+      ],
+      "kind": "observations",
+      "sha256": "6a1f8eaf003c39333ccbe4183db8410e5274f4437e9cdab497c89ca8e9fa4f7f",
+      "bytes": 1011
+    },
+    {
+      "path": "data/2026-09-15/prices/state-economics.csv",
+      "records": 51,
+      "description": "Regional price parities (US=100) and resident population; year fields identify separate vintages.",
+      "sources": [
+        "https://fred.stlouisfed.org/release/tables?eid=233639&rid=403",
+        "https://www.census.gov/data/datasets/time-series/demo/popest/2020s-state-total.html"
+      ],
+      "kind": "observations",
+      "sha256": "315a9b35802643b784c54820d69b5ca2277eacf2c0c10b6dc58b67c44d66784e",
+      "bytes": 1488
+    },
+    {
+      "path": "data/2026-09-15/prices/source.json",
+      "records": null,
+      "description": "Price context and economic source vintages.",
+      "sources": [
+        "https://fred.stlouisfed.org/release/tables?eid=233639&rid=403",
+        "https://www.census.gov/data/datasets/time-series/demo/popest/2020s-state-total.html"
+      ],
+      "kind": "provenance",
+      "sha256": "614a3e9735fcb48c0635203b5882a294e0fa57f0bb5e31e074f6e867d2cb9311",
+      "bytes": 262
+    },
+    {
+      "path": "data/2026-09-15/markets/equities.csv",
+      "records": 502,
+      "description": "502 stock quote observations in USD; retrievedAt is the collection time, not a known exchange quote time.",
+      "sources": [
+        "https://www.slickcharts.com/sp500"
+      ],
+      "kind": "observations",
+      "sha256": "d5c4c34002bde994daf832881adee01387dc2f047b71bc6bd5392db87507a75b",
+      "bytes": 36158
+    },
+    {
+      "path": "data/2026-09-15/markets/equities-source.json",
+      "records": null,
+      "description": "Stock snapshot provenance and source limitations.",
+      "sources": [
+        "https://www.slickcharts.com/sp500"
+      ],
+      "kind": "provenance",
+      "sha256": "f24e5ba34736de7076cdb570f25917799beade4beca9bd6379caa7c0ebca999f",
+      "bytes": 256
+    },
+    {
+      "path": "data/2026-09-15/markets/crypto.csv",
+      "records": 25,
+      "description": "25 source-ranked crypto assets by circulating market capitalization; prices and market caps are USD. Includes stablecoins and tokenized assets.",
+      "sources": [
+        "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=25&page=1&sparkline=false"
+      ],
+      "kind": "observations",
+      "sha256": "a249475e37d6056818c445481cca4c9e16b2dba73837688c5378f87ea8fe9816",
+      "bytes": 3570
+    },
+    {
+      "path": "data/2026-09-15/markets/crypto-source.json",
+      "records": null,
+      "description": "Crypto source, scope and retrieval timestamp.",
+      "sources": [
+        "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=25&page=1&sparkline=false"
+      ],
+      "kind": "provenance",
+      "sha256": "52511f245e1020e7f33891f404b259e7580e86d52a27765abea73e76532941ca",
+      "bytes": 445
+    },
+    {
+      "path": "data/2026-09-15/inflation/CPIAUCNS.csv",
+      "records": 572,
+      "description": "Original monthly index CSV snapshot from FRED. Empty observations are missing; no imputation.",
+      "sources": [
+        "https://fred.stlouisfed.org/series/CPIAUCNS"
+      ],
+      "kind": "observations",
+      "sha256": "21a0a2beae9f5fced736707262e3e117c766850f75c1aac48b2a848c1691c6da",
+      "bytes": 10832
+    },
+    {
+      "path": "data/2026-09-15/inflation/CUUR0000SEFV.csv",
+      "records": 572,
+      "description": "Original monthly index CSV snapshot from FRED. Empty observations are missing; no imputation.",
+      "sources": [
+        "https://fred.stlouisfed.org/series/CUUR0000SEFV"
+      ],
+      "kind": "observations",
+      "sha256": "89009f0e444f325d30777737ec1fde3de515c5316f69a39ff7b9b50b534edfaf",
+      "bytes": 10836
+    },
+    {
+      "path": "data/2026-09-15/inflation/annual-inputs.csv",
+      "records": 47,
+      "description": "47 annual index inputs for 1979–2025. These are aggregates, included as calculation inputs; 1979 supplies the first lag. Missing October 2025 remains explicit.",
+      "sources": [
+        "https://fred.stlouisfed.org/series/CPIAUCNS",
+        "https://fred.stlouisfed.org/series/CUUR0000SEFV"
+      ],
+      "kind": "aggregate-inputs",
+      "sha256": "865f122625e34730142a3924c8eadd17bcf7704a884dd65c71a30cbc86dcac52",
+      "bytes": 1993
+    },
+    {
+      "path": "data/2026-09-15/inflation/source.json",
+      "records": null,
+      "description": "Index sources and restaurant-price anchor inputs. Computed wing prices and inflation outputs are excluded.",
+      "sources": [
+        "https://fred.stlouisfed.org/series/CPIAUCNS",
+        "https://fred.stlouisfed.org/series/CUUR0000SEFV"
+      ],
+      "kind": "provenance",
+      "sha256": "1343c93701845bdb4e0980bea5a359744e0856e2e6e063524b55c2437920779c",
+      "bytes": 808
+    },
+    {
+      "path": "data/2026-09-15/atl10/restaurants.csv",
+      "records": 19,
+      "description": "19 reference identities. Brand-level and uncertain-branch signals must retain their source qualifications.",
+      "sources": [
+        "https://www.theinfatuation.com/atlanta/guides/the-best-wings-in-atlanta",
+        "https://atlanta.eater.com/maps/best-chicken-wings-atlanta",
+        "https://www.reddit.com/r/AtlantaEats/comments/1n7qjoy/favorite_wings/",
+        "https://www.reddit.com/r/Atlanta/comments/1qe59a5/who_has_the_best_wings/",
+        "https://www.atlantamagazine.com/dining-news/the-local-is-4ever/",
+        "https://atlanta.eater.com/2023/11/2/23939183/the-local-ponce-dive-bar-reopens-chicken-wings-atlanta",
+        "https://atlanta.capitalbnews.org/magic-city-chicken-wings/",
+        "https://www.atlantamagazine.com/oral-history-magic-city/",
+        "https://www.thrillist.com/venue/eat/atlanta/restaurants/the-original-jr-crickets",
+        "https://www.wsbtv.com/entertainment/things-2-do/why-everyone-loves-atlantas-lemon-pepper-wet-wings/703637174/",
+        "https://voyageatl.com/interview/meet-bradwick-malone-b-l-wings-doraville/",
+        "https://whatnow.com/atlanta/restaurants/trap-wingz-adding-two-locations-this-year/",
+        "https://www.theqgentleman.com/post/2022-01-terry-rico-create-the-bando-museum-style-restaurant-to-feed-and-inspire-forgotten-communities/",
+        "https://clayssportscafe.com/",
+        "https://www.foxbrosbbq.com/",
+        "https://www.atldistrict.com/the-holler/post/powered-by-bbq-pit-boss-in-hapeville/",
+        "https://creativeloafing.com/content-199158-ethnic-city---ethnic-city-nam-phuong",
+        "https://www.atlantamagazine.com/dining-news/eat-this-heirloom-market-bbqs-spicy-korean-pork-sandwich/",
+        "https://atlanta.eater.com/2021/8/17/22622243/heirloom-market-bbq-smyrna-jiyeon-lee-korean-barbecue-sides",
+        "https://patch.com/georgia/eastatlanta/a-new-twist-on-an-old-favorite",
+        "https://www.atlantamagazine.com/dining-news/jamals-buffalo-wings-reopening-new-larger-location/",
+        "https://www.atlantamagazine.com/dining-news/rukis-kitchen-brings-ethiopian-cuisine-and-lemon-pepper-wings/",
+        "https://americandeli.com/about",
+        "https://www.threedollarcafe.com/our-story/",
+        "https://firepitatl.com/",
+        "https://www.ajc.com/blog/atlanta-restaurants/beer-town-steinbeck-celebrates-decade-diverse-food-and-beer/sIuKb9UBoIopFQo4LBdOpL/",
+        "https://www.decaturga.com/community/page/2017-hometown-heroes",
+        "https://creativeloafing.com/content-232339-first-draft-with-donald-durant"
+      ],
+      "kind": "normalized-identities",
+      "sha256": "19cb67d2454998682b82a7fd13bee281ed4f2c1654c9c120b29406c68a4ebba1",
+      "bytes": 1250
+    },
+    {
+      "path": "data/2026-09-15/atl10/editorial-observations.csv",
+      "records": 19,
+      "description": "Editorial rank and inclusion records; Eater ordering is geographic, not a rank.",
+      "sources": [
+        "https://www.theinfatuation.com/atlanta/guides/the-best-wings-in-atlanta",
+        "https://atlanta.eater.com/maps/best-chicken-wings-atlanta"
+      ],
+      "kind": "observations",
+      "sha256": "dd7319dc228bb49dcddad6a5fba454945913480e46214c17c4acf6164078c2d0",
+      "bytes": 500
+    },
+    {
+      "path": "data/2026-09-15/atl10/review-observations.csv",
+      "records": 34,
+      "description": "Aggregate public restaurant ratings and counts as observed. These are whole-listing ratings and may include more than wing quality.",
+      "sources": [],
+      "kind": "observations",
+      "sha256": "c38058721c2490d175bcf1eefd62823e2fab466d8e6d2b93fe05e7b92ae7124c",
+      "bytes": 5581
+    },
+    {
+      "path": "data/2026-09-15/annotations/atl10-culture.csv",
+      "records": 19,
+      "description": "Documented-history coding and branch-association factors. Not an offline resident survey; neither item is an observed popularity score.",
+      "sources": [
+        "https://www.theinfatuation.com/atlanta/guides/the-best-wings-in-atlanta",
+        "https://atlanta.eater.com/maps/best-chicken-wings-atlanta",
+        "https://www.reddit.com/r/AtlantaEats/comments/1n7qjoy/favorite_wings/",
+        "https://www.reddit.com/r/Atlanta/comments/1qe59a5/who_has_the_best_wings/",
+        "https://www.atlantamagazine.com/dining-news/the-local-is-4ever/",
+        "https://atlanta.eater.com/2023/11/2/23939183/the-local-ponce-dive-bar-reopens-chicken-wings-atlanta",
+        "https://atlanta.capitalbnews.org/magic-city-chicken-wings/",
+        "https://www.atlantamagazine.com/oral-history-magic-city/",
+        "https://www.thrillist.com/venue/eat/atlanta/restaurants/the-original-jr-crickets",
+        "https://www.wsbtv.com/entertainment/things-2-do/why-everyone-loves-atlantas-lemon-pepper-wet-wings/703637174/",
+        "https://voyageatl.com/interview/meet-bradwick-malone-b-l-wings-doraville/",
+        "https://whatnow.com/atlanta/restaurants/trap-wingz-adding-two-locations-this-year/",
+        "https://www.theqgentleman.com/post/2022-01-terry-rico-create-the-bando-museum-style-restaurant-to-feed-and-inspire-forgotten-communities/",
+        "https://clayssportscafe.com/",
+        "https://www.foxbrosbbq.com/",
+        "https://www.atldistrict.com/the-holler/post/powered-by-bbq-pit-boss-in-hapeville/",
+        "https://creativeloafing.com/content-199158-ethnic-city---ethnic-city-nam-phuong",
+        "https://www.atlantamagazine.com/dining-news/eat-this-heirloom-market-bbqs-spicy-korean-pork-sandwich/",
+        "https://atlanta.eater.com/2021/8/17/22622243/heirloom-market-bbq-smyrna-jiyeon-lee-korean-barbecue-sides",
+        "https://patch.com/georgia/eastatlanta/a-new-twist-on-an-old-favorite",
+        "https://www.atlantamagazine.com/dining-news/jamals-buffalo-wings-reopening-new-larger-location/",
+        "https://www.atlantamagazine.com/dining-news/rukis-kitchen-brings-ethiopian-cuisine-and-lemon-pepper-wings/",
+        "https://americandeli.com/about",
+        "https://www.threedollarcafe.com/our-story/",
+        "https://firepitatl.com/",
+        "https://www.ajc.com/blog/atlanta-restaurants/beer-town-steinbeck-celebrates-decade-diverse-food-and-beer/sIuKb9UBoIopFQo4LBdOpL/",
+        "https://www.decaturga.com/community/page/2017-hometown-heroes",
+        "https://creativeloafing.com/content-232339-first-draft-with-donald-durant"
+      ],
+      "kind": "analyst-annotations",
+      "sha256": "c05224123e1a77cd5b2ed104a41815b2d4c73080460a8f090251ec3188323fcf",
+      "bytes": 1033
+    },
+    {
+      "path": "data/2026-09-15/atl10/reddit-coded-observations.json",
+      "records": 42,
+      "description": "42 coded discussion records; source-local participant IDs preserve deduplication. Usernames and comment text are excluded. A record may combine multiple comments by the same account.",
+      "sources": [
+        "https://www.reddit.com/r/AtlantaEats/comments/1n7qjoy/favorite_wings/",
+        "https://www.reddit.com/r/Atlanta/comments/1qe59a5/who_has_the_best_wings/"
+      ],
+      "kind": "coded-observations",
+      "sha256": "c814dd71f3df6232bd5aef3e7f1dd0d29be95fe94218ed8aced346615178f187",
+      "bytes": 8482
+    },
+    {
+      "path": "data/2026-09-15/atl10/sources.json",
+      "records": 28,
+      "description": "Editorial, public discussion and cultural-history source ledger; notes retain access and branch limitations.",
+      "sources": [
+        "https://www.theinfatuation.com/atlanta/guides/the-best-wings-in-atlanta",
+        "https://atlanta.eater.com/maps/best-chicken-wings-atlanta",
+        "https://www.reddit.com/r/AtlantaEats/comments/1n7qjoy/favorite_wings/",
+        "https://www.reddit.com/r/Atlanta/comments/1qe59a5/who_has_the_best_wings/",
+        "https://www.atlantamagazine.com/dining-news/the-local-is-4ever/",
+        "https://atlanta.eater.com/2023/11/2/23939183/the-local-ponce-dive-bar-reopens-chicken-wings-atlanta",
+        "https://atlanta.capitalbnews.org/magic-city-chicken-wings/",
+        "https://www.atlantamagazine.com/oral-history-magic-city/",
+        "https://www.thrillist.com/venue/eat/atlanta/restaurants/the-original-jr-crickets",
+        "https://www.wsbtv.com/entertainment/things-2-do/why-everyone-loves-atlantas-lemon-pepper-wet-wings/703637174/",
+        "https://voyageatl.com/interview/meet-bradwick-malone-b-l-wings-doraville/",
+        "https://whatnow.com/atlanta/restaurants/trap-wingz-adding-two-locations-this-year/",
+        "https://www.theqgentleman.com/post/2022-01-terry-rico-create-the-bando-museum-style-restaurant-to-feed-and-inspire-forgotten-communities/",
+        "https://clayssportscafe.com/",
+        "https://www.foxbrosbbq.com/",
+        "https://www.atldistrict.com/the-holler/post/powered-by-bbq-pit-boss-in-hapeville/",
+        "https://creativeloafing.com/content-199158-ethnic-city---ethnic-city-nam-phuong",
+        "https://www.atlantamagazine.com/dining-news/eat-this-heirloom-market-bbqs-spicy-korean-pork-sandwich/",
+        "https://atlanta.eater.com/2021/8/17/22622243/heirloom-market-bbq-smyrna-jiyeon-lee-korean-barbecue-sides",
+        "https://patch.com/georgia/eastatlanta/a-new-twist-on-an-old-favorite",
+        "https://www.atlantamagazine.com/dining-news/jamals-buffalo-wings-reopening-new-larger-location/",
+        "https://www.atlantamagazine.com/dining-news/rukis-kitchen-brings-ethiopian-cuisine-and-lemon-pepper-wings/",
+        "https://americandeli.com/about",
+        "https://www.threedollarcafe.com/our-story/",
+        "https://firepitatl.com/",
+        "https://www.ajc.com/blog/atlanta-restaurants/beer-town-steinbeck-celebrates-decade-diverse-food-and-beer/sIuKb9UBoIopFQo4LBdOpL/",
+        "https://www.decaturga.com/community/page/2017-hometown-heroes",
+        "https://creativeloafing.com/content-232339-first-draft-with-donald-durant"
+      ],
+      "kind": "provenance",
+      "sha256": "c9805f042debf61aa19c3c5bd1cdad2fa91822b0431130ac8094dc466f2656ba",
+      "bytes": 8163
+    },
+    {
+      "path": "data/2026-09-15/atl10/unscored-sources.json",
+      "records": null,
+      "description": "Unscored or incomplete source records retained for further collection. Local nominations are inputs, not bonus points.",
+      "sources": [],
+      "kind": "provenance",
+      "sha256": "f526dca1f2b0c6f7caaba330e32879688f437d9837d585e11483e054f61d78a6",
+      "bytes": 1391
+    },
+    {
+      "path": "data/2026-09-15/atl10/social-observations.json",
+      "records": 76,
+      "description": "76 query records with accepted links, retained audit decisions, timestamps where available and batch IDs. Observed zero and blocked are distinct.",
+      "sources": [],
+      "kind": "observations",
+      "sha256": "d7499d3d6b8d396ac0e73effa1df74b7b98c493447bba54f4a62034c8dad9140",
+      "bytes": 71669
+    },
+    {
+      "path": "data/2026-09-15/atl10/social-source.json",
+      "records": null,
+      "description": "Collection conditions and audit trail. Four-channel coverage is incomplete; this is a first-five findability sample, not total audience or search volume.",
+      "sources": [],
+      "kind": "provenance",
+      "sha256": "c4db98ca7e6929c8b41492f0bf4e94c4d9a376a530d90a93c68823d5365f2ffa",
+      "bytes": 4112
+    },
+    {
+      "path": "data/2026-09-15/atl10/keyword-observations.csv",
+      "records": 50,
+      "description": "50 supplied keyword averages, including 39 reported numbers and 11 missing values. Original spelling is retained; aliases are not summed.",
+      "sources": [
+        "https://ads.google.com/home/tools/keyword-planner/"
+      ],
+      "kind": "observations",
+      "sha256": "1d8292fbf1f35d0db87463388ef6617305bcae870f77876d9f76fd879c2b27e6",
+      "bytes": 1642
+    },
+    {
+      "path": "data/2026-09-15/atl10/keyword-source.json",
+      "records": null,
+      "description": "National US search averages for September 2025–August 2026, used as supplied. No monthly series or geographic correction is inferred.",
+      "sources": [
+        "https://ads.google.com/home/tools/keyword-planner/"
+      ],
+      "kind": "provenance",
+      "sha256": "789c9d4fbeee5749d35d6ba0c55535f804d530df6fec87d084d81bfbede72516",
+      "bytes": 602
+    }
+  ]
+}

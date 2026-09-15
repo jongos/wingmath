@@ -1,0 +1,90 @@
+id,sourceRow,rank,rankText,name,state,region,total,videoOrder,wingsEaten,jonId,matchNote,videoUrl,appearance,meatiness,texture,sauce,experience
+sam-row-2,2,1,1,The Local,GA,Southeast Atlantic,47.5,17,10,wing-33,Reviewed name/alias + state association to Jon's seed. Exact branch not established by this sheet; blend is provisional.,https://youtu.be/h6Uv-KjfAxI,9.5,10,8.5,9.5,10
+sam-row-3,3,2,2,Bar Bill,NY,New York,47.25,80,10,wing-1,Reviewed name/alias + state association to Jon's seed. Exact branch not established by this sheet; blend is provisional.,,9.5,9,9.25,9.5,10
+sam-row-4,4,3,3,Weitzel's Wings (aka Double Dubs),WY,Rocky Mountains,47.25,48,21,wing-11,Reviewed name/alias + state association to Jon's seed. Exact branch not established by this sheet; blend is provisional.,https://youtu.be/cTH6Xo76UZo,9.75,8,9.75,10,9.75
+sam-row-5,5,4,4,Nine Eleven,NY,New York,46.75,87,10,,,,9.5,9,9.5,9.25,9.5
+sam-row-6,6,5,5,Kelly's Korner,NY,New York,46.5,77,10,,,,9.5,8.75,9.5,9.5,9.25
+sam-row-7,7,6,6,Dirty Birds,CA,Southwest,46.25,35,10,,,https://youtu.be/_UUMeSr5Lo0,9.5,9,9.75,8.5,9.5
+sam-row-8,8,7,7,Elmo's,NY,New York,46.25,76,10,,,,9.25,8.75,9.5,9,9.75
+sam-row-9,9,8,8,J. Timothy's Taverne,CT,New England,45.5,7,12,wing-2,Reviewed name/alias + state association to Jon's seed. Exact branch not established by this sheet; blend is provisional.,https://youtu.be/uVXVO8GVMvc,9,8.5,9,9.5,9.5
+sam-row-10,10,9,9,Sonny Red's,NY,New York,45.5,84,11,,,,10,8.5,7.75,9.75,9.5
+sam-row-11,11,10,10,Wingnutz,NY,New York,45.5,78,9,wing-44,Reviewed name/alias + state association to Jon's seed. Exact branch not established by this sheet; blend is provisional.,,9.25,9.5,9,8.75,9
+sam-row-12,12,11,11,Ching's Hot Wings,TN,Southeast Central,45.25,24,10,,,https://youtu.be/7U-TqhoFpIY,8.5,8.5,9.75,9,9.5
+sam-row-13,13,12,12,Vindicktive Wings,WA,PNW / Non Contiguous,44.75,40,20,wing-7,Reviewed name/alias + state association to Jon's seed. Exact branch not established by this sheet; blend is provisional.,,9,7.5,9.5,9.25,9.5
+sam-row-14,14,13,13,Everett's,NE,Midwest / Great Plains,44.75,54,10,,,,9.25,9,9,8.25,9.25
+sam-row-15,15,14,14,Doc Sullivan's,NY,New York,44.75,82,10,,,,9,9,8.75,9,9
+sam-row-16,16,15,15,Runyon's,MN,Midwest / Great Plains,44.5,53,10,,,,9,9,9,8.25,9.25
+sam-row-17,17,16,16,Legend Larry's,WI,Midwest / Great Lakes,44.5,61,12,wing-31,Reviewed name/alias + state association to Jon's seed. Exact branch not established by this sheet; blend is provisional.,,9,8.75,9.5,8.25,9
+sam-row-18,18,17,17,The Dirty Buffalo,VA,Mid Atlantic,44.5,15,10,,,https://youtu.be/WajP4ef5rJU,8.5,9,9,9,9
+sam-row-19,19,18,18,Long Wong's,AZ,Southwest,44.5,33,12,,,https://youtu.be/_UUMeSr5Lo0,8.5,7.75,9.5,9,9.75
+sam-row-20,20,19,19,Wayne's Wings,TX,South Central,44.5,29,10,,,https://youtu.be/TeLZalVu8k0,8,10,9,8.5,9
+sam-row-21,21,20,20,The Peanut on Main,MO,Midwest / Great Plains,44.5,59,6,wing-5,Reviewed name/alias + state association to Jon's seed. Exact branch not established by this sheet; blend is provisional.,,9,10,8.75,8.25,8.5
+sam-row-22,22,21,21,La Nova,NY,New York,44.5,86,10,,,,9,8.75,8.5,8.75,9.5
+sam-row-23,23,22,22,Jim's Wings,CO,Rocky Mountains,44.25,45,10,,,https://youtu.be/cTH6Xo76UZo,8.25,7.75,9.5,9.25,9.5
+sam-row-24,24,23,23,KOK,LA,South Central,44.25,28,10,,,https://youtu.be/TeLZalVu8k0,9,8.5,9,9,8.75
+sam-row-25,25,24,24,Brother Z's Wang Shack,TN,Southeast Central,44.25,23,13,,,https://youtu.be/7U-TqhoFpIY,9.5,9,8.25,8.5,9
+sam-row-26,26,25,25,Adolf's First Ward,NY,New York,44.25,85,10,,,,9,8.5,9.5,8.25,9
+sam-row-27,27,26,26,Duff's,NY,New York,44.25,69,10,,,,9,8.75,8.75,8.75,9
+sam-row-28,28,27,27,Pluckers,TX,South Central,44.25,30,15,,,https://youtu.be/TeLZalVu8k0,9,8.5,9,8.5,9.25
+sam-row-29,29,28,28,Anchor Bar,NY,New York,44,68,10,,,,9.5,8.5,9,8,9
+sam-row-30,30,29,29,San Tung,CA,Southwest,44,37,12,,,https://youtu.be/_UUMeSr5Lo0,8.75,8,9.25,9,9
+sam-row-31,31,30,30,Stark House Tavern,NH,New England,44,5,15,wing-19,Reviewed name/alias + state association to Jon's seed. Exact branch not established by this sheet; blend is provisional.,https://youtu.be/uVXVO8GVMvc,9,8.5,9,8.5,9
+sam-row-32,32,31,31,Q39,KS,Midwest / Great Plains,44,57,6,,,,9,9,8,9,9
+sam-row-33,33,32,32,Chick'n Headz,AR,South Central,44,,11,,,https://youtu.be/TeLZalVu8k0,9,8,9,9,9
+sam-row-34,34,33,33,Willy's Ale Room,ME,New England,44,4,2,,,https://youtu.be/uVXVO8GVMvc,9,9,8,9,9
+sam-row-35,35,34,34,Sweetwater Tavern,MI,Midwest / Great Lakes,44,64,10,,,,9,8.25,8.5,9.5,8.75
+sam-row-36,36,35,35,Pic-a-Lilli Inn,NJ,Mid Atlantic,44,12,12,,,https://youtu.be/WajP4ef5rJU,8.5,9,9,8.5,9
+sam-row-37,37,36,36,Odis 12,PA,Mid Atlantic,43.75,13,12,,,https://youtu.be/WajP4ef5rJU,9,9,8,8.75,9
+sam-row-38,38,37,37,Domu,FL,Southeast Atlantic,43.75,16,12,,,https://youtu.be/h6Uv-KjfAxI,9,9.75,8,8,9
+sam-row-39,39,38,38,Rooster's,OH,Midwest / Great Lakes,43.75,65,10,,,,8.25,10,9,8.5,8
+sam-row-40,40,39,39,Drover's Inn,WV,Mid Atlantic,43.5,14,11,,,https://youtu.be/WajP4ef5rJU,8,8.5,9.5,8.5,9
+sam-row-41,41,40,40,Parrot's Cay,ND,Midwest / Great Plains,43.25,50,18,wing-41,Reviewed name/alias + state association to Jon's seed. Exact branch not established by this sheet; blend is provisional.,,8.25,8,8.75,9.25,9
+sam-row-42,42,41,41,CD's Wings,CO,Rocky Mountains,43.25,44,10,,,https://youtu.be/cTH6Xo76UZo,8,8,8.75,9.5,9
+sam-row-43,43,42,42,Chicken Licks,WI,Midwest / Great Lakes,43,60,21,,,,8.75,7.75,8.25,9,9.25
+sam-row-44,44,43,43,Moosehead,NC,Southeast Atlantic,43,21,15,wing-28,Reviewed name/alias + state association to Jon's seed. Exact branch not established by this sheet; blend is provisional.,https://youtu.be/h6Uv-KjfAxI,8.5,9,8,8.5,9
+sam-row-45,45,44,44,Wing Supreme OKC,OK,South Central,43,31,25,wing-32,Reviewed name/alias + state association to Jon's seed. Exact branch not established by this sheet; blend is provisional.,https://youtu.be/TeLZalVu8k0,9,6.75,9.25,8.5,9.5
+sam-row-46,46,45,45,Candlelight Inn,NY,New York,43,72,10,,,,8.75,10,8.25,7.5,8.5
+sam-row-47,47,46,46,Baumhower's Victory Grille,AL,Southeast Central,43,26,12,,,https://youtu.be/7U-TqhoFpIY,9,8,9,8.5,8.5
+sam-row-48,48,47,47,Trolley Wing Co,UT,Rocky Mountains,43,46,12,,,https://youtu.be/cTH6Xo76UZo,8.25,8.5,8.5,8.75,9
+sam-row-49,49,48,48,Knockback Nat's,OH,Midwest / Great Lakes,42.75,66,12,,,,8.75,8.25,8.5,8,9.25
+sam-row-50,50,49,49,Circus Bar & Grill,SD,Midwest / Great Plains,42.75,51,14,,,,9,8.75,8,8.5,8.5
+sam-row-51,51,50,50,Off the Wall,HI,PNW / Non Contiguous,42.75,41,7,,,,9,9,7.5,8.5,8.75
+sam-row-52,52,51,51,Mammoser's,NY,New York,42.75,81,10,,,,8.75,8.5,8.75,8.25,8.5
+sam-row-53,53,52,52,Frank's Famous Chicken and Waffles,NM,Southwest,42.75,32,12,,,https://youtu.be/_UUMeSr5Lo0,8,9,7,9.75,9
+sam-row-54,54,53,53,Windjammer's,NY,New York,42.75,75,13,,,,9,8.5,8.5,8.75,8
+sam-row-55,55,54,54,iBar,MD,Mid Atlantic,42.5,10,16,,,https://youtu.be/WajP4ef5rJU,8.5,8,7.5,9.5,9
+sam-row-56,56,55,55,D-Spot,MN,Midwest / Great Plains,42.5,52,13,wing-49,Reviewed name/alias + state association to Jon's seed. Exact branch not established by this sheet; blend is provisional.,,8.75,8.25,7.5,8.75,9.25
+sam-row-57,57,56,56,Dan and John's,NY,New York,42.5,71,10,,,,8.75,8.5,8.5,8.25,8.5
+sam-row-58,58,57,57,Local Cue,SC,Southeast Atlantic,42.5,20,10,wing-43,Reviewed name/alias + state association to Jon's seed. Exact branch not established by this sheet; blend is provisional.,https://youtu.be/h6Uv-KjfAxI,8.5,9.5,8.5,8,8
+sam-row-59,59,58,58,Gabriel's Gate,NY,New York,42.25,83,12,wing-8,Reviewed name/alias + state association to Jon's seed. Exact branch not established by this sheet; blend is provisional.,,9,8.5,7.75,8.5,8.5
+sam-row-60,60,59,59,Fire on the Mountain,OR,PNW / Non Contiguous,42.25,39,9,wing-24,Reviewed name/alias + state association to Jon's seed. Exact branch not established by this sheet; blend is provisional.,,8.5,7.5,9.25,8.5,8.5
+sam-row-61,61,60,60,KoChix,DC,Mid Atlantic,42,9,10,,,https://youtu.be/WajP4ef5rJU,7.5,9.5,8,8.5,8.5
+sam-row-62,62,61,61,Desperado,MT,Rocky Mountains,42,49,12,wing-27,Reviewed name/alias + state association to Jon's seed. Exact branch not established by this sheet; blend is provisional.,https://youtu.be/cTH6Xo76UZo,8.5,9.25,7.5,8.25,8.5
+sam-row-63,63,62,62,Old Union Hotel,NY,New York,42,74,10,,,,8.5,9,8.5,7.75,8.25
+sam-row-64,64,63,63,Fox Bros,GA,Southeast Atlantic,42,18,4,,,https://youtu.be/h6Uv-KjfAxI,9,9,8,7.5,8.5
+sam-row-65,65,64,64,Lisa G's,NY,New York,42,73,5,,,,9,9,8,7.5,8.5
+sam-row-66,66,65,65,Bird Box,CA,Southwest,42,36,8,,,https://youtu.be/_UUMeSr5Lo0,9,8,9,7.5,8.5
+sam-row-67,67,66,66,Ale Emporium,IN,Midwest / Great Lakes,42,63,12,wing-25,Reviewed name/alias + state association to Jon's seed. Exact branch not established by this sheet; blend is provisional.,,8.5,8,8,8.5,9
+sam-row-68,68,67,67,Winky's,AK,PNW / Non Contiguous,41.75,43,22,wing-45,Reviewed name/alias + state association to Jon's seed. Exact branch not established by this sheet; blend is provisional.,,8.5,7,8.75,8.75,8.75
+sam-row-69,69,68,68,"Momma's Mustard, Pickles, & BBQ",KY,Southeast Central,41.75,22,10,wing-38,Reviewed name/alias + state association to Jon's seed. Exact branch not established by this sheet; blend is provisional.,https://youtu.be/7U-TqhoFpIY,8.5,9.5,7.5,7.75,8.5
+sam-row-70,70,69,69,Foghorn's,AR,South Central,41.75,27,12,,,https://youtu.be/TeLZalVu8k0,8.75,8,8,8.5,8.5
+sam-row-71,71,70,70,Q Bistro,NV,Southwest,41.75,34,10,,,https://youtu.be/_UUMeSr5Lo0,8.75,8,8,8.75,8.25
+sam-row-72,72,71,71,Han's Chimaek,ID,Rocky Mountains,41.75,47,12,,,https://youtu.be/cTH6Xo76UZo,8,10,8,8,7.75
+sam-row-73,73,72,72,Buffalo Joe's,IL,Midwest / Great Lakes,41.75,62,16,,,,8.25,6.75,8,9.25,9.5
+sam-row-74,74,73,73,Blondie's,NY,New York,41.75,70,10,,,,8,8.5,8.5,8.25,8.5
+sam-row-75,75,74,74,Good Chicken,HI,PNW / Non Contiguous,41.5,42,10,,,,8.5,9.25,7.25,8,8.5
+sam-row-76,76,75,75,Buffalo Wild Wings,NY,New York,41.5,67,7,,,,8.75,8,7.5,8.75,8.5
+sam-row-77,77,76,76,Valley View Saloon,VT,New England,41.5,6,6,,,https://youtu.be/uVXVO8GVMvc,8,9,9,7.5,8
+sam-row-78,78,77,77,Fairley's,MS,Southeast Central,40.75,25,12,,,https://youtu.be/7U-TqhoFpIY,8.5,7.5,8.5,8,8.25
+sam-row-79,79,78,78,Jamal's,GA,Southeast Atlantic,40.5,19,2,,,https://youtu.be/h6Uv-KjfAxI,8,7.5,8,8.5,8.5
+sam-row-80,80,79,79,Glen Park Tavern,NY,New York,40,79,8,,,,7.75,8,8.25,8,8
+sam-row-81,81,80,80,Gerri's,IA,Midwest / Great Plains,39.75,56,8,,,,7.75,8,9,7.25,7.75
+sam-row-82,82,81,81,Great Northern BBQ,RI,New England,39.5,3,8,,,https://youtu.be/uVXVO8GVMvc,9.5,9.5,7,6.5,7
+sam-row-83,83,82,82,Jefferson's,KS,Midwest / Great Plains,39,58,5,,,,7.75,8.25,7.5,8,7.5
+sam-row-84,84,83,83,Oscar's,NE,Midwest / Great Plains,38.75,55,10,wing-40,Reviewed name/alias + state association to Jon's seed. Exact branch not established by this sheet; blend is provisional.,,8.25,8,8,7,7.5
+sam-row-85,85,84,84,Quaker Steak and Lube,VA,None,38,1,10,,,,7,8,8.5,6.5,8
+sam-row-86,86,85,85,America's Best,VA,Mid Atlantic,37.5,8,15,,,https://youtu.be/WajP4ef5rJU,8,7.5,7,7.5,7.5
+sam-row-87,87,86,86,Wendell's Pub,MA,New England,37,2,10,,,https://youtu.be/uVXVO8GVMvc,8,6.5,7,7.5,8
+sam-row-88,88,87,87,Express Wings and Pizzeria,DE,Mid Atlantic,37,11,5,,,https://youtu.be/WajP4ef5rJU,7,7,8,7.5,7.5
+sam-row-89,89,,N/A,D&N Wings,CA,Southwest,,38,6,,,https://youtu.be/_UUMeSr5Lo0,,,,,
+sam-row-90,90,,N/A,The Local (again),GA,Southeast Atlantic,,88,11,,,https://youtu.be/h6Uv-KjfAxI,,,,,

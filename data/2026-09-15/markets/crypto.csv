@@ -1,0 +1,26 @@
+id,name,symbol,rank,price,marketCap,change,changePercent,quoteAt,source
+bitcoin,Bitcoin,BTC,1,76175,1530018146780,-2639.4338779879326,-3.3553,2026-09-15T17:11:50.000Z,https://www.coingecko.com/en/coins/bitcoin
+ethereum,Ethereum,ETH,2,2412.7,294392256701,-118.69504095859293,-4.70983,2026-09-15T17:11:50.000Z,https://www.coingecko.com/en/coins/ethereum
+tether,Tether,USDT,3,0.999486,183336299728,-0.000346490405372823,-0.03563,2026-09-15T17:11:50.000Z,https://www.coingecko.com/en/coins/tether
+binancecoin,BNB,BNB,4,717.37,95524339030,-7.408472270086236,-1.03429,2026-09-15T17:11:50.000Z,https://www.coingecko.com/en/coins/binancecoin
+ripple,XRP,XRP,5,1.38,86902462673,-0.03889573311746197,-2.66973,2026-09-15T17:11:50.000Z,https://www.coingecko.com/en/coins/ripple
+usd-coin,USDC,USDC,6,0.999735,73979526563,-0.000137496721208219,-0.01462,2026-09-15T17:11:50.000Z,https://www.coingecko.com/en/coins/usd-coin
+solana,Solana,SOL,7,98.8,57967560130,-4.035677054757343,-3.95846,2026-09-15T17:11:50.000Z,https://www.coingecko.com/en/coins/solana
+tron,TRON,TRX,8,0.334434,31761672592,-0.00668000702891336,-1.93452,2026-09-15T17:11:50.000Z,https://www.coingecko.com/en/coins/tron
+figure-heloc,Figure Heloc,FIGR_HELOC,9,1.046,23662005713,0.03508133,3.47163,2026-09-15T17:11:50.000Z,https://www.coingecko.com/en/coins/figure-heloc
+zcash,Zcash,ZEC,10,1110.15,18794087636,-30.597726240753445,-2.77604,2026-09-15T17:11:50.000Z,https://www.coingecko.com/en/coins/zcash
+hyperliquid,Hyperliquid,HYPE,11,76.55,17013652293,-4.110825970755485,-5.0859,2026-09-15T17:11:50.000Z,https://www.coingecko.com/en/coins/hyperliquid
+dogecoin,Dogecoin,DOGE,12,0.081262,12669911204,-0.00330671701460622,-3.93838,2026-09-15T17:11:50.000Z,https://www.coingecko.com/en/coins/dogecoin
+usds,USDS,USDS,13,0.999556,9814140066,-0.000248348766745843,-0.03107,2026-09-15T17:11:50.000Z,https://www.coingecko.com/en/coins/usds
+rain,Rain,RAIN,14,0.01374152,9736755956,-0.000594629849872304,-4.16083,2026-09-15T17:11:50.000Z,https://www.coingecko.com/en/coins/rain
+monero,Monero,XMR,15,510.22,9603587062,-5.116446193669958,-1.16217,2026-09-15T17:11:50.000Z,https://www.coingecko.com/en/coins/monero
+whitebit,WhiteBIT Coin,WBT,16,78.52,9254923031,-2.903760375181264,-3.70513,2026-09-15T17:11:50.000Z,https://www.coingecko.com/en/coins/whitebit
+chainlink,Chainlink,LINK,17,11.21,8384976131,-0.3005276133766479,-2.64911,2026-09-15T17:11:50.000Z,https://www.coingecko.com/en/coins/chainlink
+leo-token,LEO Token,LEO,18,8.9,8188057278,-0.08794405833163843,-0.97794,2026-09-15T17:11:50.000Z,https://www.coingecko.com/en/coins/leo-token
+cardano,Cardano,ADA,19,0.201049,7543853117,-0.010250631155566348,-4.84756,2026-09-15T17:11:50.000Z,https://www.coingecko.com/en/coins/cardano
+stellar,Stellar,XLM,20,0.189319,6594201642,-0.006050218013392616,-3.12689,2026-09-15T17:11:50.000Z,https://www.coingecko.com/en/coins/stellar
+ethena-usde,Ethena USDe,USDE,21,0.999293,4705354033,-0.000487534739329942,-0.04951,2026-09-15T17:11:50.000Z,https://www.coingecko.com/en/coins/ethena-usde
+dai,Dai,DAI,22,1.0,4584947124,0.00016662,0.00962,2026-09-15T17:11:50.000Z,https://www.coingecko.com/en/coins/dai
+bitcoin-cash,Bitcoin Cash,BCH,23,220.63,4433758514,-4.708917139096172,-2.12838,2026-09-15T17:11:50.000Z,https://www.coingecko.com/en/coins/bitcoin-cash
+usd1-wlfi,USD1,USD1,24,0.999354,4343738243,-0.00043345614371737,-0.04453,2026-09-15T17:11:50.000Z,https://www.coingecko.com/en/coins/usd1-wlfi
+litecoin,Litecoin,LTC,25,51.64,4009134652,-2.5216810170222743,-4.64692,2026-09-15T17:11:50.000Z,https://www.coingecko.com/en/coins/litecoin

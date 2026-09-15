@@ -1,0 +1,35 @@
+restaurantId,platform,stars,reviewCount,observedAt,sourceUrls,retrievalKind
+local,google,4.5,1228,2026-09-15,"[""https://www.google.com/maps/place/The+Local/data=!4m2!3m1!1s0x0:0xdb613cacc8507e91?sa=X&ved=1t:2428&ictx=111""]",Google listing snapshot
+local,yelp,4,462,2026-09-15,"[""https://www.yelp.com/biz/the-local-atlanta""]",Indexed Yelp snapshot; full live page unavailable
+magic,google,4.4,260,2026-09-15,"[""https://www.google.com/maps/place/Magic+City+Kitchen/data=!4m2!3m1!1s0x0:0x1a3bd6c89dc0d027?sa=X&ved=1t:2428&ictx=111""]",Google listing snapshot
+magic,yelp,3.9,62,2026-09-15,"[""https://www.yelp.com/biz/magic-city-kitchen-atlanta""]",Indexed Yelp snapshot; full live page unavailable
+bl,google,4.3,305,2026-09-15,"[""https://www.google.com/maps/place/B+%26+L+Wings+(Pick+Up+and+Go+Only)/data=!4m2!3m1!1s0x0:0x3dd0594d68af7d7b?sa=X&ved=1t:2428&ictx=111""]",Google listing snapshot
+bl,yelp,4.3,134,2026-09-15,"[""https://www.yelp.com/biz/b-and-l-wings-atlanta""]",Indexed Yelp snapshot; full live page unavailable
+trap,google,4.3,86,2026-09-15,"[""https://www.google.com/maps/place/Trap+Wingz+MLK/data=!4m2!3m1!1s0x0:0x725ec588a5d38de1?sa=X&ved=1t:2428&ictx=111""]",Google listing snapshot
+jr,google,3.9,4224,2026-09-15,"[""https://www.google.com/maps/place/The+Original+J.R.+Crickets+in+Midtown+Atlanta/data=!4m2!3m1!1s0x0:0xad1b3c8802b1c510?sa=X&ved=1t:2428&ictx=111""]",Google listing snapshot
+jr,yelp,3.2,534,2026-09-15,"[""https://www.yelp.com/biz/the-original-j-r-crickets-in-midtown-atlanta-atlanta""]",Indexed Yelp snapshot; full live page unavailable
+bando,google,4.3,1798,2026-09-15,"[""https://www.google.com/maps/place/The+Bando/data=!4m2!3m1!1s0x0:0xdb315eab69bd6444?sa=X&ved=1t:2428&ictx=111""]",Google listing snapshot
+bando,yelp,3.8,274,2026-09-15,"[""https://www.yelp.com/biz/the-bando-atlanta""]",Indexed Yelp snapshot; full live page unavailable
+clay,google,4.6,1112,2026-09-15,"[""https://www.google.com/maps/place/Clay's+Sports+Cafe/data=!4m2!3m1!1s0x0:0xccb21b85b7ffcdc6?sa=X&ved=1t:2428&ictx=111""]",Google listing snapshot
+clay,yelp,4.3,303,2026-09-15,"[""https://www.yelp.com/biz/clays-sports-cafe-sandy-springs-3""]",Indexed Yelp snapshot; full live page unavailable
+fox,google,4.5,10184,2026-09-15,"[""https://www.google.com/maps/place/Fox+Bros+Bar-B-Q/data=!4m2!3m1!1s0x0:0x31ca1311b3121719?sa=X&ved=1t:2428&ictx=111""]",Google listing snapshot
+fox,yelp,4.3,5058,2026-09-15,"[""https://www.yelp.com/biz/fox-bros-bar-b-q-atlanta""]",Indexed Yelp snapshot; full live page unavailable
+pit,google,4.3,4360,2026-09-15,"[""https://www.google.com/maps/place/Pit+Boss+BBQ/data=!4m2!3m1!1s0x0:0xc71025d9649a3938?sa=X&ved=1t:2428&ictx=111""]",Google listing snapshot
+pit,yelp,4,1067,2026-09-15,"[""https://www.yelp.com/biz/pit-boss-bbq-hapeville""]",Indexed Yelp snapshot; full live page unavailable
+nam,google,4.5,2201,2026-09-15,"[""https://www.google.com/maps/place/Nam+Phuong+Michelin/data=!4m2!3m1!1s0x0:0xbf2aaf50f9f7736c?sa=X&ved=1t:2428&ictx=111""]",Google listing snapshot
+nam,yelp,4.1,880,2026-09-15,"[""https://www.yelp.com/biz/nam-phuong-atlanta""]",Indexed Yelp snapshot; full live page unavailable
+heir,google,4.7,3212,2026-09-15,"[""https://www.google.com/maps/place/Heirloom+Market+BBQ/data=!4m2!3m1!1s0x0:0x3c698e8fff9e8413?sa=X&ved=1t:2428&ictx=111""]",Google listing snapshot
+heir,yelp,4.4,2097,2026-09-15,"[""https://www.yelp.com/biz/heirloom-market-bbq-atlanta""]",Indexed Yelp snapshot; full live page unavailable
+sweet,google,4.6,2981,2026-09-15,"[""https://www.google.com/maps/place/Sweet+Auburn+BBQ/data=!4m2!3m1!1s0x0:0xa69e0f22dd3cb7be?sa=X&ved=1t:2428&ictx=111""]",Google listing snapshot
+sweet,yelp,4.1,903,2026-09-15,"[""https://www.yelp.com/biz/sweet-auburn-bbq-atlanta-3""]",Indexed Yelp snapshot; full live page unavailable
+jamal,google,4.1,383,2026-09-15,"[""https://www.google.com/maps/place/Jamal's+Buffalo+Wings/data=!4m2!3m1!1s0x0:0xcaca3f2d273d9d39?sa=X&ved=1t:2428&ictx=111""]",Google listing snapshot
+jamal,yelp,3.9,128,2026-09-15,"[""https://www.yelp.com/biz/jamals-buffalo-wings-atlanta""]",Indexed Yelp snapshot; full live page unavailable
+ruki,google,5,270,2026-09-15,"[""https://www.google.com/maps/place/Ruki%E2%80%99s+Kitchen/data=!4m2!3m1!1s0x0:0x6c8d9abd9616f1bd?sa=X&ved=1t:2428&ictx=111""]",Google listing snapshot
+ruki,yelp,4.9,63,2026-09-15,"[""https://www.yelp.com/biz/rukis-kitchen-atlanta-2""]",Indexed Yelp snapshot; full live page unavailable
+three,google,4.1,945,2026-09-15,"[""https://www.google.com/maps/place/Three+Dollar+Cafe+Buckhead+(Chastain)/data=!4m2!3m1!1s0x0:0xbabdc3d5c6a2b08c?sa=X&ved=1t:2428&ictx=111""]",Google listing snapshot
+fire,google,4.5,1271,2026-09-15,"[""https://www.google.com/maps/place/Firepit+Pizza+Tavern/data=!4m2!3m1!1s0x0:0x7bef6dc15d1233b4?sa=X&ved=1t:2428&ictx=111""]",Google listing snapshot
+fire,yelp,4.2,321,2026-09-15,"[""https://www.yelp.com/biz/firepit-pizza-tavern-atlanta-3""]",Indexed Yelp snapshot; full live page unavailable
+stein,google,4.6,527,2026-09-15,"[""https://www.google.com/maps/place/Steinbeck's/data=!4m2!3m1!1s0x0:0x7bd2f2930ff3c3c?sa=X&ved=1t:2428&ictx=111""]",Google listing snapshot
+stein,yelp,4.2,203,2026-09-15,"[""https://www.yelp.com/biz/steinbecks-ale-house-decatur-3""]",Indexed Yelp snapshot; full live page unavailable
+argosy,google,4.5,2575,2026-09-15,"[""https://www.google.com/maps/place/Argosy/data=!4m2!3m1!1s0x0:0xc56b75c9f0531748?sa=X&ved=1t:2428&ictx=111""]",Google listing snapshot
+argosy,yelp,3.8,784,2026-09-15,"[""https://www.yelp.com/biz/argosy-atlanta""]",Indexed Yelp snapshot; full live page unavailable

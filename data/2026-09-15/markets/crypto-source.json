@@ -1,0 +1,8 @@
+{
+  "id": "coingecko-top25-2026-09-15T17:15:24.340312Z",
+  "retrievedAt": "2026-09-15T17:15:24.340312Z",
+  "source": "https://www.coingecko.com/",
+  "sourceApi": "https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=25&page=1&sparkline=false",
+  "provider": "CoinGecko",
+  "ranking": "Top 25 source-listed crypto assets by circulating market capitalization; includes stablecoins and tokenized assets."
+}

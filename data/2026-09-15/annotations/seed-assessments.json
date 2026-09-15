@@ -1,0 +1,783 @@
+[
+  {
+    "id": "wing-1",
+    "features": {
+      "crisp": 75,
+      "juicy": 75,
+      "heat": 75,
+      "acclaim": 75
+    },
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "The prior national narrative describes crisp skin, juicy meat and meaningful heat; editorial acclaim was reported.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-2",
+    "features": {
+      "crisp": 75,
+      "style": 0,
+      "acclaim": 75
+    },
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "The prior narrative reports a double-fried Buffalo preparation and independent acclaim.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-3",
+    "features": {
+      "crisp": 75,
+      "juicy": 75,
+      "acclaim": 75
+    },
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "The prior narrative describes juicy meat, crisp skin and careful sauce application.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-4",
+    "features": {
+      "crisp": 75,
+      "heat": 75,
+      "acclaim": 75
+    },
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "The prior narrative describes recurring crispness and spice praise.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-5",
+    "features": {
+      "crisp": 75,
+      "meaty": 100,
+      "heat": 75,
+      "style": 0
+    },
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "The prior narrative describes large whole wings, crisp frying and peppery Buffalo sauce.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-6",
+    "features": {
+      "crisp": 100,
+      "tangy": 75,
+      "savory": 75,
+      "heat": 75,
+      "style": 100
+    },
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "The prior narrative describes vinegar brining, a very crisp Korean-fried crust and savory, spicy sauces.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-7",
+    "features": {
+      "crisp": 75,
+      "style": 0
+    },
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "The prior narrative describes chilled Buffalo sauce applied to preserve crispness.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-8",
+    "features": {
+      "crisp": 75,
+      "juicy": 75,
+      "meaty": 75
+    },
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "The prior narrative describes large, crispy, juicy wings. Its historical public average is excluded: platform, count and location were not established.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-9",
+    "features": {
+      "heat": 75
+    },
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "Prior Wings 50 signal: Personal control. Qualitative seed description only; no raw review sample was retained.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-10",
+    "features": {},
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "Prior Wings 50 signal: Exceptional. Qualitative seed description only; no raw review sample was retained.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-11",
+    "features": {
+      "awards": 75
+    },
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "Prior Wings 50 signal: Competition monster. Qualitative seed description only; no raw review sample was retained.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-12",
+    "features": {
+      "awards": 75
+    },
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "Prior Wings 50 signal: 16 first places. Qualitative seed description only; no raw review sample was retained.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-13",
+    "features": {
+      "awards": 75
+    },
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "Prior Wings 50 signal: National awards. Qualitative seed description only; no raw review sample was retained.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-14",
+    "features": {},
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "Prior Wings 50 signal: Sleeper. Qualitative seed description only; no raw review sample was retained.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-15",
+    "features": {
+      "crisp": 75
+    },
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "Prior Wings 50 signal: Crunch signal. Qualitative seed description only; no raw review sample was retained.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-16",
+    "features": {
+      "crisp": 75
+    },
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "Prior Wings 50 signal: Crisp + sauced. Qualitative seed description only; no raw review sample was retained.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-17",
+    "features": {},
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "Prior Wings 50 signal: Lemon-pepper fit. Qualitative seed description only; no raw review sample was retained.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-18",
+    "features": {
+      "style": 0
+    },
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "Prior Wings 50 signal: Buffalo traditionalist. Qualitative seed description only; no raw review sample was retained.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-19",
+    "features": {
+      "style": 0
+    },
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "Prior Wings 50 signal: Buffalo-native validation. Qualitative seed description only; no raw review sample was retained.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-20",
+    "features": {
+      "crisp": 75,
+      "juicy": 75,
+      "meaty": 75,
+      "savory": 75,
+      "sweet": 0
+    },
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "The attached Atlanta article records one taster's descriptions of crisp, juicy, plump wings and savory lemon pepper without sweetness. These are observations, not universal preference labels.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-21",
+    "features": {
+      "meaty": 100,
+      "juicy": 75
+    },
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "Prior Wings 50 signal: Jumbo + juicy. Qualitative seed description only; no raw review sample was retained.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-22",
+    "features": {
+      "heat": 75
+    },
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "Prior Wings 50 signal: Heat + Cajun lemon. Qualitative seed description only; no raw review sample was retained.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-23",
+    "features": {
+      "awards": 75
+    },
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "Prior Wings 50 signal: Lemon pepper + awards. Qualitative seed description only; no raw review sample was retained.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-24",
+    "features": {
+      "awards": 75
+    },
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "Prior Wings 50 signal: Competition pedigree. Qualitative seed description only; no raw review sample was retained.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-25",
+    "features": {
+      "meaty": 100,
+      "crisp": 75
+    },
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "Prior Wings 50 signal: Jumbo + crispy. Qualitative seed description only; no raw review sample was retained.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-26",
+    "features": {},
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "Prior Wings 50 signal: Memphis fried execution. Qualitative seed description only; no raw review sample was retained.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-27",
+    "features": {},
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "Prior Wings 50 signal: Fresh + cooked to order. Qualitative seed description only; no raw review sample was retained.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-28",
+    "features": {},
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "Prior Wings 50 signal: Blackened/crust signal. Qualitative seed description only; no raw review sample was retained.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-29",
+    "features": {
+      "crisp": 100
+    },
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "Prior Wings 50 signal: Extreme crispness. Qualitative seed description only; no raw review sample was retained.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-30",
+    "features": {
+      "juicy": 75,
+      "crisp": 75
+    },
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "Prior Wings 50 signal: Juicy + crispy. Qualitative seed description only; no raw review sample was retained.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-31",
+    "features": {
+      "awards": 75
+    },
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "Prior Wings 50 signal: Massive award history. Qualitative seed description only; no raw review sample was retained.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-32",
+    "features": {
+      "style": 0
+    },
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "Prior Wings 50 signal: Buffalo lemon pepper. Qualitative seed description only; no raw review sample was retained.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-33",
+    "features": {
+      "crisp": 75,
+      "juicy": 75
+    },
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "The prior narrative describes a smoked-and-fried preparation with juicy meat and crisp skin.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-34",
+    "features": {
+      "style": 0
+    },
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "Prior Wings 50 signal: WNY-style. Qualitative seed description only; no raw review sample was retained.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-35",
+    "features": {
+      "juicy": 75,
+      "heat": 75,
+      "tangy": 75
+    },
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "The attached article records juicy wings with hot, tangy sauce. Its personal ordinal ranking is excluded from the new model.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-36",
+    "features": {},
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "Prior Wings 50 signal: Sauce breadth. Qualitative seed description only; no raw review sample was retained.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-37",
+    "features": {
+      "awards": 75
+    },
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "Prior Wings 50 signal: Lemon pepper + bracket win. Qualitative seed description only; no raw review sample was retained.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": {
+      "date": "2026-09-15",
+      "previousState": "NV",
+      "previousMarket": "Las Vegas, NV",
+      "reason": "Original Jon 50 location error; not from Sam Reid. Official restaurant lists Atlanta locations.",
+      "sourceUrl": "https://trapwingzusa.com/",
+      "scope": "Market correction only; no branch-level review transfer."
+    }
+  },
+  {
+    "id": "wing-38",
+    "features": {},
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "Prior Wings 50 signal: Smoke + flash fry. Qualitative seed description only; no raw review sample was retained.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-39",
+    "features": {
+      "crisp": 75,
+      "savory": 75,
+      "style": 100
+    },
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "Prior Wings 50 signal: Double-fried + umami. Qualitative seed description only; no raw review sample was retained.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-40",
+    "features": {},
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "Prior Wings 50 signal: Fry + grill finish. Qualitative seed description only; no raw review sample was retained.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-41",
+    "features": {
+      "heat": 75
+    },
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "Prior Wings 50 signal: Heat + cult following. Qualitative seed description only; no raw review sample was retained.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-42",
+    "features": {},
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "Prior Wings 50 signal: Fried + lemon pepper option. Qualitative seed description only; no raw review sample was retained.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-43",
+    "features": {
+      "meaty": 100,
+      "tangy": 75
+    },
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "Prior Wings 50 signal: Jumbo + tangy. Qualitative seed description only; no raw review sample was retained.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-44",
+    "features": {
+      "crisp": 75,
+      "juicy": 75,
+      "meaty": 100,
+      "sweet": 75,
+      "tangy": 75
+    },
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "The prior narrative describes large, crispy, juicy wings with sweet-and-tangy sauce. A separately checked editorial review describes very large wings and fruity sweetness.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [
+      {
+        "theme": "Traditional Buffalo style versus a distinctive, oversized wing",
+        "positive": "Fans praise the cooking, large portions and signature sauce.",
+        "negative": "Some commenters prefer a traditional Buffalo wing; one questions the size and value.",
+        "scope": "Anecdotal disagreement appears in two indexed Reddit threads. One size/value complaint; not an estimate of complaint frequency. Search excerpts were accessible; full threads could not be fetched. Branch matching remains unverified.",
+        "urls": [
+          "https://www.reddit.com/r/Wings/comments/1in46sl/",
+          "https://www.reddit.com/r/Wings/comments/1fjkd7h/"
+        ]
+      }
+    ],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-45",
+    "features": {},
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "Prior Wings 50 signal: Flavor breadth. Qualitative seed description only; no raw review sample was retained.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-46",
+    "features": {},
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "Prior Wings 50 signal: Salt-pepper alternative. Qualitative seed description only; no raw review sample was retained.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-47",
+    "features": {
+      "juicy": 75
+    },
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "Prior Wings 50 signal: Tender/smoked. Qualitative seed description only; no raw review sample was retained.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-48",
+    "features": {
+      "juicy": 75
+    },
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "Prior Wings 50 signal: Juicy but smoked. Qualitative seed description only; no raw review sample was retained.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-49",
+    "features": {
+      "style": 100
+    },
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "The prior narrative describes an unusually creative menu. Variety is not treated as a quality defect.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  },
+  {
+    "id": "wing-50",
+    "features": {
+      "sweet": 75,
+      "style": 100
+    },
+    "featureStatus": "model-coded provisional",
+    "evidenceNote": "The prior narrative reports a sweet preparation. Sweetness is an intensity, not an automatic penalty.",
+    "reviewSample": {
+      "count": null,
+      "platform": null,
+      "checked": null
+    },
+    "negativeThemes": [],
+    "locationCorrection": null
+  }
+]

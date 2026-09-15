@@ -1,0 +1,20 @@
+# Data and documentation only. Website/build/runtime files are not allowed.
+*
+!*/
+!.gitignore
+!README.md
+!LICENSE.md
+!DATA_DICTIONARY.md
+!CONTRIBUTING.md
+!manifest.json
+!data/**/*.csv
+!data/**/*.json
+.git/
+node_modules/
+dist/
+server/
+.openai/
+.env*
+*.sqlite
+*.sqlite3
+*.db

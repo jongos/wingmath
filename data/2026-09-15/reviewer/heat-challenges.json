@@ -1,0 +1,130 @@
+[
+  {
+    "rank": 1,
+    "sauce": "The Reaper",
+    "name": "Vindicktive Wings`",
+    "city": "Seattle",
+    "state": "WA",
+    "sourceRow": 2
+  },
+  {
+    "rank": 2,
+    "sauce": "The Last Dab",
+    "name": "(Hot Ones)",
+    "city": "",
+    "state": null,
+    "sourceRow": 3
+  },
+  {
+    "rank": 3,
+    "sauce": "Karamana - The Death Wish",
+    "name": "D&N",
+    "city": "San Francisco",
+    "state": "CA",
+    "sourceRow": 4
+  },
+  {
+    "rank": 4,
+    "sauce": "Eat Heat",
+    "name": "Quaker Steak & Lube",
+    "city": "Chain",
+    "state": null,
+    "sourceRow": 5
+  },
+  {
+    "rank": 5,
+    "sauce": "Hoisin Poison at Moosehead",
+    "name": "Moosehead",
+    "city": "Charlotte",
+    "state": "NC",
+    "sourceRow": 6
+  },
+  {
+    "rank": 6,
+    "sauce": "DOA (Dead Upon Arrival)",
+    "name": "Legend Larry's",
+    "city": "Sheboygan",
+    "state": "WI",
+    "sourceRow": 7
+  },
+  {
+    "rank": 7,
+    "sauce": "Bring Da Pain at Baumhower’s",
+    "name": "Baumhower's",
+    "city": "Tuscaloosa",
+    "state": "AL",
+    "sourceRow": 8
+  },
+  {
+    "rank": 8,
+    "sauce": "Booboo",
+    "name": "Stark House Tavern",
+    "city": "Weare",
+    "state": "NH",
+    "sourceRow": 9
+  },
+  {
+    "rank": 9,
+    "sauce": "Scorpion Blood",
+    "name": "Odis 12",
+    "city": "Erie",
+    "state": "PA",
+    "sourceRow": 10
+  },
+  {
+    "rank": 10,
+    "sauce": "Suicide",
+    "name": "Ching's Hot Wings",
+    "city": "Memphis",
+    "state": "TN",
+    "sourceRow": 11
+  },
+  {
+    "rank": 11,
+    "sauce": "Blazin",
+    "name": "Buffalo Wild Wings",
+    "city": "Chain",
+    "state": null,
+    "sourceRow": 12
+  },
+  {
+    "rank": 12,
+    "sauce": "Kickin' Chicken",
+    "name": "Weitzel's Wings",
+    "city": "Rock Springs",
+    "state": "WY",
+    "sourceRow": 13
+  },
+  {
+    "rank": 13,
+    "sauce": "Nuclear",
+    "name": "America's Best",
+    "city": "Chain",
+    "state": null,
+    "sourceRow": 14
+  },
+  {
+    "rank": 14,
+    "sauce": "Suicidal",
+    "name": "Wing Supreme OKC",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "sourceRow": 15
+  },
+  {
+    "rank": 15,
+    "sauce": "Turbo Charged",
+    "name": "Jefferson's",
+    "city": "Lawrence",
+    "state": "KS",
+    "sourceRow": 16
+  },
+  {
+    "rank": 16,
+    "sauce": "Suicide",
+    "name": "Buffalo Joe's",
+    "city": "Evanston",
+    "state": "IL",
+    "sourceRow": 17
+  }
+]

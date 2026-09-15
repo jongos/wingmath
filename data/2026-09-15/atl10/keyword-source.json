@@ -1,0 +1,13 @@
+{
+  "id": "atl-search-demand-2026-09-15-v1",
+  "asOf": "2026-09-15",
+  "periodStart": "2025-09-01",
+  "periodEnd": "2026-08-31",
+  "geography": "United States",
+  "metric": "Avg. monthly searches",
+  "provider": "Google Keyword Planner",
+  "sourceFile": "Keyword Stats 2026-09-15 at 12_03_21.xlsx",
+  "sourceSha256": "5dc27c0064d9526168df46fbf3f3a86187c1fbb73be42e1ca1a2b86954e41dad",
+  "sourceSheet": "Keyword Stats 2026-09-15 at 12_",
+  "treatment": "Use supplied average monthly values as given. Blank keyword values remain missing. No geographic adjustment or reconstruction of monthly history."
+}

@@ -1,0 +1,61 @@
+{
+  "title": "The Quest for the Best Wings - The Studio Revue",
+  "url": "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/edit#gid=1966110816",
+  "notesUrl": "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/edit#gid=785571269",
+  "retrievedAt": "2026-09-15T13:25:40.204748+00:00",
+  "tabs": [
+    {
+      "name": "Notes/Disclaimers",
+      "url": "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=785571269",
+      "gid": "785571269"
+    },
+    {
+      "name": "Rankings - All Restaurants",
+      "url": "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=1966110816",
+      "gid": "1966110816"
+    },
+    {
+      "name": "Rankings - State vs. State",
+      "url": "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=1738999221",
+      "gid": "1738999221"
+    },
+    {
+      "name": "Master List of Suggestions",
+      "url": "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=0",
+      "gid": "0"
+    },
+    {
+      "name": "Regional Winners",
+      "url": "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=1019055173",
+      "gid": "1019055173"
+    },
+    {
+      "name": "Spiciest Wings",
+      "url": "https://docs.google.com/spreadsheets/d/1vf_EKnPaEqYR4-umLeJ2B9dS2OM5OwMuCQlMr8aa57Q/htmlview/sheet?headers=true&gid=1658778128",
+      "gid": "1658778128"
+    }
+  ],
+  "videos": {
+    "The Kickoff to the Quest": "https://youtu.be/8DAofKBlUvo",
+    "New England": "https://youtu.be/uVXVO8GVMvc",
+    "Mid Atlantic": "https://youtu.be/WajP4ef5rJU",
+    "Southeast Atlantic": "https://youtu.be/h6Uv-KjfAxI",
+    "Southeast Central": "https://youtu.be/7U-TqhoFpIY",
+    "South Central": "https://youtu.be/TeLZalVu8k0",
+    "Southwest": "https://youtu.be/_UUMeSr5Lo0",
+    "Pacific": "https://youtu.be/OVtG0VxL6CE",
+    "Rocky Mountains": "https://youtu.be/cTH6Xo76UZo",
+    "Midwest/Great Plains": "https://youtu.be/YRmp1g5cVNo",
+    "Midwest/Great Lakes": "https://youtu.be/HLtW8zHObWs",
+    "New York (Finale)": "https://youtu.be/Nd7sPjFIyA4",
+    "The Aftershow": "https://youtu.be/dpCU2DfdMQo"
+  },
+  "importSummary": {
+    "rawSuggestionRows": 1975,
+    "uniqueSuggestionGroups": 1403,
+    "unlocatedGroups": 11,
+    "censusRecords": 1380,
+    "statesCovered": 51,
+    "associationNote": "Name/state associations are provisional. City variants are retained as source hints, not verified branch addresses. Exact normalized name/city/state duplicates are grouped. No fuzzy automatic merges; aliases may remain."
+  }
+}

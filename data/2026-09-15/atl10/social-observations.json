@@ -1,0 +1,2027 @@
+[
+  {
+    "restaurant": "local",
+    "platform": "google",
+    "query": "\"The Local\" Atlanta wings",
+    "queryUrl": "https://www.google.com/search?q=%22The+Local%22+Atlanta+wings&peek_pws=0",
+    "status": "observed",
+    "sampled": 5,
+    "results": [
+      {
+        "position": 1,
+        "url": "https://www.instagram.com/thelocalonponce/?hl=en"
+      },
+      {
+        "position": 2,
+        "url": "https://www.reddit.com/r/Wings/comments/1dtj7qj/the_famous_wings_at_the_local_in_atlanta/"
+      },
+      {
+        "position": 3,
+        "url": "https://www.yelp.com/biz/the-local-atlanta"
+      },
+      {
+        "position": 4,
+        "url": "https://the-local.hey-restaurants.com/"
+      },
+      {
+        "position": 5,
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60898-d4165649-Reviews-The_Local-Atlanta_Georgia.html"
+      }
+    ]
+  },
+  {
+    "restaurant": "local",
+    "platform": "youtube",
+    "query": "\"The Local\" Atlanta wings site:youtube.com/watch",
+    "queryUrl": "https://www.google.com/search?q=%22The+Local%22+Atlanta+wings+site%3Ayoutube.com%2Fwatch&peek_pws=0",
+    "status": "observed",
+    "sampled": 5,
+    "results": [
+      {
+        "position": 1,
+        "url": "https://www.youtube.com/watch?v=YpPAzdZLPzE"
+      },
+      {
+        "position": 2,
+        "url": "https://www.youtube.com/watch?v=qwPus9dPPec"
+      },
+      {
+        "position": 3,
+        "url": "https://www.youtube.com/watch?v=T5vRQSbymUs"
+      },
+      {
+        "position": 4,
+        "url": "https://www.youtube.com/watch?v=h6Uv-KjfAxI"
+      },
+      {
+        "position": 5,
+        "url": "https://www.youtube.com/watch?v=-TYdwUJ0E3E"
+      }
+    ]
+  },
+  {
+    "restaurant": "local",
+    "platform": "x",
+    "query": "\"The Local\" Atlanta wings (site:x.com OR site:twitter.com)",
+    "queryUrl": "https://www.google.com/search?q=%22The+Local%22+Atlanta+wings+%28site%3Ax.com+OR+site%3Atwitter.com%29&peek_pws=0",
+    "status": "observed",
+    "sampled": 5,
+    "results": [
+      {
+        "position": 1,
+        "url": "https://x.com/ShaunLatham/status/1862681718974456253"
+      },
+      {
+        "position": 2,
+        "url": "https://x.com/telegraphga/status/2016124088469647725"
+      }
+    ]
+  },
+  {
+    "restaurant": "local",
+    "platform": "news",
+    "query": "\"The Local\" Atlanta wings",
+    "queryUrl": "https://www.google.com/search?q=%22The+Local%22+Atlanta+wings&tbm=nws&peek_pws=0",
+    "status": "observed",
+    "sampled": 5,
+    "results": [
+      {
+        "position": 3,
+        "url": "https://secretatlanta.co/the-local-chicken-wings/"
+      },
+      {
+        "position": 4,
+        "url": "https://www.atlantanewsfirst.com/2026/01/13/2-atlanta-eateries-named-among-best-south-chicken-wings/"
+      }
+    ]
+  },
+  {
+    "restaurant": "magic",
+    "platform": "google",
+    "query": "\"Magic City\" Atlanta wings",
+    "queryUrl": "https://www.google.com/search?q=%22Magic+City%22+Atlanta+wings&peek_pws=0",
+    "status": "observed",
+    "sampled": 5,
+    "results": [
+      {
+        "position": 1,
+        "url": "https://magiccitykitchen.com/"
+      },
+      {
+        "position": 2,
+        "url": "https://atlanta.eater.com/23156667/magic-city-chicken-wings-best"
+      },
+      {
+        "position": 3,
+        "url": "https://www.reddit.com/r/Atlanta/comments/1swc2mx/is_it_socially_acceptable_to_eat_in_at_magic_city/"
+      },
+      {
+        "position": 4,
+        "url": "https://www.magiccity.com/menus-2/"
+      },
+      {
+        "position": 5,
+        "url": "https://www.instagram.com/p/CYzwEGmhJKt/"
+      }
+    ]
+  },
+  {
+    "restaurant": "magic",
+    "platform": "youtube",
+    "query": "\"Magic City\" Atlanta wings site:youtube.com/watch",
+    "queryUrl": "https://www.google.com/search?q=%22Magic+City%22+Atlanta+wings+site%3Ayoutube.com%2Fwatch&peek_pws=0",
+    "status": "observed",
+    "sampled": 5,
+    "results": [
+      {
+        "position": 1,
+        "url": "https://www.youtube.com/watch?v=gU9mGYqy3vQ"
+      },
+      {
+        "position": 2,
+        "url": "https://www.youtube.com/watch?v=Hl6F7X7RVVE"
+      },
+      {
+        "position": 4,
+        "url": "https://www.youtube.com/watch?v=Q_q7ezh2emg"
+      },
+      {
+        "position": 5,
+        "url": "https://www.youtube.com/watch?v=IVhSebkvsiE"
+      }
+    ]
+  },
+  {
+    "restaurant": "magic",
+    "platform": "x",
+    "query": "\"Magic City\" Atlanta wings (site:x.com OR site:twitter.com)",
+    "queryUrl": "https://www.google.com/search?q=%22Magic+City%22+Atlanta+wings+%28site%3Ax.com+OR+site%3Atwitter.com%29&peek_pws=0",
+    "status": "observed",
+    "sampled": 5,
+    "results": [
+      {
+        "position": 1,
+        "url": "https://x.com/JustinESports/status/2028939698434187284"
+      },
+      {
+        "position": 3,
+        "url": "https://x.com/FOS/status/2027137778811552120"
+      },
+      {
+        "position": 4,
+        "url": "https://x.com/iamrahstradamus/status/2028926643902005494"
+      },
+      {
+        "position": 5,
+        "url": "https://x.com/GAFollowers/status/2027099404952350858"
+      }
+    ]
+  },
+  {
+    "restaurant": "magic",
+    "platform": "news",
+    "query": "\"Magic City\" Atlanta wings",
+    "queryUrl": "https://www.google.com/search?q=%22Magic+City%22+Atlanta+wings&tbm=nws&peek_pws=0",
+    "status": "observed",
+    "sampled": 5,
+    "results": [
+      {
+        "position": 1,
+        "url": "https://www.espn.com/nba/story/_/id/48048254/hawks-plan-magic-city-tribute-night-lemon-pepper-wings-more"
+      },
+      {
+        "position": 2,
+        "url": "https://www.ajc.com/food-and-dining/2026/03/magic-city-is-pure-atlanta-but-its-famous-wings-raise-a-question/"
+      },
+      {
+        "position": 3,
+        "url": "https://www.wsbtv.com/news/local/atlanta-hawks-host-magic-city-monday-with-lemon-pepper-wings-ti-performance/CELUSXXGJRD3NH46MRF3SNVH7I/"
+      },
+      {
+        "position": 4,
+        "url": "https://www.theguardian.com/sport/2026/mar/12/nba-magic-city-atlanta-hawks-theme-night"
+      }
+    ]
+  },
+  {
+    "restaurant": "bl",
+    "platform": "google",
+    "query": "\"B&L Wings\" Atlanta wings",
+    "queryUrl": "https://www.google.com/search?q=%22B%26L+Wings%22+Atlanta+wings&peek_pws=0",
+    "status": "observed",
+    "sampled": 5,
+    "results": [
+      {
+        "position": 1,
+        "url": "https://www.yelp.com/biz/b-and-l-wings-atlanta"
+      },
+      {
+        "position": 2,
+        "url": "https://www.facebook.com/fb-answers/b-l-wings-in-atlanta/"
+      },
+      {
+        "position": 3,
+        "url": "https://www.mapquest.com/us/georgia/b-l-wings-427032890"
+      },
+      {
+        "position": 4,
+        "url": "https://www.facebook.com/therealrestaurantrick/posts/b-l-wings-national-wings-day-atl-best-kept-secret-800-forrest-st/10241749006199143/"
+      }
+    ]
+  },
+  {
+    "restaurant": "bl",
+    "platform": "youtube",
+    "query": "\"B&L Wings\" Atlanta wings site:youtube.com/watch",
+    "queryUrl": "https://www.google.com/search?q=%22B%26L+Wings%22+Atlanta+wings+site%3Ayoutube.com%2Fwatch&peek_pws=0",
+    "status": "observed",
+    "sampled": 5,
+    "results": [
+      {
+        "position": 1,
+        "url": "https://www.youtube.com/watch?v=XnAslJQYhnk"
+      },
+      {
+        "position": 3,
+        "url": "https://www.youtube.com/watch?v=e0zFzeI5oiw"
+      },
+      {
+        "position": 4,
+        "url": "https://m.youtube.com/watch?v=iIo45WYOAds"
+      },
+      {
+        "position": 5,
+        "url": "https://www.youtube.com/watch?v=Z3eOIey33bc"
+      }
+    ]
+  },
+  {
+    "restaurant": "bl",
+    "platform": "x",
+    "query": "\"B&L Wings\" Atlanta wings (site:x.com OR site:twitter.com)",
+    "queryUrl": "https://www.google.com/search?q=%22B%26L+Wings%22+Atlanta+wings+%28site%3Ax.com+OR+site%3Atwitter.com%29&peek_pws=0",
+    "status": "observed",
+    "sampled": 0,
+    "results": []
+  },
+  {
+    "restaurant": "bl",
+    "platform": "news",
+    "query": "\"B&L Wings\" Atlanta wings",
+    "queryUrl": "https://www.google.com/search?q=%22B%26L+Wings%22+Atlanta+wings&tbm=nws&peek_pws=0",
+    "status": "observed",
+    "sampled": 5,
+    "results": [
+      {
+        "position": 3,
+        "url": "https://www.theinfatuation.com/atlanta/reviews/b-and-l-wings"
+      }
+    ]
+  },
+  {
+    "restaurant": "trap",
+    "platform": "google",
+    "query": "\"Trap Wingz\" Atlanta wings",
+    "queryUrl": "https://www.google.com/search?q=%22Trap+Wingz%22+Atlanta+wings&peek_pws=0",
+    "status": "observed",
+    "sampled": 5,
+    "results": [
+      {
+        "position": 1,
+        "url": "https://trapwingzusa.com/en-US/"
+      },
+      {
+        "position": 2,
+        "url": "https://www.instagram.com/trapwingzatl/"
+      },
+      {
+        "position": 3,
+        "url": "https://www.yelp.com/biz/trap-wingz-atl-atlanta-4"
+      },
+      {
+        "position": 4,
+        "url": "https://www.ubereats.com/store/trap-wingz/41D6htrTQFaK1zBRdK-XLg"
+      },
+      {
+        "position": 5,
+        "url": "https://www.doordash.com/store/trap-wingz-atl-atlanta-34065581/"
+      }
+    ]
+  },
+  {
+    "restaurant": "trap",
+    "platform": "youtube",
+    "query": "\"Trap Wingz\" Atlanta wings site:youtube.com/watch",
+    "queryUrl": "https://www.google.com/search?q=%22Trap+Wingz%22+Atlanta+wings+site%3Ayoutube.com%2Fwatch&peek_pws=0",
+    "status": "observed",
+    "sampled": 5,
+    "results": [
+      {
+        "position": 1,
+        "url": "https://www.youtube.com/watch?v=DZR2WLHGryg"
+      },
+      {
+        "position": 2,
+        "url": "https://www.youtube.com/watch?v=UKpilmxqZCc"
+      },
+      {
+        "position": 3,
+        "url": "https://www.youtube.com/watch?v=JCrLT1owunM"
+      },
+      {
+        "position": 4,
+        "url": "https://www.youtube.com/watch?v=PH69v8WTrUw"
+      },
+      {
+        "position": 5,
+        "url": "https://www.youtube.com/watch?v=zmtpyTcrVcI"
+      }
+    ]
+  },
+  {
+    "restaurant": "trap",
+    "platform": "x",
+    "query": "\"Trap Wingz\" Atlanta wings (site:x.com OR site:twitter.com)",
+    "queryUrl": "https://www.google.com/search?q=%22Trap+Wingz%22+Atlanta+wings+%28site%3Ax.com+OR+site%3Atwitter.com%29&peek_pws=0",
+    "status": "observed",
+    "sampled": 3,
+    "results": [
+      {
+        "position": 1,
+        "url": "https://x.com/ShermStu_2/status/2096328301656555596"
+      }
+    ]
+  },
+  {
+    "restaurant": "trap",
+    "platform": "news",
+    "query": "\"Trap Wingz\" Atlanta wings",
+    "queryUrl": "https://www.google.com/search?q=%22Trap+Wingz%22+Atlanta+wings&tbm=nws&peek_pws=0",
+    "status": "observed",
+    "sampled": 5,
+    "results": [
+      {
+        "position": 1,
+        "url": "https://www.theinfatuation.com/atlanta/reviews/trap-wingz-mlk"
+      },
+      {
+        "position": 2,
+        "url": "https://whatnow.com/atlanta/restaurants/trap-wingz-adding-two-locations-this-year/"
+      }
+    ]
+  },
+  {
+    "restaurant": "jr",
+    "platform": "google",
+    "query": "\"J.R. Crickets\" Atlanta wings",
+    "queryUrl": "https://www.google.com/search?q=%22J.R.+Crickets%22+Atlanta+wings&peek_pws=0",
+    "status": "observed",
+    "sampled": 5,
+    "results": [
+      {
+        "position": 1,
+        "url": "https://jrcrickets.com/index.php"
+      },
+      {
+        "position": 2,
+        "url": "https://jrcricketscascade.com/"
+      },
+      {
+        "position": 3,
+        "url": "https://www.yelp.com/biz/jr-crickets-downtown-atlanta"
+      },
+      {
+        "position": 4,
+        "url": "https://www.instagram.com/jrcrickets_atl/"
+      },
+      {
+        "position": 5,
+        "url": "https://www.doordash.com/store/jr-crickets-atlanta-36336903/"
+      }
+    ]
+  },
+  {
+    "restaurant": "jr",
+    "platform": "youtube",
+    "query": "\"J.R. Crickets\" Atlanta wings site:youtube.com/watch",
+    "queryUrl": "https://www.google.com/search?q=%22J.R.+Crickets%22+Atlanta+wings+site%3Ayoutube.com%2Fwatch&peek_pws=0",
+    "status": "observed",
+    "sampled": 5,
+    "results": [
+      {
+        "position": 1,
+        "url": "https://www.youtube.com/watch?v=kr-N80RsOdE"
+      },
+      {
+        "position": 2,
+        "url": "https://www.youtube.com/watch?v=j1cX9PQampA"
+      },
+      {
+        "position": 4,
+        "url": "https://www.youtube.com/watch?v=WFhmW-LxsD8"
+      },
+      {
+        "position": 5,
+        "url": "https://www.youtube.com/watch?v=BneFiWmltM4"
+      }
+    ]
+  },
+  {
+    "restaurant": "jr",
+    "platform": "x",
+    "query": "\"J.R. Crickets\" Atlanta wings (site:x.com OR site:twitter.com)",
+    "queryUrl": "https://www.google.com/search?q=%22J.R.+Crickets%22+Atlanta+wings+%28site%3Ax.com+OR+site%3Atwitter.com%29&peek_pws=0",
+    "status": "observed",
+    "sampled": 5,
+    "results": [
+      {
+        "position": 1,
+        "url": "https://x.com/YuriyATL/status/1813746486846611903"
+      },
+      {
+        "position": 3,
+        "url": "https://x.com/CHOW/status/2048162150279938359"
+      },
+      {
+        "position": 4,
+        "url": "https://x.com/AtlantaMagazine/status/870083803984928768"
+      },
+      {
+        "position": 5,
+        "url": "https://x.com/weekley/status/2015826515124957593"
+      }
+    ]
+  },
+  {
+    "restaurant": "jr",
+    "platform": "news",
+    "query": "\"J.R. Crickets\" Atlanta wings",
+    "queryUrl": "https://www.google.com/search?q=%22J.R.+Crickets%22+Atlanta+wings&tbm=nws&peek_pws=0",
+    "status": "observed",
+    "sampled": 5,
+    "results": [
+      {
+        "position": 2,
+        "url": "https://www.cbsnews.com/atlanta/news/atlanta-lemon-pepper-wet-chicken-wings-southern-staple-jr-crickets/"
+      },
+      {
+        "position": 3,
+        "url": "https://www.9news.com/article/life/style/colorado-guide/jr-crickets-first-colorado-restaurant/73-f8a1b5bc-30f2-4b2a-ba40-aef82af7b386"
+      },
+      {
+        "position": 4,
+        "url": "https://tuscaloosathread.com/atlantas-jr-crickets-opens-tusclaoosa-strip/"
+      },
+      {
+        "position": 5,
+        "url": "https://www.chowhound.com/2152358/atlanta-lemon-pepper-wings-spot-jr-crickets/"
+      }
+    ]
+  },
+  {
+    "restaurant": "bando",
+    "platform": "google",
+    "query": "\"The Bando\" Atlanta wings",
+    "queryUrl": "https://www.google.com/search?q=%22The+Bando%22+Atlanta+wings&peek_pws=0",
+    "status": "observed",
+    "sampled": 5,
+    "results": [
+      {
+        "position": 1,
+        "url": "https://www.thebandoatl.com/"
+      },
+      {
+        "position": 2,
+        "url": "https://www.instagram.com/thebando_atl/"
+      },
+      {
+        "position": 3,
+        "url": "https://www.yelp.com/biz/the-bando-atlanta"
+      },
+      {
+        "position": 4,
+        "url": "https://www.ubereats.com/store/the-bando/aFYssYJvVy6W3xjyKs3Cpw"
+      },
+      {
+        "position": 5,
+        "url": "https://www.facebook.com/100065492109189/videos/best-wings-in-atl/1145091544428054/"
+      }
+    ]
+  },
+  {
+    "restaurant": "bando",
+    "platform": "youtube",
+    "query": "\"The Bando\" Atlanta wings site:youtube.com/watch",
+    "queryUrl": "https://www.google.com/search?q=%22The+Bando%22+Atlanta+wings+site%3Ayoutube.com%2Fwatch&peek_pws=0",
+    "status": "observed",
+    "sampled": 5,
+    "results": [
+      {
+        "position": 1,
+        "url": "https://www.youtube.com/watch?v=pKsHOyLdpSI"
+      },
+      {
+        "position": 2,
+        "url": "https://www.youtube.com/watch?v=6J-xSaN8Aeg"
+      },
+      {
+        "position": 3,
+        "url": "https://www.youtube.com/watch?v=9V9CzQUa8DY"
+      },
+      {
+        "position": 4,
+        "url": "https://www.youtube.com/watch?v=Atecthy_AqQ"
+      },
+      {
+        "position": 5,
+        "url": "https://www.youtube.com/watch?v=SqNeq7jxYg8"
+      }
+    ]
+  },
+  {
+    "restaurant": "bando",
+    "platform": "x",
+    "query": "\"The Bando\" Atlanta wings (site:x.com OR site:twitter.com)",
+    "queryUrl": "https://www.google.com/search?q=%22The+Bando%22+Atlanta+wings+%28site%3Ax.com+OR+site%3Atwitter.com%29&peek_pws=0",
+    "status": "observed",
+    "sampled": 5,
+    "results": [
+      {
+        "position": 2,
+        "url": "https://x.com/TheBandoAtl/status/1800717220232020391"
+      },
+      {
+        "position": 3,
+        "url": "https://x.com/GAFollowers/status/1878940090359329170"
+      },
+      {
+        "position": 4,
+        "url": "https://x.com/GAFollowers/status/1801972383227510918"
+      }
+    ]
+  },
+  {
+    "restaurant": "bando",
+    "platform": "news",
+    "query": "\"The Bando\" Atlanta wings",
+    "queryUrl": "https://www.google.com/search?q=%22The+Bando%22+Atlanta+wings&tbm=nws&peek_pws=0",
+    "status": "observed",
+    "sampled": 5,
+    "results": [
+      {
+        "position": 1,
+        "url": "https://www.axios.com/local/atlanta/2026/09/14/the-bando-trap-museum-lemon-pepper-wings-atlanta"
+      },
+      {
+        "position": 2,
+        "url": "https://www.11alive.com/article/news/community/what-happened-at-the-bando-well-nothing/85-8a50b918-5aac-4bcf-b863-7aff89a6326d"
+      }
+    ]
+  },
+  {
+    "restaurant": "clay",
+    "platform": "google",
+    "query": "\"Clay's Sports Cafe\" Atlanta wings",
+    "queryUrl": "https://www.google.com/search?q=%22Clay%27s+Sports+Cafe%22+Atlanta+wings&peek_pws=0",
+    "status": "observed",
+    "sampled": 5,
+    "results": [
+      {
+        "position": 1,
+        "url": "https://clayssportscafe.com/"
+      },
+      {
+        "position": 2,
+        "url": "https://www.yelp.com/biz/clays-sports-cafe-sandy-springs-3"
+      },
+      {
+        "position": 3,
+        "url": "https://www.facebook.com/ClaysSportsCafe/"
+      },
+      {
+        "position": 4,
+        "url": "https://www.reddit.com/r/Wings/comments/1g6w6ht/clays_sports_cafe_atlanta/"
+      },
+      {
+        "position": 5,
+        "url": "https://www.instagram.com/clayssportscafe/"
+      }
+    ]
+  },
+  {
+    "restaurant": "clay",
+    "platform": "youtube",
+    "query": "\"Clay's Sports Cafe\" Atlanta wings site:youtube.com/watch",
+    "queryUrl": "https://www.google.com/search?q=%22Clay%27s+Sports+Cafe%22+Atlanta+wings+site%3Ayoutube.com%2Fwatch&peek_pws=0",
+    "status": "observed",
+    "sampled": 2,
+    "results": []
+  },
+  {
+    "restaurant": "clay",
+    "platform": "x",
+    "query": "\"Clay's Sports Cafe\" Atlanta wings (site:x.com OR site:twitter.com)",
+    "queryUrl": "https://www.google.com/search?q=%22Clay%27s+Sports+Cafe%22+Atlanta+wings+%28site%3Ax.com+OR+site%3Atwitter.com%29&peek_pws=0",
+    "status": "observed",
+    "sampled": 2,
+    "results": [
+      {
+        "position": 1,
+        "url": "https://x.com/GAFollowers/status/1643307596697198592"
+      },
+      {
+        "position": 2,
+        "url": "https://mobile.x.com/Dave_Bost/status/1643311204759207942"
+      }
+    ]
+  },
+  {
+    "restaurant": "clay",
+    "platform": "news",
+    "query": "\"Clay's Sports Cafe\" Atlanta wings",
+    "queryUrl": "https://www.google.com/search?q=%22Clay%27s+Sports+Cafe%22+Atlanta+wings&tbm=nws&peek_pws=0",
+    "status": "observed",
+    "sampled": 5,
+    "results": [
+      {
+        "position": 1,
+        "url": "https://www.atlantamagazine.com/dining-news/fan-favorite-wing-spot-clays-sports-cafe-is-back-in-business/"
+      },
+      {
+        "position": 2,
+        "url": "https://www.atlantanewsfirst.com/2022/06/30/restaurant-report-card-poke-factory-fails-with-52u-clays-sports-cafe-scores-100a/"
+      },
+      {
+        "position": 5,
+        "url": "https://www.tonetoatl.com/2016/08/clays-sports-cafe-scores-new-location.html"
+      }
+    ]
+  },
+  {
+    "restaurant": "fox",
+    "platform": "google",
+    "query": "\"Fox Bros\" Atlanta wings",
+    "queryUrl": "https://www.google.com/search?q=%22Fox+Bros%22+Atlanta+wings&peek_pws=0",
+    "status": "observed",
+    "sampled": 5,
+    "results": [
+      {
+        "position": 1,
+        "url": "https://www.foxbrosbbq.com/items/smoked-wings"
+      },
+      {
+        "position": 2,
+        "url": "https://www.foxbrosbbq.com/"
+      },
+      {
+        "position": 3,
+        "url": "https://www.foxbrosbbq.com/dekalb-ave"
+      },
+      {
+        "position": 4,
+        "url": "https://www.instagram.com/p/DZm0eTfh7-1/"
+      },
+      {
+        "position": 5,
+        "url": "https://www.foxbrosbbq.com/menus/the-works-menu"
+      }
+    ]
+  },
+  {
+    "restaurant": "fox",
+    "platform": "youtube",
+    "query": "\"Fox Bros\" Atlanta wings site:youtube.com/watch",
+    "queryUrl": "https://www.google.com/search?q=%22Fox+Bros%22+Atlanta+wings+site%3Ayoutube.com%2Fwatch&peek_pws=0",
+    "status": "observed",
+    "sampled": 5,
+    "results": [
+      {
+        "position": 1,
+        "url": "https://www.youtube.com/watch?v=2K-8rNOXTNs"
+      },
+      {
+        "position": 2,
+        "url": "https://www.youtube.com/watch?v=OTUypbfqZ9E"
+      },
+      {
+        "position": 3,
+        "url": "https://www.youtube.com/watch?v=oSwCzweq_Ho"
+      },
+      {
+        "position": 4,
+        "url": "https://www.youtube.com/watch?v=sixkPLI1sLI"
+      },
+      {
+        "position": 5,
+        "url": "https://m.youtube.com/watch?v=iIo45WYOAds"
+      }
+    ]
+  },
+  {
+    "restaurant": "fox",
+    "platform": "x",
+    "query": "\"Fox Bros\" Atlanta wings (site:x.com OR site:twitter.com)",
+    "queryUrl": "https://www.google.com/search?q=%22Fox+Bros%22+Atlanta+wings+%28site%3Ax.com+OR+site%3Atwitter.com%29&peek_pws=0",
+    "status": "observed",
+    "sampled": 5,
+    "results": []
+  },
+  {
+    "restaurant": "fox",
+    "platform": "news",
+    "query": "\"Fox Bros\" Atlanta wings",
+    "queryUrl": "https://www.google.com/search?q=%22Fox+Bros%22+Atlanta+wings&tbm=nws&peek_pws=0",
+    "status": "observed",
+    "sampled": 5,
+    "results": [
+      {
+        "position": 1,
+        "url": "https://www.chowhound.com/2183135/atlanta-five-best-wing-spots/"
+      },
+      {
+        "position": 2,
+        "url": "https://atlanta.eater.com/2022/10/31/23432471/fox-bros-bar-b-q-closes-mercedes-benz-stadium-atlanta"
+      },
+      {
+        "position": 3,
+        "url": "https://www.ajc.com/things-to-do/atlanta-restaurant-blog/atlanta-order-in-fox-bros-adapts-to-the-realities-of-selling-smoked-meats-during-a-pandemic/DE7CWRPZTFBUZK2JLSTV3RTQDU/"
+      },
+      {
+        "position": 4,
+        "url": "https://www.atlantamagazine.com/list/10-best-barbecue-restaurants-atlanta/fox-bros-bar-b-q/"
+      },
+      {
+        "position": 5,
+        "url": "https://www.wabe.org/wild-heaven-fox-bros-collaboration-at-toco-hill-shopping-center-opens-oct-30/"
+      }
+    ]
+  },
+  {
+    "restaurant": "pit",
+    "platform": "google",
+    "query": "\"Pit Boss BBQ\" Atlanta wings",
+    "queryUrl": "https://www.google.com/search?q=%22Pit+Boss+BBQ%22+Atlanta+wings&peek_pws=0",
+    "status": "observed",
+    "sampled": 5,
+    "results": [
+      {
+        "position": 1,
+        "url": "https://www.pitboss-bbq.com/"
+      },
+      {
+        "position": 2,
+        "url": "https://www.pitboss-bbq.com/items/smoked-wings"
+      },
+      {
+        "position": 3,
+        "url": "https://www.pitboss-bbq.com/menu"
+      },
+      {
+        "position": 4,
+        "url": "https://www.yelp.com/biz/pit-boss-bbq-hapeville"
+      },
+      {
+        "position": 5,
+        "url": "https://order.online/store/pit-boss-bbq-26181250"
+      }
+    ]
+  },
+  {
+    "restaurant": "pit",
+    "platform": "youtube",
+    "query": "\"Pit Boss BBQ\" Atlanta wings site:youtube.com/watch",
+    "queryUrl": "https://www.google.com/search?q=%22Pit+Boss+BBQ%22+Atlanta+wings+site%3Ayoutube.com%2Fwatch&peek_pws=0",
+    "status": "observed",
+    "sampled": 5,
+    "results": [
+      {
+        "position": 1,
+        "url": "https://www.youtube.com/watch?v=ewUeaK_cZBE"
+      },
+      {
+        "position": 2,
+        "url": "https://www.youtube.com/watch?v=vPKz06U23-Y"
+      },
+      {
+        "position": 3,
+        "url": "https://m.youtube.com/watch?v=iIo45WYOAds"
+      },
+      {
+        "position": 4,
+        "url": "https://www.youtube.com/watch?v=ceYa3b2z1IQ"
+      }
+    ]
+  },
+  {
+    "restaurant": "pit",
+    "platform": "x",
+    "query": "\"Pit Boss BBQ\" Atlanta wings (site:x.com OR site:twitter.com)",
+    "queryUrl": "https://www.google.com/search?q=%22Pit+Boss+BBQ%22+Atlanta+wings+%28site%3Ax.com+OR+site%3Atwitter.com%29&peek_pws=0",
+    "status": "observed",
+    "sampled": 1,
+    "results": []
+  },
+  {
+    "restaurant": "pit",
+    "platform": "news",
+    "query": "\"Pit Boss BBQ\" Atlanta wings",
+    "queryUrl": "https://www.google.com/search?q=%22Pit+Boss+BBQ%22+Atlanta+wings&tbm=nws&peek_pws=0",
+    "status": "observed",
+    "sampled": 5,
+    "results": []
+  },
+  {
+    "restaurant": "nam",
+    "platform": "google",
+    "query": "\"Nam Phuong\" Atlanta wings",
+    "queryUrl": "https://www.google.com/search?q=%22Nam+Phuong%22+Atlanta+wings&peek_pws=0",
+    "status": "observed",
+    "sampled": 5,
+    "results": [
+      {
+        "position": 1,
+        "url": "https://namphuongga.com/"
+      },
+      {
+        "position": 2,
+        "url": "https://www.yelp.com/biz/nam-phuong-atlanta"
+      },
+      {
+        "position": 3,
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60898-d2387483-Reviews-or15-Nam_Phuong-Atlanta_Georgia.html"
+      },
+      {
+        "position": 4,
+        "url": "https://www.facebook.com/NamPhuongRestaurant/posts/hello-atlanta-why-must-try-nam-phuongs-fried-chicken-wings-because-theyre-crispy/863163059104955/"
+      },
+      {
+        "position": 5,
+        "url": "https://www.youtube.com/watch?v=-TYdwUJ0E3E"
+      }
+    ]
+  },
+  {
+    "restaurant": "nam",
+    "platform": "youtube",
+    "query": "\"Nam Phuong\" Atlanta wings site:youtube.com/watch",
+    "queryUrl": "https://www.google.com/search?q=%22Nam+Phuong%22+Atlanta+wings+site%3Ayoutube.com%2Fwatch&peek_pws=0",
+    "status": "observed",
+    "sampled": 2,
+    "results": [
+      {
+        "position": 1,
+        "url": "https://www.youtube.com/watch?v=-TYdwUJ0E3E"
+      }
+    ]
+  },
+  {
+    "restaurant": "nam",
+    "platform": "x",
+    "query": "\"Nam Phuong\" Atlanta wings (site:x.com OR site:twitter.com)",
+    "queryUrl": "https://www.google.com/search?q=%22Nam+Phuong%22+Atlanta+wings+%28site%3Ax.com+OR+site%3Atwitter.com%29&peek_pws=0",
+    "status": "observed",
+    "sampled": 0,
+    "results": []
+  },
+  {
+    "restaurant": "nam",
+    "platform": "news",
+    "query": "\"Nam Phuong\" Atlanta wings",
+    "queryUrl": "https://www.google.com/search?q=%22Nam+Phuong%22+Atlanta+wings&tbm=nws&peek_pws=0",
+    "status": "observed",
+    "sampled": 5,
+    "results": [
+      {
+        "position": 1,
+        "url": "https://www.atlantanewsfirst.com/2026/01/13/2-atlanta-eateries-named-among-best-south-chicken-wings/"
+      }
+    ]
+  },
+  {
+    "restaurant": "heir",
+    "platform": "google",
+    "query": "\"Heirloom Market BBQ\" Atlanta wings",
+    "queryUrl": "https://www.google.com/search?q=%22Heirloom+Market+BBQ%22+Atlanta+wings&peek_pws=0",
+    "status": "observed",
+    "sampled": 5,
+    "results": [
+      {
+        "position": 1,
+        "url": "https://heirloommarketbbq.com/"
+      },
+      {
+        "position": 2,
+        "url": "https://order.spoton.com/ggt-heirloom-market-bbq-693/atlanta-ga/5eb427e79adef3c194e5d5cc"
+      },
+      {
+        "position": 3,
+        "url": "https://www.yelp.com/biz/heirloom-market-bbq-atlanta"
+      },
+      {
+        "position": 4,
+        "url": "https://guide.michelin.com/us/en/georgia/atlanta_2884144/restaurant/heirloom-market-bbq"
+      },
+      {
+        "position": 5,
+        "url": "https://www.doordash.com/en/store/heirloom-market-bbq-atlanta-35111/1000"
+      }
+    ]
+  },
+  {
+    "restaurant": "heir",
+    "platform": "youtube",
+    "query": "\"Heirloom Market BBQ\" Atlanta wings site:youtube.com/watch",
+    "queryUrl": "https://www.google.com/search?q=%22Heirloom+Market+BBQ%22+Atlanta+wings+site%3Ayoutube.com%2Fwatch&peek_pws=0",
+    "status": "observed",
+    "sampled": 5,
+    "results": [
+      {
+        "position": 2,
+        "url": "https://www.youtube.com/watch?v=XNzJOPuypvk"
+      },
+      {
+        "position": 3,
+        "url": "https://www.youtube.com/watch?v=EMnznXeTwSQ"
+      },
+      {
+        "position": 4,
+        "url": "https://www.youtube.com/watch?v=d1bRfLk6kAE"
+      },
+      {
+        "position": 5,
+        "url": "https://www.youtube.com/watch?v=KUGw3CBmzzM"
+      }
+    ]
+  },
+  {
+    "restaurant": "heir",
+    "platform": "x",
+    "query": "\"Heirloom Market BBQ\" Atlanta wings (site:x.com OR site:twitter.com)",
+    "queryUrl": "https://www.google.com/search?q=%22Heirloom+Market+BBQ%22+Atlanta+wings+%28site%3Ax.com+OR+site%3Atwitter.com%29&peek_pws=0",
+    "status": "observed",
+    "sampled": 1,
+    "results": []
+  },
+  {
+    "restaurant": "heir",
+    "platform": "news",
+    "query": "\"Heirloom Market BBQ\" Atlanta wings",
+    "queryUrl": "https://www.google.com/search?q=%22Heirloom+Market+BBQ%22+Atlanta+wings&tbm=nws&peek_pws=0",
+    "status": "observed",
+    "sampled": 5,
+    "results": [
+      {
+        "position": 1,
+        "url": "https://www.ajc.com/entertainment/dining/heirloom-market-streamlines-menu/3ESzolMwAsh1mnu5hEBK7M/"
+      }
+    ]
+  },
+  {
+    "restaurant": "sweet",
+    "platform": "google",
+    "query": "\"Sweet Auburn BBQ\" Atlanta wings",
+    "queryUrl": "https://www.google.com/search?q=%22Sweet+Auburn+BBQ%22+Atlanta+wings&peek_pws=0",
+    "status": "observed",
+    "sampled": 5,
+    "results": [
+      {
+        "position": 1,
+        "url": "https://www.sweetauburnbbq.com/"
+      },
+      {
+        "position": 2,
+        "url": "https://www.sweetauburnbbq.com/events-1/wednesday-1-wings-2026-09-16-11-00-1"
+      },
+      {
+        "position": 3,
+        "url": "https://www.yelp.com/biz/sweet-auburn-bbq-atlanta-3"
+      },
+      {
+        "position": 4,
+        "url": "https://www.ubereats.com/store/sweet-auburn-bbq-virginia-highlands/q4efzTn-Rh-NZ-1P487yhQ"
+      },
+      {
+        "position": 5,
+        "url": "https://www.tripadvisor.com/Restaurant_Review-g60898-d7705115-Reviews-Sweet_Auburn_BBQ-Atlanta_Georgia.html"
+      }
+    ]
+  },
+  {
+    "restaurant": "sweet",
+    "platform": "youtube",
+    "query": "\"Sweet Auburn BBQ\" Atlanta wings site:youtube.com/watch",
+    "queryUrl": "https://www.google.com/search?q=%22Sweet+Auburn+BBQ%22+Atlanta+wings+site%3Ayoutube.com%2Fwatch&peek_pws=0",
+    "status": "observed",
+    "sampled": 4,
+    "results": [
+      {
+        "position": 1,
+        "url": "https://www.youtube.com/watch?v=d1bRfLk6kAE"
+      },
+      {
+        "position": 4,
+        "url": "https://www.youtube.com/watch?v=M-6n8q92brk"
+      }
+    ]
+  },
+  {
+    "restaurant": "sweet",
+    "platform": "x",
+    "query": "\"Sweet Auburn BBQ\" Atlanta wings (site:x.com OR site:twitter.com)",
+    "queryUrl": "https://www.google.com/search?q=%22Sweet+Auburn+BBQ%22+Atlanta+wings+%28site%3Ax.com+OR+site%3Atwitter.com%29&peek_pws=0",
+    "status": "observed",
+    "sampled": 1,
+    "results": []
+  },
+  {
+    "restaurant": "sweet",
+    "platform": "news",
+    "query": "\"Sweet Auburn BBQ\" Atlanta wings",
+    "queryUrl": "https://www.google.com/search?q=%22Sweet+Auburn+BBQ%22+Atlanta+wings&tbm=nws&peek_pws=0",
+    "status": "observed",
+    "sampled": 5,
+    "results": [
+      {
+        "position": 4,
+        "url": "https://atlanta.eater.com/2020/4/20/21227992/sweet-auburn-bbq-food-truck-neighborhood-barbecue-delivery-covid19"
+      }
+    ]
+  },
+  {
+    "restaurant": "jamal",
+    "platform": "google",
+    "query": "\"Jamal's Buffalo Wings\" Atlanta wings",
+    "queryUrl": "https://www.google.com/search?q=%22Jamal%27s+Buffalo+Wings%22+Atlanta+wings&peek_pws=0",
+    "status": "observed",
+    "sampled": 5,
+    "results": [
+      {
+        "position": 1,
+        "url": "https://www.yelp.com/biz/jamals-buffalo-wings-atlanta"
+      },
+      {
+        "position": 2,
+        "url": "https://jamalswings.com/"
+      },
+      {
+        "position": 3,
+        "url": "https://www.ubereats.com/store/jamals-buffalo-wings/qV3GViFaQkSleA1YWQKdFw"
+      },
+      {
+        "position": 4,
+        "url": "https://order.online/store/jamal's-buffalo-wings-atlanta-626083"
+      },
+      {
+        "position": 5,
+        "url": "https://atlanta.eater.com/venue/52219/jamal-s-buffalo-wings"
+      }
+    ]
+  },
+  {
+    "restaurant": "jamal",
+    "platform": "youtube",
+    "query": "\"Jamal's Buffalo Wings\" Atlanta wings site:youtube.com/watch",
+    "queryUrl": "https://www.google.com/search?q=%22Jamal%27s+Buffalo+Wings%22+Atlanta+wings+site%3Ayoutube.com%2Fwatch&pws=0&hl=en&gl=us&num=10",
+    "observedAt": "2026-09-15T13:45:37Z",
+    "provider": "Google",
+    "personalization": "pws=0 requested; Google account/personalization not confirmed",
+    "searchLocation": "DuPage County, Illinois - From your IP address",
+    "status": "observed",
+    "sampled": 2,
+    "results": [],
+    "audit": [
+      {
+        "position": 1,
+        "url": "https://www.youtube.com/watch?v=H-16QzCHsP4",
+        "title": "Keith Lee Parody - Da'One Seafood [Full Video]",
+        "decision": "rejected",
+        "reason": "Unrelated food business; visible title identifies Da'One Seafood, not Jamal's Buffalo Wings."
+      },
+      {
+        "position": 2,
+        "url": "https://m.youtube.com/watch?v=RSFTN_iro7o",
+        "title": "Keith Lee Parody - Prince's Hot Chicken (Nashville, TN) [Part 2]",
+        "decision": "rejected",
+        "reason": "Unrelated food business; visible title identifies Prince's Hot Chicken in Nashville, not Jamal's Buffalo Wings."
+      }
+    ],
+    "notes": "Rendered Videos carousel supplied two primary headings; no Jamal identity match.",
+    "reportedMatchedUnits": 0,
+    "batchId": "team-2026-09-15"
+  },
+  {
+    "restaurant": "jamal",
+    "platform": "x",
+    "query": "\"Jamal's Buffalo Wings\" Atlanta wings (site:x.com OR site:twitter.com)",
+    "queryUrl": "https://www.google.com/search?q=%22Jamal%27s+Buffalo+Wings%22+Atlanta+wings+%28site%3Ax.com+OR+site%3Atwitter.com%29&pws=0&hl=en&gl=us&num=10",
+    "observedAt": "2026-09-15T13:45:55Z",
+    "provider": "Google",
+    "personalization": "pws=0 requested; Google account/personalization not confirmed",
+    "searchLocation": "DuPage County, Illinois - From your IP address",
+    "status": "observed",
+    "sampled": 5,
+    "results": [],
+    "audit": [
+      {
+        "position": 1,
+        "url": "https://x.com/SchiavoneTony",
+        "title": "Faux Tony Schiavone (@SchiavoneTony) ...",
+        "decision": "rejected",
+        "reason": "Unrelated X profile page; no visible Jamal's Buffalo Wings match."
+      },
+      {
+        "position": 2,
+        "url": "https://x.com/MarcWatkinsEsq/all",
+        "title": "Marc Watkins ⚖️ (@MarcWatkinsEsq) ...",
+        "decision": "rejected",
+        "reason": "Unrelated X profile page; no visible Jamal's Buffalo Wings match."
+      },
+      {
+        "position": 3,
+        "url": "https://x.com/catlanta",
+        "title": "Catlanta",
+        "decision": "rejected",
+        "reason": "Unrelated X profile page; no visible Jamal's Buffalo Wings match."
+      },
+      {
+        "position": 4,
+        "url": "https://x.com/ButlerBets/with_replies?lang=ca",
+        "title": "Respostes de Ryan Butler (@ButlerBets) ...",
+        "decision": "rejected",
+        "reason": "Unrelated X profile/replies page; no visible Jamal's Buffalo Wings match."
+      },
+      {
+        "position": 5,
+        "url": "https://x.com/SWAIM_CORP/status/1660323787567689729?lang=bn",
+        "title": "X-এ Michael Swaim went to bsky",
+        "decision": "rejected",
+        "reason": "Unrelated X post; visible heading does not identify Jamal's Buffalo Wings."
+      }
+    ],
+    "notes": "Google reported no quoted matches and displayed fallback unquoted web results; first five primary X-linked headings were inspected.",
+    "reportedMatchedUnits": 0,
+    "batchId": "team-2026-09-15",
+    "qualityFlags": [
+      "unquoted-fallback-results"
+    ]
+  },
+  {
+    "restaurant": "jamal",
+    "platform": "news",
+    "query": "\"Jamal's Buffalo Wings\" Atlanta wings",
+    "queryUrl": "https://www.google.com/search?q=%22Jamal%27s+Buffalo+Wings%22+Atlanta+wings&pws=0&hl=en&gl=us&num=10&tbm=nws",
+    "observedAt": "2026-09-15T13:46:08Z",
+    "provider": "Google",
+    "personalization": "pws=0 requested; Google account/personalization not confirmed",
+    "searchLocation": "DuPage County, Illinois - From your IP address",
+    "status": "observed",
+    "sampled": 5,
+    "results": [
+      {
+        "position": 1,
+        "url": "https://www.atlantamagazine.com/dining-news/jamals-buffalo-wings-reopening-new-larger-location/"
+      }
+    ],
+    "audit": [
+      {
+        "position": 1,
+        "url": "https://www.atlantamagazine.com/dining-news/jamals-buffalo-wings-reopening-new-larger-location/",
+        "title": "Jamal’s Buffalo Wings reopening in a new, larger location",
+        "decision": "accepted",
+        "reason": "Visible title and snippet explicitly identify the Atlanta food business."
+      },
+      {
+        "position": 2,
+        "url": "https://atlanta.eater.com/maps/best-chicken-wings-atlanta",
+        "title": "The Best Wings in Atlanta, Lemon Pepper Wet and Then Some",
+        "decision": "rejected",
+        "reason": "Generic wings guide; visible metadata does not identify Jamal's Buffalo Wings."
+      },
+      {
+        "position": 3,
+        "url": "https://www.ajc.com/the-a-list/winner-these-are-the-best-wings-in-metro-atlanta/VU6Q7CNBKBCCFIJWSGZEFHRWKE/",
+        "title": "WINNER: These are the best wings in metro Atlanta",
+        "decision": "rejected",
+        "reason": "Generic wings article; visible metadata does not identify Jamal's Buffalo Wings."
+      },
+      {
+        "position": 4,
+        "url": "https://www.thrillist.com/eat/atlanta/best-chicken-wings-in-atlanta/3968609",
+        "title": "Where to Get the 9 Best Chicken Wings in the ATL Right Now",
+        "decision": "rejected",
+        "reason": "Generic wings guide; visible metadata does not identify Jamal's Buffalo Wings."
+      },
+      {
+        "position": 5,
+        "url": "https://creativeloafing.com/100-dishes-to-eat-in-atlanta-2019",
+        "title": "100 Dishes to Eat in Atlanta",
+        "decision": "rejected",
+        "reason": "Generic Atlanta dining guide; visible metadata does not identify Jamal's Buffalo Wings."
+      }
+    ],
+    "notes": "News tab (tbm=nws) rendered; first five publishers were distinct.",
+    "reportedMatchedUnits": 1,
+    "batchId": "team-2026-09-15"
+  },
+  {
+    "restaurant": "ruki",
+    "platform": "google",
+    "query": "\"Ruki's Kitchen\" Atlanta wings",
+    "queryUrl": "https://www.google.com/search?q=%22Ruki%27s+Kitchen%22+Atlanta+wings&pws=0&hl=en&gl=us&num=10",
+    "observedAt": "2026-09-15T13:46:31Z",
+    "provider": "Google",
+    "personalization": "pws=0 requested; Google account/personalization not confirmed",
+    "searchLocation": "DuPage County, Illinois - From your IP address",
+    "status": "observed",
+    "sampled": 5,
+    "results": [
+      {
+        "position": 1,
+        "url": "https://www.rukiskitchen.com/"
+      },
+      {
+        "position": 2,
+        "url": "https://www.instagram.com/rukiskitchenatl/?hl=en"
+      },
+      {
+        "position": 3,
+        "url": "https://www.atlantamagazine.com/dining-news/rukis-kitchen-brings-ethiopian-cuisine-and-lemon-pepper-wings/"
+      },
+      {
+        "position": 4,
+        "url": "https://www.yelp.com/biz/rukis-kitchen-atlanta-2"
+      },
+      {
+        "position": 5,
+        "url": "https://www.tiktok.com/@_cookingwithfifi_/video/7677368245644545287"
+      }
+    ],
+    "audit": [
+      {
+        "position": 1,
+        "url": "https://www.rukiskitchen.com/",
+        "title": "Ruki's Kitchen",
+        "decision": "accepted",
+        "reason": "Official business site; visible heading identifies Ruki's Kitchen."
+      },
+      {
+        "position": 2,
+        "url": "https://www.instagram.com/rukiskitchenatl/?hl=en",
+        "title": "Ruki's Kitchen (@rukiskitchenatl)",
+        "decision": "accepted",
+        "reason": "Visible business profile name/handle identifies Ruki's Kitchen."
+      },
+      {
+        "position": 3,
+        "url": "https://www.atlantamagazine.com/dining-news/rukis-kitchen-brings-ethiopian-cuisine-and-lemon-pepper-wings/",
+        "title": "Ruki's Kitchen brings Ethiopian cuisine and... lemon-pepper wings?",
+        "decision": "accepted",
+        "reason": "Visible title identifies the food business and wings; Atlanta Magazine publisher is metro-relevant."
+      },
+      {
+        "position": 4,
+        "url": "https://www.yelp.com/biz/rukis-kitchen-atlanta-2",
+        "title": "Ruki's Kitchen - Restaurant Reviews",
+        "decision": "accepted",
+        "reason": "Visible title and Atlanta business URL identify the restaurant."
+      },
+      {
+        "position": 5,
+        "url": "https://www.tiktok.com/@_cookingwithfifi_/video/7677368245644545287",
+        "title": "Berbere Wings & Ethiopian Comfort Food in Atlanta — Ruki's Kitchen",
+        "decision": "accepted",
+        "reason": "Visible title identifies Ruki's Kitchen, Atlanta, and wings."
+      }
+    ],
+    "notes": "AI Overview and local panel were excluded. Organic results indicate the referenced Peoplestown/1161 Ridge Ave SW business; accepted metro-related items, with no branch ambiguity visible in the first five.",
+    "reportedMatchedUnits": 5,
+    "batchId": "team-2026-09-15"
+  },
+  {
+    "restaurant": "ruki",
+    "platform": "youtube",
+    "query": "\"Ruki's Kitchen\" Atlanta wings site:youtube.com/watch",
+    "queryUrl": "https://www.google.com/search?q=%22Ruki%27s+Kitchen%22+Atlanta+wings+site%3Ayoutube.com%2Fwatch&pws=0&hl=en&gl=us&num=10",
+    "observedAt": "2026-09-15T13:46:47Z",
+    "provider": "Google",
+    "personalization": "pws=0 requested; Google account/personalization not confirmed",
+    "searchLocation": "DuPage County, Illinois - From your IP address",
+    "status": "observed",
+    "sampled": 0,
+    "results": [],
+    "audit": [],
+    "notes": "Rendered Google page explicitly said no results found and the unquoted fallback also matched no documents; no organic headings appeared.",
+    "reportedMatchedUnits": 0,
+    "batchId": "team-2026-09-15"
+  },
+  {
+    "restaurant": "ruki",
+    "platform": "x",
+    "query": "\"Ruki's Kitchen\" Atlanta wings (site:x.com OR site:twitter.com)",
+    "queryUrl": "https://www.google.com/search?q=%22Ruki%27s+Kitchen%22+Atlanta+wings+%28site%3Ax.com+OR+site%3Atwitter.com%29&pws=0&hl=en&gl=us&num=10",
+    "observedAt": "2026-09-15T13:46:58Z",
+    "provider": "Google",
+    "personalization": "pws=0 requested; Google account/personalization not confirmed",
+    "searchLocation": "DuPage County, Illinois - From your IP address",
+    "status": "observed",
+    "sampled": 0,
+    "results": [],
+    "audit": [],
+    "notes": "Rendered Google page explicitly said no results found and the unquoted fallback also matched no documents; no organic headings appeared.",
+    "reportedMatchedUnits": 0,
+    "batchId": "team-2026-09-15"
+  },
+  {
+    "restaurant": "ruki",
+    "platform": "news",
+    "query": "\"Ruki's Kitchen\" Atlanta wings",
+    "queryUrl": "https://www.google.com/search?q=%22Ruki%27s+Kitchen%22+Atlanta+wings&pws=0&hl=en&gl=us&num=10&tbm=nws",
+    "observedAt": "2026-09-15T13:47:20Z",
+    "provider": "Google",
+    "personalization": "pws=0 requested; Google account/personalization not confirmed",
+    "searchLocation": "unknown (Google CAPTCHA page showed no location UI)",
+    "status": "blocked",
+    "sampled": null,
+    "results": [],
+    "audit": [],
+    "notes": "Google returned HTTP 429 / a human-verification challenge before usable results. No count was inferred.",
+    "reportedMatchedUnits": null,
+    "batchId": "team-2026-09-15"
+  },
+  {
+    "restaurant": "american",
+    "platform": "google",
+    "query": "\"American Deli\" Atlanta wings",
+    "queryUrl": "https://www.google.com/search?q=%22American+Deli%22+Atlanta+wings&pws=0&hl=en&gl=us&num=10",
+    "observedAt": "2026-09-15T14:00:32Z",
+    "provider": "Google",
+    "personalization": "pws=0; hl=en; gl=us; num=10",
+    "searchLocation": "unknown (Google CAPTCHA page showed no location UI)",
+    "status": "blocked",
+    "sampled": null,
+    "results": [],
+    "audit": [],
+    "notes": "Google returned HTTP 429 / a human-verification challenge before usable results. No count was inferred. The reference branch address remains unresolved.",
+    "reportedMatchedUnits": null,
+    "batchId": "team-2026-09-15"
+  },
+  {
+    "restaurant": "american",
+    "platform": "youtube",
+    "query": "\"American Deli\" Atlanta wings site:youtube.com/watch",
+    "queryUrl": "https://www.google.com/search?q=%22American+Deli%22+Atlanta+wings+site%3Ayoutube.com%2Fwatch&pws=0&hl=en&gl=us&num=10",
+    "observedAt": "2026-09-15T14:01:11Z",
+    "provider": "Google",
+    "personalization": "pws=0; hl=en; gl=us; num=10",
+    "searchLocation": "unknown (Google CAPTCHA page showed no location UI)",
+    "status": "blocked",
+    "sampled": null,
+    "results": [],
+    "audit": [],
+    "notes": "Google returned HTTP 429 / a human-verification challenge before usable results. No count was inferred. The reference branch address remains unresolved.",
+    "reportedMatchedUnits": null,
+    "batchId": "team-2026-09-15"
+  },
+  {
+    "restaurant": "american",
+    "platform": "x",
+    "query": "\"American Deli\" Atlanta wings (site:x.com OR site:twitter.com)",
+    "queryUrl": "https://www.google.com/search?q=%22American+Deli%22+Atlanta+wings+%28site%3Ax.com+OR+site%3Atwitter.com%29&pws=0&hl=en&gl=us&num=10",
+    "observedAt": "2026-09-15T14:01:47Z",
+    "provider": "Google",
+    "personalization": "pws=0; hl=en; gl=us; num=10",
+    "searchLocation": "unknown (Google CAPTCHA page showed no location UI)",
+    "status": "blocked",
+    "sampled": null,
+    "results": [],
+    "audit": [],
+    "notes": "Google returned HTTP 429 / a human-verification challenge before usable results. No count was inferred. The reference branch address remains unresolved.",
+    "reportedMatchedUnits": null,
+    "batchId": "team-2026-09-15"
+  },
+  {
+    "restaurant": "american",
+    "platform": "news",
+    "query": "\"American Deli\" Atlanta wings",
+    "queryUrl": "https://www.google.com/search?q=%22American+Deli%22+Atlanta+wings&pws=0&hl=en&gl=us&num=10&tbm=nws",
+    "observedAt": "2026-09-15T14:02:25Z",
+    "provider": "Google",
+    "personalization": "pws=0; hl=en; gl=us; num=10; tbm=nws",
+    "searchLocation": "unknown (Google CAPTCHA page showed no location UI)",
+    "status": "blocked",
+    "sampled": null,
+    "results": [],
+    "audit": [],
+    "notes": "Google returned HTTP 429 / a human-verification challenge before usable results. No count was inferred. The reference branch address remains unresolved.",
+    "reportedMatchedUnits": null,
+    "batchId": "team-2026-09-15"
+  },
+  {
+    "restaurant": "three",
+    "platform": "google",
+    "query": "\"Three Dollar Cafe\" Atlanta wings",
+    "queryUrl": "https://www.google.com/search?q=%22Three+Dollar+Cafe%22+Atlanta+wings&pws=0&hl=en&gl=us&num=10",
+    "observedAt": "2026-09-15T13:51:22.792Z",
+    "provider": "Google",
+    "personalization": "pws=0 requested; Google account/personalization not confirmed",
+    "searchLocation": "Atlanta, GA (top UI); footer: DuPage County, Illinois - From your IP address",
+    "status": "observed",
+    "sampled": 5,
+    "results": [
+      {
+        "position": 1,
+        "url": "https://www.threedollarcafe.com/"
+      },
+      {
+        "position": 2,
+        "url": "https://www.threedollarcafeatlanta.com/"
+      },
+      {
+        "position": 5,
+        "url": "https://www.yelp.com/biz/three-dollar-cafe-atlanta-6"
+      }
+    ],
+    "audit": [
+      {
+        "position": 1,
+        "url": "https://www.threedollarcafe.com/",
+        "title": "Three Dollar Cafe: Atlanta's Best Wings and Sports Bar",
+        "decision": "accepted",
+        "reason": "Official Atlanta food-business result."
+      },
+      {
+        "position": 2,
+        "url": "https://www.threedollarcafeatlanta.com/",
+        "title": "Three Dollar Cafe – Atlanta & Sandy Springs, GA",
+        "decision": "accepted",
+        "reason": "Named Atlanta-area business."
+      },
+      {
+        "position": 3,
+        "url": "https://www.threedollarcafe.com/locations/",
+        "title": "Menu & Locations — Three Dollar Cafe",
+        "decision": "rejected",
+        "reason": "Duplicate publisher domain threedollarcafe.com; kept first occurrence. Recoded on merge."
+      },
+      {
+        "position": 4,
+        "url": "https://www.threedollarcafe.com/menu/",
+        "title": "Menu — Three Dollar Cafe",
+        "decision": "rejected",
+        "reason": "Duplicate publisher domain threedollarcafe.com; kept first occurrence. Recoded on merge."
+      },
+      {
+        "position": 5,
+        "url": "https://www.yelp.com/biz/three-dollar-cafe-atlanta-6",
+        "title": "THREE DOLLAR CAFE - 4600 Roswell Rd NE, Atlanta",
+        "decision": "accepted",
+        "reason": "Named Atlanta location."
+      }
+    ],
+    "notes": "Local UI showed Chastain, Chamblee, and Dunwoody locations; relocation/current-branch status unresolved. MERGE QA: google deduped by publisher domain.",
+    "reportedMatchedUnits": 3,
+    "batchId": "team-2026-09-15"
+  },
+  {
+    "restaurant": "three",
+    "platform": "youtube",
+    "query": "\"Three Dollar Cafe\" Atlanta wings site:youtube.com/watch",
+    "queryUrl": "https://www.google.com/search?q=%22Three+Dollar+Cafe%22+Atlanta+wings+site%3Ayoutube.com%2Fwatch&pws=0&hl=en&gl=us&num=10",
+    "observedAt": "2026-09-15T13:52:23.589Z",
+    "provider": "Google",
+    "personalization": "pws=0 requested; Google account/personalization not confirmed",
+    "searchLocation": "DuPage County, Illinois - From your IP address (footer)",
+    "status": "observed",
+    "sampled": 5,
+    "results": [
+      {
+        "position": 1,
+        "url": "https://www.youtube.com/watch?v=GFvbJ-dgseY"
+      },
+      {
+        "position": 2,
+        "url": "https://www.youtube.com/watch?v=L4rLOEt3vxE"
+      }
+    ],
+    "audit": [
+      {
+        "position": 1,
+        "url": "https://www.youtube.com/watch?v=GFvbJ-dgseY",
+        "title": "Three Dollar Cafe 40th Birthday",
+        "decision": "accepted",
+        "reason": "Exact business; Atlanta wings context visible."
+      },
+      {
+        "position": 2,
+        "url": "https://www.youtube.com/watch?v=L4rLOEt3vxE",
+        "title": "Three Dollar Cafe, Chamblee, Ga, New Owner and Manager",
+        "decision": "accepted",
+        "reason": "Named Atlanta-area location."
+      },
+      {
+        "position": 3,
+        "url": "https://www.youtube.com/watch?v=GFvbJ-dgseY",
+        "title": "Three Dollar Cafe 40th Birthday",
+        "decision": "rejected",
+        "reason": "Duplicate YouTube video ID."
+      },
+      {
+        "position": 4,
+        "url": "https://www.youtube.com/watch?v=L4rLOEt3vxE",
+        "title": "Three Dollar Cafe, Chamblee, Ga, New Owner and Manager",
+        "decision": "rejected",
+        "reason": "Duplicate YouTube video ID."
+      },
+      {
+        "position": 5,
+        "url": "https://www.youtube.com/watch?v=L4rLOEt3vxE",
+        "title": "Three Dollar Cafe, Chamblee, Ga, New Owner and Manager - YouTube",
+        "decision": "rejected",
+        "reason": "Duplicate YouTube video ID."
+      }
+    ],
+    "notes": "Five reported headings contain only two distinct videos. Duplicate headings occupied three sample positions; no additional results were collected to replace them. This deviates from the original unique-heading protocol. Current location / relocation remains unresolved.",
+    "reportedMatchedUnits": 2,
+    "batchId": "team-2026-09-15",
+    "qualityFlags": [
+      "duplicate-headings-in-sample"
+    ]
+  },
+  {
+    "restaurant": "three",
+    "platform": "x",
+    "query": "\"Three Dollar Cafe\" Atlanta wings (site:x.com OR site:twitter.com)",
+    "queryUrl": "https://www.google.com/search?q=%22Three+Dollar+Cafe%22+Atlanta+wings+(site%3Ax.com+OR+site%3Atwitter.com)&pws=0&hl=en&gl=us&num=10",
+    "observedAt": "2026-09-15T13:53:27.074Z",
+    "provider": "Google",
+    "personalization": "pws=0 requested; Google account/personalization not confirmed",
+    "searchLocation": "DuPage County, Illinois - From your IP address (footer)",
+    "status": "observed",
+    "sampled": 5,
+    "results": [
+      {
+        "position": 1,
+        "url": "https://x.com/ajc/status/1732218319346803108"
+      },
+      {
+        "position": 4,
+        "url": "https://x.com/bellavista_7/status/2091883941590376591?lang=ar"
+      }
+    ],
+    "audit": [
+      {
+        "position": 1,
+        "url": "https://x.com/ajc/status/1732218319346803108",
+        "title": "Atlanta Classics: With 10 Three Dollar Cafe locations around ...",
+        "decision": "accepted",
+        "reason": "AJC post identifies Atlanta business and wings."
+      },
+      {
+        "position": 2,
+        "url": "https://x.com/threedollarcafe",
+        "title": "Three Dollar Cafe",
+        "decision": "rejected",
+        "reason": "X profile/replies page, not a post ID; protocol excludes profiles from the X sample. Recoded on merge."
+      },
+      {
+        "position": 3,
+        "url": "https://x.com/chefgogolin/with_replies",
+        "title": "Replies by Michael Gogolin (@chefgogolin) / X",
+        "decision": "rejected",
+        "reason": "X profile/replies page, not a post ID; protocol excludes profiles from the X sample. Recoded on merge."
+      },
+      {
+        "position": 4,
+        "url": "https://x.com/bellavista_7/status/2091883941590376591?lang=ar",
+        "title": "Bella on X: Atlanta twitter brief trip...",
+        "decision": "accepted",
+        "reason": "Post names Three Dollar Cafe as an Atlanta favorite."
+      },
+      {
+        "position": 5,
+        "url": "https://x.com/nancywilfong?lang=ar",
+        "title": "Nancy Wilfong (@nancywilfong) / X",
+        "decision": "rejected",
+        "reason": "X profile/replies page, not a post ID; protocol excludes profiles from the X sample. Recoded on merge."
+      }
+    ],
+    "notes": "No duplicate X post IDs in the sampled five. MERGE QA: X profiles recoded to rejected; posts kept.",
+    "reportedMatchedUnits": 2,
+    "batchId": "team-2026-09-15"
+  },
+  {
+    "restaurant": "three",
+    "platform": "news",
+    "query": "\"Three Dollar Cafe\" Atlanta wings",
+    "queryUrl": "https://www.google.com/search?q=%22Three+Dollar+Cafe%22+Atlanta+wings&pws=0&hl=en&gl=us&num=10&tbm=nws",
+    "observedAt": "2026-09-15T14:05:03Z",
+    "provider": "Google",
+    "personalization": "pws=0 requested; Google account/personalization not confirmed",
+    "searchLocation": "Not shown; CAPTCHA/HTTP 429 block page",
+    "status": "blocked",
+    "sampled": null,
+    "results": [],
+    "audit": [],
+    "notes": "Google returned HTTP 429 / a human-verification challenge before usable results. No count was inferred. Current location / relocation remains unresolved.",
+    "reportedMatchedUnits": null,
+    "batchId": "team-2026-09-15"
+  },
+  {
+    "restaurant": "fire",
+    "platform": "google",
+    "query": "\"Firepit Pizza Tavern\" Atlanta wings",
+    "queryUrl": "https://www.google.com/search?q=%22Firepit+Pizza+Tavern%22+Atlanta+wings&pws=0&hl=en&gl=us&num=10",
+    "observedAt": "2026-09-15T13:52:43Z",
+    "provider": "Google",
+    "personalization": "pws=0; hl=en; gl=us; num=10",
+    "searchLocation": "DuPage County, Illinois from IP",
+    "status": "observed",
+    "sampled": 5,
+    "results": [
+      {
+        "position": 1,
+        "url": "https://firepitatl.com/atlanta-grant-park-firepit-pizza-tavern-food-menu"
+      },
+      {
+        "position": 3,
+        "url": "https://www.instagram.com/p/C6_8SK9umVG/"
+      },
+      {
+        "position": 4,
+        "url": "https://www.yelp.com/biz/firepit-pizza-tavern-atlanta-3"
+      },
+      {
+        "position": 5,
+        "url": "https://www.carenwestpr.com/firepits-unicorn-wing-season-now-available-for-purchase/"
+      }
+    ],
+    "audit": [
+      {
+        "position": 1,
+        "url": "https://firepitatl.com/atlanta-grant-park-firepit-pizza-tavern-food-menu",
+        "title": "Firepit Pizza Tavern - Food Menu",
+        "decision": "accepted",
+        "reason": "Official Firepit Pizza Tavern food-menu result; wings are shown in the SERP."
+      },
+      {
+        "position": 2,
+        "url": "https://firepitatl.com/",
+        "title": "Firepit Pizza Tavern | Grant Park, Atlanta, GA",
+        "decision": "rejected",
+        "reason": "Duplicate publisher domain firepitatl.com; position 1 already represents this domain."
+      },
+      {
+        "position": 3,
+        "url": "https://www.instagram.com/p/C6_8SK9umVG/",
+        "title": "Nobody else in the world can replicate our Unicorn Wings.",
+        "decision": "accepted",
+        "reason": "Food-business match: Firepit Pizza Tavern Instagram post about Unicorn Wings."
+      },
+      {
+        "position": 4,
+        "url": "https://www.yelp.com/biz/firepit-pizza-tavern-atlanta-3",
+        "title": "Firepit Pizza Tavern - Restaurant Reviews",
+        "decision": "accepted",
+        "reason": "Food-business match: Firepit Pizza Tavern restaurant review listing."
+      },
+      {
+        "position": 5,
+        "url": "https://www.carenwestpr.com/firepits-unicorn-wing-season-now-available-for-purchase/",
+        "title": "Firepit's Unicorn Wing Season Now Available for Purchase",
+        "decision": "accepted",
+        "reason": "Food-business match: Firepit Pizza Tavern wing publicity article."
+      }
+    ],
+    "notes": "AI Overview, knowledge-panel material, and extra sitelinks were excluded. Search location shown by Google: DuPage County, Illinois from IP.",
+    "reportedMatchedUnits": 4,
+    "batchId": "team-2026-09-15"
+  },
+  {
+    "restaurant": "fire",
+    "platform": "youtube",
+    "query": "\"Firepit Pizza Tavern\" Atlanta wings site:youtube.com/watch",
+    "queryUrl": "https://www.google.com/search?q=%22Firepit+Pizza+Tavern%22+Atlanta+wings+site%3Ayoutube.com%2Fwatch&pws=0&hl=en&gl=us&num=10",
+    "observedAt": "2026-09-15T13:53:30Z",
+    "provider": "Google",
+    "personalization": "pws=0; hl=en; gl=us; num=10",
+    "searchLocation": "DuPage County, Illinois from IP",
+    "status": "observed",
+    "sampled": 3,
+    "results": [
+      {
+        "position": 1,
+        "url": "https://www.youtube.com/watch?v=vSpjYDpZ1bg"
+      },
+      {
+        "position": 2,
+        "url": "https://www.youtube.com/watch?v=5FJvutE8mA4"
+      }
+    ],
+    "audit": [
+      {
+        "position": 1,
+        "url": "https://www.youtube.com/watch?v=vSpjYDpZ1bg",
+        "title": "Restaurant Review - Firepit Pizza Tavern | Atlanta Eats",
+        "decision": "accepted",
+        "reason": "YouTube restaurant review explicitly naming Firepit Pizza Tavern."
+      },
+      {
+        "position": 2,
+        "url": "https://www.youtube.com/watch?v=5FJvutE8mA4",
+        "title": "Burgers with Buck visits Firepit Pizza Tavern",
+        "decision": "accepted",
+        "reason": "YouTube food-business visit explicitly naming Firepit Pizza Tavern."
+      },
+      {
+        "position": 3,
+        "url": "https://www.youtube.com/watch?v=iIo45WYOAds",
+        "title": "Top 10 Wing Spots in Atlanta You MUST Try | Best Wings in ...",
+        "decision": "rejected",
+        "reason": "Identity ambiguous from primary metadata: title does not identify Firepit Pizza Tavern; no extra research performed."
+      }
+    ],
+    "notes": "Deduplicated by YouTube video ID. Position 3 was retained in the first-three sample but rejected because the primary title did not identify Firepit Pizza Tavern. Search location shown by Google: DuPage County, Illinois from IP.",
+    "reportedMatchedUnits": 2,
+    "batchId": "team-2026-09-15"
+  },
+  {
+    "restaurant": "fire",
+    "platform": "x",
+    "query": "\"Firepit Pizza Tavern\" Atlanta wings (site:x.com OR site:twitter.com)",
+    "queryUrl": "https://www.google.com/search?q=%22Firepit+Pizza+Tavern%22+Atlanta+wings+%28site%3Ax.com+OR+site%3Atwitter.com%29&pws=0&hl=en&gl=us&num=10",
+    "observedAt": "2026-09-15T13:54:19Z",
+    "provider": "Google",
+    "personalization": "pws=0; hl=en; gl=us; num=10",
+    "searchLocation": "DuPage County, Illinois from IP",
+    "status": "observed",
+    "sampled": 1,
+    "results": [],
+    "audit": [
+      {
+        "position": 1,
+        "url": "https://x.com/carenwestpr",
+        "title": "Caren West PR",
+        "decision": "rejected",
+        "reason": "X profile page, not a post; protocol excludes profiles from the X sample. Recoded on merge."
+      }
+    ],
+    "notes": "Google returned one X profile result, not an individual post; no post ID was present for deduplication. Search location shown by Google: DuPage County, Illinois from IP. MERGE QA: X profile recoded to rejected.",
+    "reportedMatchedUnits": 0,
+    "batchId": "team-2026-09-15"
+  },
+  {
+    "restaurant": "fire",
+    "platform": "news",
+    "query": "\"Firepit Pizza Tavern\" Atlanta wings",
+    "queryUrl": "https://www.google.com/search?q=%22Firepit+Pizza+Tavern%22+Atlanta+wings&pws=0&hl=en&gl=us&num=10&tbm=nws",
+    "observedAt": "2026-09-15T13:55:01Z",
+    "provider": "Google",
+    "personalization": "pws=0; hl=en; gl=us; num=10; tbm=nws",
+    "searchLocation": "DuPage County, Illinois from IP",
+    "status": "observed",
+    "sampled": 5,
+    "results": [
+      {
+        "position": 1,
+        "url": "https://voyageatl.com/interview/exploring-life-business-with-leslie-cohen-of-firepit-pizza-tavern-and-birdcage/"
+      },
+      {
+        "position": 2,
+        "url": "https://atlanta.eater.com/2018/5/16/17360402/firepit-pizza-tavern-grant-park-menu"
+      },
+      {
+        "position": 3,
+        "url": "https://whatnow.com/atlanta/restaurants/firepit-pizza-tavern-planning-decatur-location/"
+      }
+    ],
+    "audit": [
+      {
+        "position": 1,
+        "url": "https://voyageatl.com/interview/exploring-life-business-with-leslie-cohen-of-firepit-pizza-tavern-and-birdcage/",
+        "title": "Exploring Life & Business with Leslie Cohen of Firepit Pizza Tavern and Birdcage",
+        "decision": "accepted",
+        "reason": "News/article match explicitly naming Firepit Pizza Tavern."
+      },
+      {
+        "position": 2,
+        "url": "https://atlanta.eater.com/2018/5/16/17360402/firepit-pizza-tavern-grant-park-menu",
+        "title": "Brick Oven Pizzas and Unicorn Wings Arrive at Grant Park Pizzeria",
+        "decision": "accepted",
+        "reason": "Food-business news match; snippet explicitly names Firepit Pizza Tavern and chicken wings."
+      },
+      {
+        "position": 3,
+        "url": "https://whatnow.com/atlanta/restaurants/firepit-pizza-tavern-planning-decatur-location/",
+        "title": "Firepit Pizza Tavern Planning Decatur Location",
+        "decision": "accepted",
+        "reason": "News/article match explicitly naming Firepit Pizza Tavern."
+      },
+      {
+        "position": 4,
+        "url": "https://stacker.com/stories/georgia/atlanta/highest-rated-chicken-wings-atlanta-diners",
+        "title": "Highest-rated chicken wings in Atlanta by diners",
+        "decision": "rejected",
+        "reason": "Generic guide title; no identifiable Firepit match in visible metadata (unconfirmed). Recoded on merge."
+      },
+      {
+        "position": 5,
+        "url": "https://creativeloafing.com/content-478282-where-to-eat-pizza-in-atlanta",
+        "title": "Where to Eat Pizza in Atlanta",
+        "decision": "rejected",
+        "reason": "Generic guide title; no identifiable Firepit match in visible metadata (unconfirmed). Recoded on merge."
+      }
+    ],
+    "notes": "The submitted final audit rejects positions 4–5 because restaurant identity is unconfirmed; three distinct matching publishers count.",
+    "reportedMatchedUnits": 3,
+    "batchId": "team-2026-09-15"
+  },
+  {
+    "restaurant": "stein",
+    "platform": "google",
+    "query": "\"Steinbeck's\" Atlanta wings",
+    "queryUrl": "https://www.google.com/search?q=%22Steinbeck%27s%22+Atlanta+wings&pws=0&hl=en&gl=us&num=10",
+    "observedAt": "2026-09-15T13:57:20Z",
+    "provider": "Google",
+    "personalization": "pws=0; hl=en; gl=us; num=10",
+    "searchLocation": "DuPage County, Illinois from IP",
+    "status": "observed",
+    "sampled": 5,
+    "results": [
+      {
+        "position": 1,
+        "url": "https://www.steinbecksbar.com/items/house-smoked-wings-2"
+      },
+      {
+        "position": 3,
+        "url": "https://www.yelp.com/biz/steinbecks-ale-house-decatur-3"
+      },
+      {
+        "position": 4,
+        "url": "https://steinbecks.hrpos.heartland.us/menu"
+      },
+      {
+        "position": 5,
+        "url": "https://wanderlog.com/place/details/3172711/steinbecks"
+      }
+    ],
+    "audit": [
+      {
+        "position": 1,
+        "url": "https://www.steinbecksbar.com/items/house-smoked-wings-2",
+        "title": "House Smoked Wings - Decatur",
+        "decision": "accepted",
+        "reason": "Official Steinbeck's menu item; visible title identifies the restaurant and wings."
+      },
+      {
+        "position": 2,
+        "url": "https://www.steinbecksbar.com/",
+        "title": "Home - Steinbeck's - Pub in Decatur, GA",
+        "decision": "rejected",
+        "reason": "Duplicate publisher domain steinbecksbar.com; position 1 already represents this domain."
+      },
+      {
+        "position": 3,
+        "url": "https://www.yelp.com/biz/steinbecks-ale-house-decatur-3",
+        "title": "Steinbeck's Ale House menu photos - Bars",
+        "decision": "accepted",
+        "reason": "Food-business match; visible title and Decatur URL identify Steinbeck's Ale House."
+      },
+      {
+        "position": 4,
+        "url": "https://steinbecks.hrpos.heartland.us/menu",
+        "title": "Universal Joint - Steinbeck's | Online Ordering by Genius Heartland Payment Systems",
+        "decision": "accepted",
+        "reason": "Visible title and ordering URL identify Steinbeck's restaurant menu."
+      },
+      {
+        "position": 5,
+        "url": "https://wanderlog.com/place/details/3172711/steinbecks",
+        "title": "Steinbeck's, Atlanta, GA - Reviews, Ratings, Tips and Why You ...",
+        "decision": "accepted",
+        "reason": "Visible title identifies the restaurant in the Atlanta metro area."
+      }
+    ],
+    "notes": "AI Overview, knowledge-panel ratings/material, and extra sitelinks were excluded. First five primary organic headings were inspected and deduplicated by publisher domain. Search results identify the 659 E Lake Dr, Decatur/Oakhurst Steinbeck's location.",
+    "reportedMatchedUnits": 4,
+    "batchId": "team-2026-09-15"
+  },
+  {
+    "restaurant": "stein",
+    "platform": "youtube",
+    "query": "\"Steinbeck's\" Atlanta wings site:youtube.com/watch",
+    "queryUrl": "https://www.google.com/search?q=%22Steinbeck%27s%22+Atlanta+wings+site%3Ayoutube.com%2Fwatch&pws=0&hl=en&gl=us&num=10",
+    "observedAt": "2026-09-15T13:57:52Z",
+    "provider": "Google",
+    "personalization": "pws=0; hl=en; gl=us; num=10",
+    "searchLocation": "DuPage County, Illinois from IP",
+    "status": "observed",
+    "sampled": 0,
+    "results": [],
+    "audit": [],
+    "notes": "Google rendered a normal SERP stating the exact query did not match any documents; no primary headings appeared. No YouTube video IDs were available.",
+    "reportedMatchedUnits": 0,
+    "batchId": "team-2026-09-15"
+  },
+  {
+    "restaurant": "stein",
+    "platform": "x",
+    "query": "\"Steinbeck's\" Atlanta wings (site:x.com OR site:twitter.com)",
+    "queryUrl": "https://www.google.com/search?q=%22Steinbeck%27s%22+Atlanta+wings+%28site%3Ax.com+OR+site%3Atwitter.com%29&pws=0&hl=en&gl=us&num=10",
+    "observedAt": "2026-09-15T13:58:38Z",
+    "provider": "Google",
+    "personalization": "pws=0; hl=en; gl=us; num=10",
+    "searchLocation": "unknown (Google CAPTCHA page showed no location UI)",
+    "status": "blocked",
+    "sampled": null,
+    "results": [],
+    "audit": [],
+    "notes": "Google returned HTTP 429 / a human-verification challenge before usable results. No count was inferred.",
+    "reportedMatchedUnits": null,
+    "batchId": "team-2026-09-15"
+  },
+  {
+    "restaurant": "stein",
+    "platform": "news",
+    "query": "\"Steinbeck's\" Atlanta wings",
+    "queryUrl": "https://www.google.com/search?q=%22Steinbeck%27s%22+Atlanta+wings&pws=0&hl=en&gl=us&num=10&tbm=nws",
+    "observedAt": "2026-09-15T13:59:20Z",
+    "provider": "Google",
+    "personalization": "pws=0; hl=en; gl=us; num=10; tbm=nws",
+    "searchLocation": "unknown (Google CAPTCHA page showed no location UI)",
+    "status": "blocked",
+    "sampled": null,
+    "results": [],
+    "audit": [],
+    "notes": "Google returned HTTP 429 / a human-verification challenge before usable results. No count was inferred.",
+    "reportedMatchedUnits": null,
+    "batchId": "team-2026-09-15"
+  },
+  {
+    "restaurant": "argosy",
+    "platform": "google",
+    "query": "\"Argosy\" Atlanta wings",
+    "queryUrl": "https://www.google.com/search?q=%22Argosy%22+Atlanta+wings&pws=0&hl=en&gl=us&num=10",
+    "observedAt": "2026-09-15T14:06:26Z",
+    "provider": "Google",
+    "personalization": "pws=0 requested; Google account/personalization not confirmed",
+    "searchLocation": "Not shown; CAPTCHA/HTTP 429 block page",
+    "status": "blocked",
+    "sampled": null,
+    "results": [],
+    "audit": [],
+    "notes": "Google returned HTTP 429 / a human-verification challenge before usable results. No count was inferred.",
+    "reportedMatchedUnits": null,
+    "batchId": "team-2026-09-15"
+  },
+  {
+    "restaurant": "argosy",
+    "platform": "youtube",
+    "query": "\"Argosy\" Atlanta wings site:youtube.com/watch",
+    "queryUrl": "https://www.google.com/search?q=%22Argosy%22+Atlanta+wings+site%3Ayoutube.com%2Fwatch&pws=0&hl=en&gl=us&num=10",
+    "observedAt": "2026-09-15T14:07:07Z",
+    "provider": "Google",
+    "personalization": "pws=0 requested; Google account/personalization not confirmed",
+    "searchLocation": "Not shown; CAPTCHA/HTTP 429 block page",
+    "status": "blocked",
+    "sampled": null,
+    "results": [],
+    "audit": [],
+    "notes": "Google returned HTTP 429 / a human-verification challenge before usable results. No count was inferred.",
+    "reportedMatchedUnits": null,
+    "batchId": "team-2026-09-15"
+  },
+  {
+    "restaurant": "argosy",
+    "platform": "x",
+    "query": "\"Argosy\" Atlanta wings (site:x.com OR site:twitter.com)",
+    "queryUrl": "https://www.google.com/search?q=%22Argosy%22+Atlanta+wings+(site%3Ax.com+OR+site%3Atwitter.com)&pws=0&hl=en&gl=us&num=10",
+    "observedAt": "2026-09-15T14:07:49Z",
+    "provider": "Google",
+    "personalization": "pws=0 requested; Google account/personalization not confirmed",
+    "searchLocation": "Not shown; CAPTCHA/HTTP 429 block page",
+    "status": "blocked",
+    "sampled": null,
+    "results": [],
+    "audit": [],
+    "notes": "Google returned HTTP 429 / a human-verification challenge before usable results. No count was inferred.",
+    "reportedMatchedUnits": null,
+    "batchId": "team-2026-09-15"
+  },
+  {
+    "restaurant": "argosy",
+    "platform": "news",
+    "query": "\"Argosy\" Atlanta wings",
+    "queryUrl": "https://www.google.com/search?q=%22Argosy%22+Atlanta+wings&pws=0&hl=en&gl=us&num=10&tbm=nws",
+    "observedAt": "2026-09-15T14:08:27Z",
+    "provider": "Google",
+    "personalization": "pws=0 requested; Google account/personalization not confirmed",
+    "searchLocation": "Not shown; CAPTCHA/HTTP 429 block page",
+    "status": "blocked",
+    "sampled": null,
+    "results": [],
+    "audit": [],
+    "notes": "Google returned HTTP 429 / a human-verification challenge before usable results. No count was inferred.",
+    "reportedMatchedUnits": null,
+    "batchId": "team-2026-09-15"
+  }
+]
