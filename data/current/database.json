@@ -999,7 +999,7 @@
         "id": "census"
       },
       {
-        "as_of": "2026-09-15T02:44:46.301Z",
+        "as_of": "2026-10-09T22:34:47Z",
         "id": "market"
       },
       {
@@ -1385,11 +1385,27 @@
         "symbol": "A"
       },
       {
+        "change": 3.33,
+        "change_percent": 1.98,
+        "name": "Agilent Technologies Inc.",
+        "price": 171.5,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "A"
+      },
+      {
         "change": 0.81,
         "change_percent": 0.24,
         "name": "Apple Inc.",
         "price": 333.08,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
+        "symbol": "AAPL"
+      },
+      {
+        "change": -4.21,
+        "change_percent": -1.24,
+        "name": "Apple Inc.",
+        "price": 336.21,
+        "snapshot_at": "2026-10-09T22:34:47Z",
         "symbol": "AAPL"
       },
       {
@@ -1401,6 +1417,22 @@
         "symbol": "ABBV"
       },
       {
+        "change": 3.83,
+        "change_percent": 1.41,
+        "name": "ABBVIE INC.",
+        "price": 276.25,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "ABBV"
+      },
+      {
+        "change": 2.84,
+        "change_percent": 1.74,
+        "name": "Airbnb, Inc. Class A Common Stock",
+        "price": 166.07,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "ABNB"
+      },
+      {
         "change": 0.46,
         "change_percent": 0.27,
         "name": "Airbnb, Inc. Class A Common Stock",
@@ -1409,12 +1441,28 @@
         "symbol": "ABNB"
       },
       {
+        "change": 1.56,
+        "change_percent": 1.58,
+        "name": "Abbott Laboratories",
+        "price": 100.05,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "ABT"
+      },
+      {
         "change": 1.14,
         "change_percent": 1.12,
         "name": "Abbott Laboratories",
         "price": 103.09,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "ABT"
+      },
+      {
+        "change": -0.44,
+        "change_percent": -0.46,
+        "name": "Arch Capital Group Ltd",
+        "price": 95.64,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "ACGL"
       },
       {
         "change": 1.86,
@@ -1433,6 +1481,22 @@
         "symbol": "ACN"
       },
       {
+        "change": 0.56,
+        "change_percent": 0.27,
+        "name": "Accenture PLC",
+        "price": 208.93,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "ACN"
+      },
+      {
+        "change": 0.69,
+        "change_percent": 0.28,
+        "name": "Adobe Inc.",
+        "price": 241.74,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "ADBE"
+      },
+      {
         "change": 13.37,
         "change_percent": 5.3,
         "name": "Adobe Inc.",
@@ -1449,12 +1513,36 @@
         "symbol": "ADI"
       },
       {
+        "change": 1.14,
+        "change_percent": 0.28,
+        "name": "Analog Devices, Inc.",
+        "price": 407.07,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "ADI"
+      },
+      {
+        "change": -2.25,
+        "change_percent": -2.73,
+        "name": "Archer Daniels Midland Company",
+        "price": 80.2,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "ADM"
+      },
+      {
         "change": -0.28,
         "change_percent": -0.32,
         "name": "Archer Daniels Midland Company",
         "price": 86.44,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "ADM"
+      },
+      {
+        "change": 1.08,
+        "change_percent": 0.4,
+        "name": "Automatic Data Processing",
+        "price": 271.81,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "ADP"
       },
       {
         "change": 8.37,
@@ -1473,6 +1561,22 @@
         "symbol": "ADSK"
       },
       {
+        "change": 1.79,
+        "change_percent": 0.77,
+        "name": "Autodesk Inc",
+        "price": 235.39,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "ADSK"
+      },
+      {
+        "change": 0.34,
+        "change_percent": 0.34,
+        "name": "Ameren Corporation",
+        "price": 102.19,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "AEE"
+      },
+      {
         "change": -0.93,
         "change_percent": -0.89,
         "name": "Ameren Corporation",
@@ -1489,12 +1593,36 @@
         "symbol": "AEP"
       },
       {
+        "change": 0.16,
+        "change_percent": 0.13,
+        "name": "American Electric Power Company, Inc.",
+        "price": 122.47,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "AEP"
+      },
+      {
         "change": 0.01,
         "change_percent": 0.07,
         "name": "AES Corporation",
         "price": 14.8,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "AES"
+      },
+      {
+        "change": -0.02,
+        "change_percent": -0.13,
+        "name": "AES Corporation",
+        "price": 14.91,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "AES"
+      },
+      {
+        "change": -0.39,
+        "change_percent": -0.34,
+        "name": "Aflac Inc.",
+        "price": 114.55,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "AFL"
       },
       {
         "change": 1.73,
@@ -1513,12 +1641,36 @@
         "symbol": "AIG"
       },
       {
+        "change": -0.34,
+        "change_percent": -0.45,
+        "name": "American International Group, Inc.",
+        "price": 76.7,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "AIG"
+      },
+      {
+        "change": -6.35,
+        "change_percent": -2.33,
+        "name": "Assurant, Inc.",
+        "price": 266.51,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "AIZ"
+      },
+      {
         "change": 0.81,
         "change_percent": 0.29,
         "name": "Assurant, Inc.",
         "price": 283.27,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "AIZ"
+      },
+      {
+        "change": -1.44,
+        "change_percent": -0.62,
+        "name": "Arthur J. Gallagher & Co.",
+        "price": 232.61,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "AJG"
       },
       {
         "change": 12.98,
@@ -1537,12 +1689,36 @@
         "symbol": "AKAM"
       },
       {
+        "change": 5.94,
+        "change_percent": 5.89,
+        "name": "Akamai Technologies Inc",
+        "price": 106.84,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "AKAM"
+      },
+      {
+        "change": -0.69,
+        "change_percent": -0.67,
+        "name": "Albemarle Corporation",
+        "price": 101.41,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "ALB"
+      },
+      {
         "change": -2.49,
         "change_percent": -2.12,
         "name": "Albemarle Corporation",
         "price": 115.03,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "ALB"
+      },
+      {
+        "change": 1.81,
+        "change_percent": 1.28,
+        "name": "Align Technology Inc",
+        "price": 142.84,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "ALGN"
       },
       {
         "change": 2.18,
@@ -1553,12 +1729,28 @@
         "symbol": "ALGN"
       },
       {
+        "change": -3.2,
+        "change_percent": -1.39,
+        "name": "The Allstate Corporation",
+        "price": 227.43,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "ALL"
+      },
+      {
         "change": 4.77,
         "change_percent": 1.88,
         "name": "The Allstate Corporation",
         "price": 258.48,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "ALL"
+      },
+      {
+        "change": 0.54,
+        "change_percent": 0.36,
+        "name": "Allegion Public Limited Company",
+        "price": 150.53,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "ALLE"
       },
       {
         "change": 2.04,
@@ -1577,6 +1769,22 @@
         "symbol": "AMAT"
       },
       {
+        "change": -2.29,
+        "change_percent": -0.45,
+        "name": "Applied Materials Inc",
+        "price": 507.28,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "AMAT"
+      },
+      {
+        "change": -0.53,
+        "change_percent": -1.25,
+        "name": "Amcor plc Ordinary Shares",
+        "price": 41.35,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "AMCR"
+      },
+      {
         "change": -0.07,
         "change_percent": -0.17,
         "name": "Amcor plc Ordinary Shares",
@@ -1593,11 +1801,27 @@
         "symbol": "AMD"
       },
       {
+        "change": -13.28,
+        "change_percent": -2.14,
+        "name": "Advanced Micro Devices",
+        "price": 607.4,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "AMD"
+      },
+      {
         "change": -8.22,
         "change_percent": -3.4,
         "name": "Ametek, Inc.",
         "price": 233.65,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
+        "symbol": "AME"
+      },
+      {
+        "change": 1.96,
+        "change_percent": 0.79,
+        "name": "Ametek, Inc.",
+        "price": 249.48,
+        "snapshot_at": "2026-10-09T22:34:47Z",
         "symbol": "AME"
       },
       {
@@ -1607,6 +1831,22 @@
         "price": 381.5,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "AMGN"
+      },
+      {
+        "change": 7.79,
+        "change_percent": 1.91,
+        "name": "Amgen Inc",
+        "price": 415.23,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "AMGN"
+      },
+      {
+        "change": 1.37,
+        "change_percent": 0.27,
+        "name": "Ameriprise Financial, Inc.",
+        "price": 500.45,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "AMP"
       },
       {
         "change": 0.93,
@@ -1625,11 +1865,27 @@
         "symbol": "AMT"
       },
       {
+        "change": 14.61,
+        "change_percent": 8.76,
+        "name": "American Tower Corporation",
+        "price": 181.34,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "AMT"
+      },
+      {
         "change": -3.24,
         "change_percent": -1.26,
         "name": "Amazon.Com Inc",
         "price": 253.54,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
+        "symbol": "AMZN"
+      },
+      {
+        "change": 8.44,
+        "change_percent": 3.32,
+        "name": "Amazon.Com Inc",
+        "price": 262.5,
+        "snapshot_at": "2026-10-09T22:34:47Z",
         "symbol": "AMZN"
       },
       {
@@ -1641,12 +1897,36 @@
         "symbol": "ANET"
       },
       {
+        "change": 5.78,
+        "change_percent": 2.74,
+        "name": "Arista Networks",
+        "price": 216.75,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "ANET"
+      },
+      {
+        "change": -3.36,
+        "change_percent": -1.21,
+        "name": "Aon plc Class A",
+        "price": 273.76,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "AON"
+      },
+      {
         "change": 8.85,
         "change_percent": 2.92,
         "name": "Aon plc Class A",
         "price": 311.54,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "AON"
+      },
+      {
+        "change": -0.17,
+        "change_percent": -0.3,
+        "name": "A.O. Smith Corporation",
+        "price": 56.39,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "AOS"
       },
       {
         "change": -0.01,
@@ -1665,6 +1945,22 @@
         "symbol": "APA"
       },
       {
+        "change": 0.41,
+        "change_percent": 0.9,
+        "name": "APA Corporation Common Stock",
+        "price": 45.88,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "APA"
+      },
+      {
+        "change": 2.84,
+        "change_percent": 1.02,
+        "name": "Air Products & Chemicals, Inc.",
+        "price": 281.22,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "APD"
+      },
+      {
         "change": -4.3,
         "change_percent": -1.48,
         "name": "Air Products & Chemicals, Inc.",
@@ -1681,12 +1977,36 @@
         "symbol": "APH"
       },
       {
+        "change": 1.65,
+        "change_percent": 1.93,
+        "name": "Amphenol Corporation",
+        "price": 86.97,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "APH"
+      },
+      {
+        "change": 1.03,
+        "change_percent": 0.89,
+        "name": "Apollo Global Management, Inc.",
+        "price": 116.33,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "APO"
+      },
+      {
         "change": -0.67,
         "change_percent": -0.52,
         "name": "Apollo Global Management, Inc.",
         "price": 128.31,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "APO"
+      },
+      {
+        "change": -3.05,
+        "change_percent": -1.09,
+        "name": "Applovin Corporation Class A Common Stock",
+        "price": 277.07,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "APP"
       },
       {
         "change": 10.28,
@@ -1697,12 +2017,28 @@
         "symbol": "APP"
       },
       {
+        "change": -0.34,
+        "change_percent": -0.77,
+        "name": "Aptiv PLC",
+        "price": 43.87,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "APTV"
+      },
+      {
         "change": -0.75,
         "change_percent": -1.65,
         "name": "Aptiv PLC",
         "price": 44.79,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "APTV"
+      },
+      {
+        "change": -0.13,
+        "change_percent": -0.27,
+        "name": "Alexandria Real Estate Equities, Inc.",
+        "price": 45.48,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "ARE"
       },
       {
         "change": 0.82,
@@ -1713,12 +2049,28 @@
         "symbol": "ARE"
       },
       {
+        "change": 0.63,
+        "change_percent": 0.54,
+        "name": "Ares Management Corporation Class A Common Stock",
+        "price": 116.89,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "ARES"
+      },
+      {
         "change": -0.12,
         "change_percent": -0.09,
         "name": "Ares Management Corporation Class A Common Stock",
         "price": 131.52,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "ARES"
+      },
+      {
+        "change": 1,
+        "change_percent": 0.62,
+        "name": "Atmos Energy Corporation",
+        "price": 161.66,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "ATO"
       },
       {
         "change": 0.65,
@@ -1737,12 +2089,36 @@
         "symbol": "AVGO"
       },
       {
+        "change": 2.09,
+        "change_percent": 0.58,
+        "name": "Broadcom Inc. Common Stock",
+        "price": 362.23,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "AVGO"
+      },
+      {
+        "change": 0.17,
+        "change_percent": 0.1,
+        "name": "Avery Dennison Corp.",
+        "price": 167.79,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "AVY"
+      },
+      {
         "change": 1.54,
         "change_percent": 0.91,
         "name": "Avery Dennison Corp.",
         "price": 170.92,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "AVY"
+      },
+      {
+        "change": 0.76,
+        "change_percent": 0.6,
+        "name": "American Water Works Company, Inc",
+        "price": 128.94,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "AWK"
       },
       {
         "change": 1.23,
@@ -1753,12 +2129,28 @@
         "symbol": "AWK"
       },
       {
+        "change": 6.21,
+        "change_percent": 1.49,
+        "name": "Axon Enterprise, Inc. Common Stock",
+        "price": 423.52,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "AXON"
+      },
+      {
         "change": 10.84,
         "change_percent": 2.26,
         "name": "Axon Enterprise, Inc. Common Stock",
         "price": 490.18,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "AXON"
+      },
+      {
+        "change": 0.29,
+        "change_percent": 0.1,
+        "name": "American Express Company",
+        "price": 308.39,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "AXP"
       },
       {
         "change": 3.09,
@@ -1769,12 +2161,28 @@
         "symbol": "AXP"
       },
       {
+        "change": 17.02,
+        "change_percent": 0.58,
+        "name": "AutoZone, Inc.",
+        "price": 2927.56,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "AZO"
+      },
+      {
         "change": 88.77,
         "change_percent": 3.09,
         "name": "AutoZone, Inc.",
         "price": 2965.52,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "AZO"
+      },
+      {
+        "change": 2.57,
+        "change_percent": 1.37,
+        "name": "Boeing Company",
+        "price": 190.32,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "BA"
       },
       {
         "change": -0.18,
@@ -1785,12 +2193,28 @@
         "symbol": "BA"
       },
       {
+        "change": 0.73,
+        "change_percent": 1.35,
+        "name": "Bank of America Corporation",
+        "price": 54.34,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "BAC"
+      },
+      {
         "change": -3.22,
         "change_percent": -5.14,
         "name": "Bank of America Corporation",
         "price": 59.47,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "BAC"
+      },
+      {
+        "change": 0.08,
+        "change_percent": 0.14,
+        "name": "Ball Corporation",
+        "price": 58.45,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "BALL"
       },
       {
         "change": 0.81,
@@ -1809,6 +2233,22 @@
         "symbol": "BAX"
       },
       {
+        "change": 0.46,
+        "change_percent": 1.9,
+        "name": "Baxter International Inc.",
+        "price": 24.36,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "BAX"
+      },
+      {
+        "change": -0.65,
+        "change_percent": -0.73,
+        "name": "Best Buy Company, Inc.",
+        "price": 87.75,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "BBY"
+      },
+      {
         "change": 4.03,
         "change_percent": 4.44,
         "name": "Best Buy Company, Inc.",
@@ -1823,6 +2263,30 @@
         "price": 182.91,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "BDX"
+      },
+      {
+        "change": 0.94,
+        "change_percent": 0.52,
+        "name": "Becton, Dickinson and Co.",
+        "price": 183.69,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "BDX"
+      },
+      {
+        "change": 6.72,
+        "change_percent": 2.46,
+        "name": "Bloom Energy Corporation",
+        "price": 279.54,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "BE"
+      },
+      {
+        "change": -0.34,
+        "change_percent": -1.04,
+        "name": "Franklin Templeton, Inc.",
+        "price": 32.06,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "BEN"
       },
       {
         "change": -0.18,
@@ -1841,6 +2305,22 @@
         "symbol": "BF.B"
       },
       {
+        "change": -0.15,
+        "change_percent": -0.58,
+        "name": "Brown-Forman Corporation Class B",
+        "price": 26.39,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "BF.B"
+      },
+      {
+        "change": -4.77,
+        "change_percent": -4.43,
+        "name": "Bunge Global SA",
+        "price": 103.05,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "BG"
+      },
+      {
         "change": -1.18,
         "change_percent": -0.96,
         "name": "Bunge Global SA",
@@ -1857,6 +2337,22 @@
         "symbol": "BIIB"
       },
       {
+        "change": 6.03,
+        "change_percent": 2.76,
+        "name": "Biogen Inc. Common Stock",
+        "price": 224.46,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "BIIB"
+      },
+      {
+        "change": 0.61,
+        "change_percent": 0.38,
+        "name": "Booking Holdings Inc. Common Stock",
+        "price": 160.58,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "BKNG"
+      },
+      {
         "change": 1.43,
         "change_percent": 0.82,
         "name": "Booking Holdings Inc. Common Stock",
@@ -1870,6 +2366,14 @@
         "name": "Baker Hughes Company",
         "price": 56.78,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
+        "symbol": "BKR"
+      },
+      {
+        "change": 0.58,
+        "change_percent": 1.02,
+        "name": "Baker Hughes Company",
+        "price": 56.88,
+        "snapshot_at": "2026-10-09T22:34:47Z",
         "symbol": "BKR"
       },
       {
@@ -1889,12 +2393,36 @@
         "symbol": "BLK"
       },
       {
+        "change": 21.6,
+        "change_percent": 2.03,
+        "name": "Blackrock, Inc.",
+        "price": 1086.94,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "BLK"
+      },
+      {
+        "change": -0.34,
+        "change_percent": -0.56,
+        "name": "Bristol-Myers Squibb Co.",
+        "price": 59.24,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "BMY"
+      },
+      {
         "change": 0.46,
         "change_percent": 0.72,
         "name": "Bristol-Myers Squibb Co.",
         "price": 64.1,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "BMY"
+      },
+      {
+        "change": 0.19,
+        "change_percent": 0.13,
+        "name": "Bank of New York Mellon Corporation",
+        "price": 143.8,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "BNY"
       },
       {
         "change": -5,
@@ -1905,12 +2433,28 @@
         "symbol": "BNY"
       },
       {
+        "change": 0.48,
+        "change_percent": 0.29,
+        "name": "Broadridge Financial Solutions Inc",
+        "price": 165.69,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "BR"
+      },
+      {
         "change": 6.65,
         "change_percent": 3.96,
         "name": "Broadridge Financial Solutions Inc",
         "price": 174.39,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "BR"
+      },
+      {
+        "change": 3.78,
+        "change_percent": 0.74,
+        "name": "BERKSHIRE HATHAWAY Class B",
+        "price": 514.83,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "BRK.B"
       },
       {
         "change": 4.58,
@@ -1921,12 +2465,28 @@
         "symbol": "BRK.B"
       },
       {
+        "change": -0.84,
+        "change_percent": -1.31,
+        "name": "Brown & Brown, Inc.",
+        "price": 62.91,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "BRO"
+      },
+      {
         "change": 2.14,
         "change_percent": 3.23,
         "name": "Brown & Brown, Inc.",
         "price": 68.33,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "BRO"
+      },
+      {
+        "change": 0.64,
+        "change_percent": 1.52,
+        "name": "Boston Scientific Corp.",
+        "price": 42.68,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "BSX"
       },
       {
         "change": 2.07,
@@ -1937,6 +2497,14 @@
         "symbol": "BSX"
       },
       {
+        "change": 1.74,
+        "change_percent": 1.55,
+        "name": "Blackstone Inc.",
+        "price": 114.42,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "BX"
+      },
+      {
         "change": -0.22,
         "change_percent": -0.17,
         "name": "Blackstone Inc.",
@@ -1945,12 +2513,28 @@
         "symbol": "BX"
       },
       {
+        "change": -0.27,
+        "change_percent": -0.46,
+        "name": "BXP, Inc.",
+        "price": 59.05,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "BXP"
+      },
+      {
         "change": -0.2,
         "change_percent": -0.31,
         "name": "BXP, Inc.",
         "price": 64.5,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "BXP"
+      },
+      {
+        "change": 1.71,
+        "change_percent": 1.34,
+        "name": "Citigroup Inc.",
+        "price": 129.79,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "C"
       },
       {
         "change": -2.64,
@@ -1969,6 +2553,22 @@
         "symbol": "CAH"
       },
       {
+        "change": -0.4,
+        "change_percent": -0.17,
+        "name": "Cardinal Health, Inc.",
+        "price": 238.56,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "CAH"
+      },
+      {
+        "change": -0.27,
+        "change_percent": -0.47,
+        "name": "Carrier Global Corporation",
+        "price": 55.56,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "CARR"
+      },
+      {
         "change": -0.2,
         "change_percent": -0.35,
         "name": "Carrier Global Corporation",
@@ -1985,12 +2585,36 @@
         "symbol": "CASY"
       },
       {
+        "change": 3.21,
+        "change_percent": 0.5,
+        "name": "Casey's General Stores Inc",
+        "price": 645.49,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "CASY"
+      },
+      {
         "change": -34.57,
         "change_percent": -4.22,
         "name": "Caterpillar Inc.",
         "price": 784,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "CAT"
+      },
+      {
+        "change": 5.81,
+        "change_percent": 0.73,
+        "name": "Caterpillar Inc.",
+        "price": 801.99,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "CAT"
+      },
+      {
+        "change": -2.2,
+        "change_percent": -0.64,
+        "name": "Chubb Limited",
+        "price": 341.58,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "CB"
       },
       {
         "change": 3.6,
@@ -2009,6 +2633,22 @@
         "symbol": "CBOE"
       },
       {
+        "change": 10.25,
+        "change_percent": 3.49,
+        "name": "Cboe Global Markets, Inc.",
+        "price": 304.33,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "CBOE"
+      },
+      {
+        "change": -0.28,
+        "change_percent": -0.21,
+        "name": "CBRE GROUP, INC.",
+        "price": 130.8,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "CBRE"
+      },
+      {
         "change": 0.39,
         "change_percent": 0.28,
         "name": "CBRE GROUP, INC.",
@@ -2025,11 +2665,27 @@
         "symbol": "CCI"
       },
       {
+        "change": 10.72,
+        "change_percent": 15.55,
+        "name": "Crown Castle Inc.",
+        "price": 79.61,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "CCI"
+      },
+      {
         "change": -0.19,
         "change_percent": -0.84,
         "name": "Carnival Corporation Ltd.",
         "price": 22.56,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
+        "symbol": "CCL"
+      },
+      {
+        "change": 0.17,
+        "change_percent": 0.65,
+        "name": "Carnival Corporation Ltd.",
+        "price": 26.3,
+        "snapshot_at": "2026-10-09T22:34:47Z",
         "symbol": "CCL"
       },
       {
@@ -2039,6 +2695,22 @@
         "price": 279.06,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "CDNS"
+      },
+      {
+        "change": 3.59,
+        "change_percent": 1.03,
+        "name": "Cadence Design Systems",
+        "price": 352.43,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "CDNS"
+      },
+      {
+        "change": 3.03,
+        "change_percent": 2.16,
+        "name": "CDW Corporation",
+        "price": 142.91,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "CDW"
       },
       {
         "change": -2.09,
@@ -2057,12 +2729,36 @@
         "symbol": "CEG"
       },
       {
+        "change": 13.27,
+        "change_percent": 4.66,
+        "name": "Constellation Energy Corporation Common Stock",
+        "price": 298.34,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "CEG"
+      },
+      {
+        "change": -2.38,
+        "change_percent": -2.1,
+        "name": "CF Industries Holding, Inc.",
+        "price": 111.2,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "CF"
+      },
+      {
         "change": -1.83,
         "change_percent": -1.38,
         "name": "CF Industries Holding, Inc.",
         "price": 131.24,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "CF"
+      },
+      {
+        "change": -0.5,
+        "change_percent": -0.78,
+        "name": "Citizens Financial Group, Inc.",
+        "price": 63.59,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "CFG"
       },
       {
         "change": 0.06,
@@ -2081,6 +2777,22 @@
         "symbol": "CHD"
       },
       {
+        "change": 0.38,
+        "change_percent": 0.39,
+        "name": "Church & Dwight Co., Inc.",
+        "price": 98.11,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "CHD"
+      },
+      {
+        "change": -0.44,
+        "change_percent": -0.31,
+        "name": "C.H. Robinson Worldwide, Inc.",
+        "price": 140.9,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "CHRW"
+      },
+      {
         "change": 4.53,
         "change_percent": 2.97,
         "name": "C.H. Robinson Worldwide, Inc.",
@@ -2089,12 +2801,28 @@
         "symbol": "CHRW"
       },
       {
+        "change": -5.72,
+        "change_percent": -5.22,
+        "name": "Charter Comm Inc Del CL A New",
+        "price": 103.95,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "CHTR"
+      },
+      {
         "change": -2.42,
         "change_percent": -1.66,
         "name": "Charter Comm Inc Del CL A New",
         "price": 143.35,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "CHTR"
+      },
+      {
+        "change": 2.21,
+        "change_percent": 0.78,
+        "name": "The Cigna Group",
+        "price": 283.24,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "CI"
       },
       {
         "change": 9.29,
@@ -2113,6 +2841,22 @@
         "symbol": "CIEN"
       },
       {
+        "change": 23.82,
+        "change_percent": 5.59,
+        "name": "Ciena Corporation",
+        "price": 449.75,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "CIEN"
+      },
+      {
+        "change": -1.85,
+        "change_percent": -1.12,
+        "name": "Cincinnati Financial Corp",
+        "price": 163.4,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "CINF"
+      },
+      {
         "change": 2.22,
         "change_percent": 1.31,
         "name": "Cincinnati Financial Corp",
@@ -2129,12 +2873,36 @@
         "symbol": "CL"
       },
       {
+        "change": -0.2,
+        "change_percent": -0.23,
+        "name": "Colgate-Palmolive Company",
+        "price": 87.9,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "CL"
+      },
+      {
+        "change": -0.17,
+        "change_percent": -0.2,
+        "name": "Clorox Company",
+        "price": 83.27,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "CLX"
+      },
+      {
         "change": 1.55,
         "change_percent": 1.77,
         "name": "Clorox Company",
         "price": 89.31,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "CLX"
+      },
+      {
+        "change": -0.56,
+        "change_percent": -2.64,
+        "name": "Comcast Corp",
+        "price": 20.65,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "CMCSA"
       },
       {
         "change": -0.32,
@@ -2153,12 +2921,36 @@
         "symbol": "CME"
       },
       {
+        "change": 4.38,
+        "change_percent": 1.59,
+        "name": "CME Group Inc.",
+        "price": 280.82,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "CME"
+      },
+      {
+        "change": -1.03,
+        "change_percent": -3.16,
+        "name": "Chipotle Mexican Grill, Inc.",
+        "price": 31.65,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "CMG"
+      },
+      {
         "change": 0.83,
         "change_percent": 2.29,
         "name": "Chipotle Mexican Grill, Inc.",
         "price": 37.03,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "CMG"
+      },
+      {
+        "change": 3,
+        "change_percent": 0.58,
+        "name": "Cummins Inc.",
+        "price": 523.4,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "CMI"
       },
       {
         "change": -15.65,
@@ -2169,12 +2961,28 @@
         "symbol": "CMI"
       },
       {
+        "change": 0.16,
+        "change_percent": 0.24,
+        "name": "CMS Energy Corporation",
+        "price": 65.5,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "CMS"
+      },
+      {
         "change": -0.33,
         "change_percent": -0.49,
         "name": "CMS Energy Corporation",
         "price": 66.82,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "CMS"
+      },
+      {
+        "change": 1.27,
+        "change_percent": 1.97,
+        "name": "Centene Corporation",
+        "price": 65.81,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "CNC"
       },
       {
         "change": 2.99,
@@ -2185,12 +2993,28 @@
         "symbol": "CNC"
       },
       {
+        "change": 0.05,
+        "change_percent": 0.14,
+        "name": "CenterPoint Energy, Inc.",
+        "price": 38.47,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "CNP"
+      },
+      {
         "change": -0.46,
         "change_percent": -1.18,
         "name": "CenterPoint Energy, Inc.",
         "price": 38.65,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "CNP"
+      },
+      {
+        "change": 0.35,
+        "change_percent": 0.18,
+        "name": "Capital One Financial",
+        "price": 199.75,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "COF"
       },
       {
         "change": -1.62,
@@ -2209,6 +3033,22 @@
         "symbol": "COHR"
       },
       {
+        "change": 9.3,
+        "change_percent": 3.08,
+        "name": "Coherent Corp.",
+        "price": 311.65,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "COHR"
+      },
+      {
+        "change": 8.2,
+        "change_percent": 4.77,
+        "name": "Coinbase Global, Inc. Class A Common Stock",
+        "price": 180.2,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "COIN"
+      },
+      {
         "change": 16.19,
         "change_percent": 9.24,
         "name": "Coinbase Global, Inc. Class A Common Stock",
@@ -2225,12 +3065,36 @@
         "symbol": "COO"
       },
       {
+        "change": 0.07,
+        "change_percent": 0.13,
+        "name": "The Cooper Companies, Inc. Common Stock",
+        "price": 54.37,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "COO"
+      },
+      {
+        "change": 0.63,
+        "change_percent": 0.47,
+        "name": "ConocoPhillips",
+        "price": 134.81,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "COP"
+      },
+      {
         "change": -0.68,
         "change_percent": -0.5,
         "name": "ConocoPhillips",
         "price": 136.67,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "COP"
+      },
+      {
+        "change": 2.63,
+        "change_percent": 0.82,
+        "name": "Cencora, Inc.",
+        "price": 323.98,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "COR"
       },
       {
         "change": 4.66,
@@ -2249,12 +3113,36 @@
         "symbol": "COST"
       },
       {
+        "change": -0.67,
+        "change_percent": -0.07,
+        "name": "Costco Wholesale Corp",
+        "price": 947.25,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "COST"
+      },
+      {
+        "change": -4.16,
+        "change_percent": -1.04,
+        "name": "Corpay, Inc.",
+        "price": 397.92,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "CPAY"
+      },
+      {
         "change": 4.34,
         "change_percent": 1.06,
         "name": "Corpay, Inc.",
         "price": 412.56,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "CPAY"
+      },
+      {
+        "change": -0.11,
+        "change_percent": -0.38,
+        "name": "Copart Inc",
+        "price": 27.38,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "CPRT"
       },
       {
         "change": 1.78,
@@ -2265,12 +3153,28 @@
         "symbol": "CPRT"
       },
       {
+        "change": 1.26,
+        "change_percent": 1.3,
+        "name": "Camden Property Trust",
+        "price": 98.02,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "CPT"
+      },
+      {
         "change": 0.82,
         "change_percent": 0.8,
         "name": "Camden Property Trust",
         "price": 103.83,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "CPT"
+      },
+      {
+        "change": -0.07,
+        "change_percent": -0.08,
+        "name": "CRH Public Limited Company",
+        "price": 81.81,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "CRH"
       },
       {
         "change": 0.43,
@@ -2289,6 +3193,22 @@
         "symbol": "CRL"
       },
       {
+        "change": 3.92,
+        "change_percent": 1.32,
+        "name": "Charles River Laboratories International, Inc.",
+        "price": 301.92,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "CRL"
+      },
+      {
+        "change": 1.26,
+        "change_percent": 0.56,
+        "name": "Salesforce, Inc.",
+        "price": 229.06,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "CRM"
+      },
+      {
         "change": 11.71,
         "change_percent": 4.73,
         "name": "Salesforce, Inc.",
@@ -2305,6 +3225,14 @@
         "symbol": "CRWD"
       },
       {
+        "change": 12.08,
+        "change_percent": 4.59,
+        "name": "CrowdStrike Holdings, Inc. Class A Common Stock",
+        "price": 275.09,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "CRWD"
+      },
+      {
         "change": -2.07,
         "change_percent": -1.85,
         "name": "Cisco Systems, Inc. Common Stock (DE)",
@@ -2313,12 +3241,36 @@
         "symbol": "CSCO"
       },
       {
+        "change": 3.5,
+        "change_percent": 3.05,
+        "name": "Cisco Systems, Inc. Common Stock (DE)",
+        "price": 118.39,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "CSCO"
+      },
+      {
+        "change": -0.11,
+        "change_percent": -0.39,
+        "name": "CoStar Group Inc",
+        "price": 29.7,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "CSGP"
+      },
+      {
         "change": 1.06,
         "change_percent": 3.48,
         "name": "CoStar Group Inc",
         "price": 31.52,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "CSGP"
+      },
+      {
+        "change": 0.03,
+        "change_percent": 0.06,
+        "name": "CSX Corporation",
+        "price": 47.37,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "CSX"
       },
       {
         "change": -0.04,
@@ -2337,6 +3289,22 @@
         "symbol": "CTAS"
       },
       {
+        "change": 1.14,
+        "change_percent": 0.57,
+        "name": "Cintas Corp",
+        "price": 202.26,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "CTAS"
+      },
+      {
+        "change": -0.97,
+        "change_percent": -1.62,
+        "name": "Cognizant Technology Solutions",
+        "price": 59.04,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "CTSH"
+      },
+      {
         "change": 4.1,
         "change_percent": 6.83,
         "name": "Cognizant Technology Solutions",
@@ -2353,12 +3321,28 @@
         "symbol": "CTVA"
       },
       {
+        "change": 0.49,
+        "change_percent": 0.78,
+        "name": "Carvana Co.",
+        "price": 63.7,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "CVNA"
+      },
+      {
         "change": 1.71,
         "change_percent": 2.47,
         "name": "Carvana Co.",
         "price": 70.87,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "CVNA"
+      },
+      {
+        "change": -1.25,
+        "change_percent": -1.42,
+        "name": "CVS HEALTH CORPORATION",
+        "price": 86.55,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "CVS"
       },
       {
         "change": 0.89,
@@ -2377,6 +3361,22 @@
         "symbol": "CVX"
       },
       {
+        "change": 0.7,
+        "change_percent": 0.33,
+        "name": "Chevron Corporation",
+        "price": 212.25,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "CVX"
+      },
+      {
+        "change": -0.12,
+        "change_percent": -0.2,
+        "name": "Dominion Energy, Inc Common Stock",
+        "price": 61.63,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "D"
+      },
+      {
         "change": 0.1,
         "change_percent": 0.16,
         "name": "Dominion Energy, Inc Common Stock",
@@ -2391,6 +3391,22 @@
         "price": 79.8,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "DAL"
+      },
+      {
+        "change": -0.15,
+        "change_percent": -0.18,
+        "name": "Delta Air Lines, Inc.",
+        "price": 81.99,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "DAL"
+      },
+      {
+        "change": 4.54,
+        "change_percent": 2.37,
+        "name": "DoorDash, Inc. Class A Common Stock",
+        "price": 196.25,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "DASH"
       },
       {
         "change": 1.59,
@@ -2409,12 +3425,36 @@
         "symbol": "DD"
       },
       {
+        "change": -1.69,
+        "change_percent": -1.27,
+        "name": "DuPont de Nemours, Inc. Common Stock",
+        "price": 130.79,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "DD"
+      },
+      {
         "change": 8.84,
         "change_percent": 4,
         "name": "Datadog, Inc. Class A Common Stock",
         "price": 230.05,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "DDOG"
+      },
+      {
+        "change": 19.33,
+        "change_percent": 7.06,
+        "name": "Datadog, Inc. Class A Common Stock",
+        "price": 293.13,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "DDOG"
+      },
+      {
+        "change": -30.42,
+        "change_percent": -4.66,
+        "name": "Deere & Company",
+        "price": 622.16,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "DE"
       },
       {
         "change": 5.72,
@@ -2433,12 +3473,36 @@
         "symbol": "DECK"
       },
       {
+        "change": 0.31,
+        "change_percent": 0.38,
+        "name": "Deckers Outdoor Corp",
+        "price": 82.88,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "DECK"
+      },
+      {
         "change": -33.01,
         "change_percent": -5.82,
         "name": "Dell Technologies Inc.",
         "price": 534.28,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "DELL"
+      },
+      {
+        "change": 10.95,
+        "change_percent": 1.91,
+        "name": "Dell Technologies Inc.",
+        "price": 585.5,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "DELL"
+      },
+      {
+        "change": 3.06,
+        "change_percent": 2.46,
+        "name": "Dollar General Corp.",
+        "price": 127.33,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "DG"
       },
       {
         "change": 4.59,
@@ -2449,12 +3513,28 @@
         "symbol": "DG"
       },
       {
+        "change": 0.69,
+        "change_percent": 0.3,
+        "name": "Quest Diagnostics Inc.",
+        "price": 231.5,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "DGX"
+      },
+      {
         "change": 2.87,
         "change_percent": 1.22,
         "name": "Quest Diagnostics Inc.",
         "price": 237.89,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "DGX"
+      },
+      {
+        "change": -0.95,
+        "change_percent": -0.7,
+        "name": "D.R. Horton Inc.",
+        "price": 134.87,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "DHI"
       },
       {
         "change": 1.52,
@@ -2473,6 +3553,22 @@
         "symbol": "DHR"
       },
       {
+        "change": 2.31,
+        "change_percent": 1.06,
+        "name": "Danaher Corporation",
+        "price": 219.77,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "DHR"
+      },
+      {
+        "change": 1.13,
+        "change_percent": 1.06,
+        "name": "The Walt Disney Company",
+        "price": 108.15,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "DIS"
+      },
+      {
         "change": 2.04,
         "change_percent": 1.91,
         "name": "The Walt Disney Company",
@@ -2489,12 +3585,36 @@
         "symbol": "DLR"
       },
       {
+        "change": 3.34,
+        "change_percent": 1.9,
+        "name": "Digital Realty Trust, Inc.",
+        "price": 179.41,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "DLR"
+      },
+      {
+        "change": 0.43,
+        "change_percent": 0.37,
+        "name": "Dollar Tree Inc.",
+        "price": 119.05,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "DLTR"
+      },
+      {
         "change": 1,
         "change_percent": 0.85,
         "name": "Dollar Tree Inc.",
         "price": 119.17,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "DLTR"
+      },
+      {
+        "change": 0.34,
+        "change_percent": 1.81,
+        "name": "Healthpeak Properties, Inc.",
+        "price": 18.86,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "DOC"
       },
       {
         "change": 0.07,
@@ -2513,12 +3633,36 @@
         "symbol": "DOV"
       },
       {
+        "change": 0.81,
+        "change_percent": 0.43,
+        "name": "Dover Corporation",
+        "price": 189.78,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "DOV"
+      },
+      {
+        "change": 0.05,
+        "change_percent": 0.16,
+        "name": "Dow Inc.",
+        "price": 28.64,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "DOW"
+      },
+      {
         "change": -0.13,
         "change_percent": -0.45,
         "name": "Dow Inc.",
         "price": 28.9,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "DOW"
+      },
+      {
+        "change": 0.71,
+        "change_percent": 0.23,
+        "name": "Domino's Pizza Inc.",
+        "price": 309.36,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "DPZ"
       },
       {
         "change": 12.17,
@@ -2529,12 +3673,28 @@
         "symbol": "DPZ"
       },
       {
+        "change": -4.08,
+        "change_percent": -2.03,
+        "name": "Darden Restaurants, Inc.",
+        "price": 196.44,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "DRI"
+      },
+      {
         "change": 8.68,
         "change_percent": 4.14,
         "name": "Darden Restaurants, Inc.",
         "price": 218.57,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "DRI"
+      },
+      {
+        "change": 0.4,
+        "change_percent": 0.31,
+        "name": "DTE Energy Company",
+        "price": 127.5,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "DTE"
       },
       {
         "change": -1.45,
@@ -2545,12 +3705,28 @@
         "symbol": "DTE"
       },
       {
+        "change": -0.18,
+        "change_percent": -0.15,
+        "name": "Duke Energy Corporation",
+        "price": 116.66,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "DUK"
+      },
+      {
         "change": -0.4,
         "change_percent": -0.33,
         "name": "Duke Energy Corporation",
         "price": 119.02,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "DUK"
+      },
+      {
+        "change": 1.53,
+        "change_percent": 0.86,
+        "name": "DaVita Inc.",
+        "price": 178.55,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "DVA"
       },
       {
         "change": 7.77,
@@ -2561,12 +3737,28 @@
         "symbol": "DVA"
       },
       {
+        "change": -0.66,
+        "change_percent": -1.35,
+        "name": "Devon Energy Corporation",
+        "price": 48.26,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "DVN"
+      },
+      {
         "change": -0.5,
         "change_percent": -1,
         "name": "Devon Energy Corporation",
         "price": 49.73,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "DVN"
+      },
+      {
+        "change": -0.34,
+        "change_percent": -0.41,
+        "name": "DexCom, Inc.",
+        "price": 84.07,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "DXCM"
       },
       {
         "change": 1.65,
@@ -2585,11 +3777,27 @@
         "symbol": "EBAY"
       },
       {
+        "change": -0.03,
+        "change_percent": -0.03,
+        "name": "eBay Inc",
+        "price": 111.95,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "EBAY"
+      },
+      {
         "change": 0.75,
         "change_percent": 0.81,
         "name": "EchoStar Corporation",
         "price": 93.89,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
+        "symbol": "ECHO"
+      },
+      {
+        "change": 1.43,
+        "change_percent": 1.53,
+        "name": "EchoStar Corporation",
+        "price": 94.79,
+        "snapshot_at": "2026-10-09T22:34:47Z",
         "symbol": "ECHO"
       },
       {
@@ -2601,12 +3809,36 @@
         "symbol": "ECL"
       },
       {
+        "change": 0.14,
+        "change_percent": 0.05,
+        "name": "Ecolab, Inc.",
+        "price": 281.83,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "ECL"
+      },
+      {
         "change": -0.68,
         "change_percent": -0.64,
         "name": "Consolidated Edison, Inc.",
         "price": 105.78,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "ED"
+      },
+      {
+        "change": 0.12,
+        "change_percent": 0.11,
+        "name": "Consolidated Edison, Inc.",
+        "price": 106.11,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "ED"
+      },
+      {
+        "change": -0.01,
+        "change_percent": -0.01,
+        "name": "Equifax, Incorporated",
+        "price": 145.53,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "EFX"
       },
       {
         "change": 3.29,
@@ -2617,12 +3849,28 @@
         "symbol": "EFX"
       },
       {
+        "change": -5.28,
+        "change_percent": -1.42,
+        "name": "Everest Group, Ltd.",
+        "price": 367.82,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "EG"
+      },
+      {
         "change": 7.83,
         "change_percent": 2.11,
         "name": "Everest Group, Ltd.",
         "price": 379.54,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "EG"
+      },
+      {
+        "change": 0.69,
+        "change_percent": 1.27,
+        "name": "Edison International",
+        "price": 54.99,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "EIX"
       },
       {
         "change": 0.13,
@@ -2633,12 +3881,28 @@
         "symbol": "EIX"
       },
       {
+        "change": 3.58,
+        "change_percent": 3.8,
+        "name": "The Estee Lauder Companies Inc. Class A",
+        "price": 97.9,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "EL"
+      },
+      {
         "change": 1.1,
         "change_percent": 1.13,
         "name": "The Estee Lauder Companies Inc. Class A",
         "price": 98.22,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "EL"
+      },
+      {
+        "change": 12.79,
+        "change_percent": 3.19,
+        "name": "Elevance Health, Inc.",
+        "price": 413.73,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "ELV"
       },
       {
         "change": 5.52,
@@ -2657,11 +3921,27 @@
         "symbol": "EME"
       },
       {
+        "change": 9.51,
+        "change_percent": 1.22,
+        "name": "EMCOR Group, Inc.",
+        "price": 787.75,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "EME"
+      },
+      {
         "change": -3.89,
         "change_percent": -2.56,
         "name": "Emerson Electric Co.",
         "price": 148.3,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
+        "symbol": "EMR"
+      },
+      {
+        "change": 2.92,
+        "change_percent": 1.84,
+        "name": "Emerson Electric Co.",
+        "price": 161.98,
+        "snapshot_at": "2026-10-09T22:34:47Z",
         "symbol": "EMR"
       },
       {
@@ -2673,12 +3953,36 @@
         "symbol": "EOG"
       },
       {
+        "change": 0.27,
+        "change_percent": 0.18,
+        "name": "EOG Resources, Inc.",
+        "price": 148.78,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "EOG"
+      },
+      {
         "change": -39,
         "change_percent": -3.76,
         "name": "Equinix, Inc. Common Stock REIT",
         "price": 998.72,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "EQIX"
+      },
+      {
+        "change": 14.99,
+        "change_percent": 1.48,
+        "name": "Equinix, Inc. Common Stock REIT",
+        "price": 1026.15,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "EQIX"
+      },
+      {
+        "change": -0.15,
+        "change_percent": -0.28,
+        "name": "EQT CORP",
+        "price": 52.79,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "EQT"
       },
       {
         "change": -0.86,
@@ -2689,6 +3993,14 @@
         "symbol": "EQT"
       },
       {
+        "change": -5.83,
+        "change_percent": -2.57,
+        "name": "Erie Indemnity Co",
+        "price": 220.71,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "ERIE"
+      },
+      {
         "change": 8.85,
         "change_percent": 3.61,
         "name": "Erie Indemnity Co",
@@ -2697,12 +4009,28 @@
         "symbol": "ERIE"
       },
       {
+        "change": 0.53,
+        "change_percent": 0.8,
+        "name": "Eversource Energy",
+        "price": 66.22,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "ES"
+      },
+      {
         "change": -0.19,
         "change_percent": -0.28,
         "name": "Eversource Energy",
         "price": 68.33,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "ES"
+      },
+      {
+        "change": 3.16,
+        "change_percent": 1.17,
+        "name": "Essex Property Trust, Inc",
+        "price": 271.74,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "ESS"
       },
       {
         "change": 2.82,
@@ -2721,12 +4049,36 @@
         "symbol": "ETN"
       },
       {
+        "change": 4.92,
+        "change_percent": 1.16,
+        "name": "Eaton Corporation, plc Ordinary Shares",
+        "price": 429.43,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "ETN"
+      },
+      {
+        "change": 0.58,
+        "change_percent": 0.56,
+        "name": "Entergy Corporation",
+        "price": 103.07,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "ETR"
+      },
+      {
         "change": -1.69,
         "change_percent": -1.6,
         "name": "Entergy Corporation",
         "price": 103.64,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "ETR"
+      },
+      {
+        "change": 0.12,
+        "change_percent": 0.14,
+        "name": "Evergy, Inc.",
+        "price": 80.64,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "EVRG"
       },
       {
         "change": -0.76,
@@ -2737,12 +4089,28 @@
         "symbol": "EVRG"
       },
       {
+        "change": 0.97,
+        "change_percent": 1.15,
+        "name": "Edwards Lifesciences Corp",
+        "price": 85.2,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "EW"
+      },
+      {
         "change": 1.15,
         "change_percent": 1.36,
         "name": "Edwards Lifesciences Corp",
         "price": 85.52,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "EW"
+      },
+      {
+        "change": 0.09,
+        "change_percent": 0.21,
+        "name": "Exelon Corporation",
+        "price": 41.82,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "EXC"
       },
       {
         "change": -0.44,
@@ -2753,12 +4121,28 @@
         "symbol": "EXC"
       },
       {
+        "change": -0.69,
+        "change_percent": -0.77,
+        "name": "Expand Energy Corporation Common Stock",
+        "price": 88.17,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "EXE"
+      },
+      {
         "change": -1.43,
         "change_percent": -1.51,
         "name": "Expand Energy Corporation Common Stock",
         "price": 93.4,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "EXE"
+      },
+      {
+        "change": -0.48,
+        "change_percent": -0.25,
+        "name": "Expeditors International of Washington, Inc.",
+        "price": 193.23,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "EXPD"
       },
       {
         "change": 1.01,
@@ -2769,12 +4153,28 @@
         "symbol": "EXPD"
       },
       {
+        "change": -6.77,
+        "change_percent": -2.51,
+        "name": "Expedia Group, Inc. Common Stock",
+        "price": 263.36,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "EXPE"
+      },
+      {
         "change": 7.03,
         "change_percent": 2.5,
         "name": "Expedia Group, Inc. Common Stock",
         "price": 287.86,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "EXPE"
+      },
+      {
+        "change": 1.53,
+        "change_percent": 1.15,
+        "name": "Extra Space Storage, Inc.",
+        "price": 134.65,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "EXR"
       },
       {
         "change": 1.76,
@@ -2785,12 +4185,28 @@
         "symbol": "EXR"
       },
       {
+        "change": -0.08,
+        "change_percent": -0.65,
+        "name": "Ford Motor Company",
+        "price": 12.17,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "F"
+      },
+      {
         "change": -0.11,
         "change_percent": -0.79,
         "name": "Ford Motor Company",
         "price": 13.86,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "F"
+      },
+      {
+        "change": 1.21,
+        "change_percent": 0.63,
+        "name": "Diamondback Energy, Inc.",
+        "price": 192.89,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "FANG"
       },
       {
         "change": 0.75,
@@ -2809,11 +4225,27 @@
         "symbol": "FAST"
       },
       {
+        "change": 0.45,
+        "change_percent": 0.89,
+        "name": "Fastenal Co",
+        "price": 50.94,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "FAST"
+      },
+      {
         "change": -1.73,
         "change_percent": -2.43,
         "name": "Freeport-McMoran Inc.",
         "price": 69.34,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
+        "symbol": "FCX"
+      },
+      {
+        "change": 2.33,
+        "change_percent": 3.27,
+        "name": "Freeport-McMoran Inc.",
+        "price": 73.47,
+        "snapshot_at": "2026-10-09T22:34:47Z",
         "symbol": "FCX"
       },
       {
@@ -2826,11 +4258,35 @@
       },
       {
         "change": 0.58,
+        "change_percent": 0.2,
+        "name": "Factset Research Systems",
+        "price": 287.1,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "FDS"
+      },
+      {
+        "change": -0.29,
+        "change_percent": -0.1,
+        "name": "FedEx Corporation",
+        "price": 291.44,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "FDX"
+      },
+      {
+        "change": 0.58,
         "change_percent": 0.19,
         "name": "FedEx Corporation",
         "price": 312.57,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "FDX"
+      },
+      {
+        "change": -0.94,
+        "change_percent": -0.81,
+        "name": "FedEx Freight Holding Company, Inc.",
+        "price": 114.71,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "FDXF"
       },
       {
         "change": 1.13,
@@ -2841,12 +4297,28 @@
         "symbol": "FDXF"
       },
       {
+        "change": 0.33,
+        "change_percent": 0.74,
+        "name": "FirstEnergy Corp.",
+        "price": 45.18,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "FE"
+      },
+      {
         "change": -0.3,
         "change_percent": -0.65,
         "name": "FirstEnergy Corp.",
         "price": 45.83,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "FE"
+      },
+      {
+        "change": 3.3,
+        "change_percent": 1.52,
+        "name": "Ferguson Enterprises Inc.",
+        "price": 220.03,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "FERG"
       },
       {
         "change": -0.23,
@@ -2865,12 +4337,36 @@
         "symbol": "FFIV"
       },
       {
+        "change": 19.75,
+        "change_percent": 4.28,
+        "name": "F5, Inc. Common Stock",
+        "price": 481.41,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "FFIV"
+      },
+      {
+        "change": -37.43,
+        "change_percent": -5.29,
+        "name": "Fair Isaac Corporation",
+        "price": 670,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "FICO"
+      },
+      {
         "change": 16.11,
         "change_percent": 1.63,
         "name": "Fair Isaac Corporation",
         "price": 1001.5,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "FICO"
+      },
+      {
+        "change": -0.29,
+        "change_percent": -0.84,
+        "name": "Fidelity National Information Services, Inc.",
+        "price": 34.05,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "FIS"
       },
       {
         "change": 0.04,
@@ -2881,12 +4377,28 @@
         "symbol": "FIS"
       },
       {
+        "change": -0.29,
+        "change_percent": -0.63,
+        "name": "Fiserv, Inc. Common Stock",
+        "price": 45.65,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "FISV"
+      },
+      {
         "change": -0.59,
         "change_percent": -1.14,
         "name": "Fiserv, Inc. Common Stock",
         "price": 50.99,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "FISV"
+      },
+      {
+        "change": 0.07,
+        "change_percent": 0.14,
+        "name": "Fifth Third Bancorp",
+        "price": 50.77,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "FITB"
       },
       {
         "change": -0.34,
@@ -2905,12 +4417,36 @@
         "symbol": "FIX"
       },
       {
+        "change": 8.86,
+        "change_percent": 0.52,
+        "name": "Comfort Systems USA, Inc.",
+        "price": 1715.25,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "FIX"
+      },
+      {
         "change": -7.46,
         "change_percent": -6.44,
         "name": "Flex Ltd. Ordinary Shares",
         "price": 108.32,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "FLEX"
+      },
+      {
+        "change": 5.13,
+        "change_percent": 4.47,
+        "name": "Flex Ltd. Ordinary Shares",
+        "price": 119.87,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "FLEX"
+      },
+      {
+        "change": -1.08,
+        "change_percent": -1.9,
+        "name": "Fox Corporation Class B Common Stock",
+        "price": 55.89,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "FOX"
       },
       {
         "change": 2.69,
@@ -2921,6 +4457,14 @@
         "symbol": "FOX"
       },
       {
+        "change": -0.48,
+        "change_percent": -0.76,
+        "name": "Fox Corporation Class A Common Stock",
+        "price": 63.09,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "FOXA"
+      },
+      {
         "change": 2.59,
         "change_percent": 3.93,
         "name": "Fox Corporation Class A Common Stock",
@@ -2929,12 +4473,28 @@
         "symbol": "FOXA"
       },
       {
+        "change": 0.9,
+        "change_percent": 0.86,
+        "name": "Federal Realty Investment Trust",
+        "price": 106.36,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "FRT"
+      },
+      {
         "change": 0.17,
         "change_percent": 0.15,
         "name": "Federal Realty Investment Trust",
         "price": 114.53,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "FRT"
+      },
+      {
+        "change": -1.16,
+        "change_percent": -0.65,
+        "name": "First Solar, Inc.",
+        "price": 177.69,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "FSLR"
       },
       {
         "change": -1.99,
@@ -2953,12 +4513,36 @@
         "symbol": "FTNT"
       },
       {
+        "change": 5.25,
+        "change_percent": 2.78,
+        "name": "Fortinet, Inc.",
+        "price": 194.35,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "FTNT"
+      },
+      {
         "change": 0.5,
         "change_percent": 0.91,
         "name": "Fortive Corporation",
         "price": 55.19,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "FTV"
+      },
+      {
+        "change": 0.84,
+        "change_percent": 1.48,
+        "name": "Fortive Corporation",
+        "price": 57.26,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "FTV"
+      },
+      {
+        "change": 2.71,
+        "change_percent": 0.82,
+        "name": "General Dynamics Corporation",
+        "price": 332.61,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "GD"
       },
       {
         "change": 0.91,
@@ -2969,12 +4553,28 @@
         "symbol": "GD"
       },
       {
+        "change": 0.22,
+        "change_percent": 0.21,
+        "name": "GoDaddy Inc",
+        "price": 103.41,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "GDDY"
+      },
+      {
         "change": 6.4,
         "change_percent": 6.53,
         "name": "GoDaddy Inc",
         "price": 104.47,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "GDDY"
+      },
+      {
+        "change": 2.61,
+        "change_percent": 0.85,
+        "name": "GE Aerospace",
+        "price": 308.23,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "GE"
       },
       {
         "change": -6.1,
@@ -2993,6 +4593,22 @@
         "symbol": "GEHC"
       },
       {
+        "change": 1.4,
+        "change_percent": 2.18,
+        "name": "GE HealthCare Technologies Inc. Common Stock",
+        "price": 65.62,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "GEHC"
+      },
+      {
+        "change": 0.24,
+        "change_percent": 1.05,
+        "name": "Gen Digital Inc. Common Stock",
+        "price": 22.99,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "GEN"
+      },
+      {
         "change": 1.15,
         "change_percent": 3.8,
         "name": "Gen Digital Inc. Common Stock",
@@ -3009,6 +4625,14 @@
         "symbol": "GEV"
       },
       {
+        "change": 4.15,
+        "change_percent": 0.42,
+        "name": "GE Vernova Inc.",
+        "price": 1003.5,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "GEV"
+      },
+      {
         "change": 2.69,
         "change_percent": 1.87,
         "name": "Gilead Sciences Inc",
@@ -3017,12 +4641,36 @@
         "symbol": "GILD"
       },
       {
+        "change": 4.11,
+        "change_percent": 2.79,
+        "name": "Gilead Sciences Inc",
+        "price": 151.21,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "GILD"
+      },
+      {
+        "change": -0.28,
+        "change_percent": -0.86,
+        "name": "General Mills, Inc.",
+        "price": 32.31,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "GIS"
+      },
+      {
         "change": 0.62,
         "change_percent": 1.73,
         "name": "General Mills, Inc.",
         "price": 36.47,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "GIS"
+      },
+      {
+        "change": -1.89,
+        "change_percent": -1.14,
+        "name": "Globe Life Inc.",
+        "price": 164.19,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "GL"
       },
       {
         "change": 1.75,
@@ -3041,6 +4689,22 @@
         "symbol": "GLW"
       },
       {
+        "change": 3.81,
+        "change_percent": 2.49,
+        "name": "Corning Incorporated",
+        "price": 156.64,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "GLW"
+      },
+      {
+        "change": 0.53,
+        "change_percent": 0.64,
+        "name": "General Motors Company",
+        "price": 82.78,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "GM"
+      },
+      {
         "change": 1.54,
         "change_percent": 1.8,
         "name": "General Motors Company",
@@ -3057,11 +4721,27 @@
         "symbol": "GNRC"
       },
       {
+        "change": 1.15,
+        "change_percent": 0.51,
+        "name": "GENERAC HOLDINGS INC",
+        "price": 225.55,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "GNRC"
+      },
+      {
         "change": 10.26,
         "change_percent": 3.06,
         "name": "Alphabet Inc. Class C Capital Stock",
         "price": 345.71,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
+        "symbol": "GOOG"
+      },
+      {
+        "change": 3.34,
+        "change_percent": 0.97,
+        "name": "Alphabet Inc. Class C Capital Stock",
+        "price": 348.2,
+        "snapshot_at": "2026-10-09T22:34:47Z",
         "symbol": "GOOG"
       },
       {
@@ -3073,12 +4753,36 @@
         "symbol": "GOOGL"
       },
       {
+        "change": 3.43,
+        "change_percent": 0.99,
+        "name": "Alphabet Inc. Class A Common Stock",
+        "price": 351.72,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "GOOGL"
+      },
+      {
+        "change": -1.49,
+        "change_percent": -1.16,
+        "name": "Genuine Parts Company",
+        "price": 126.68,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "GPC"
+      },
+      {
         "change": -0.47,
         "change_percent": -0.35,
         "name": "Genuine Parts Company",
         "price": 133.21,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "GPC"
+      },
+      {
+        "change": -0.42,
+        "change_percent": -0.51,
+        "name": "Global Payments, Inc.",
+        "price": 82.35,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "GPN"
       },
       {
         "change": 1.9,
@@ -3089,12 +4793,28 @@
         "symbol": "GPN"
       },
       {
+        "change": 1.17,
+        "change_percent": 0.44,
+        "name": "Garmin Ltd",
+        "price": 269.61,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "GRMN"
+      },
+      {
         "change": -2.29,
         "change_percent": -0.81,
         "name": "Garmin Ltd",
         "price": 280.38,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "GRMN"
+      },
+      {
+        "change": 13.93,
+        "change_percent": 1.58,
+        "name": "Goldman Sachs Group Inc.",
+        "price": 896.52,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "GS"
       },
       {
         "change": -40.73,
@@ -3113,6 +4833,22 @@
         "symbol": "GWW"
       },
       {
+        "change": 21.12,
+        "change_percent": 1.67,
+        "name": "W.W. Grainger, Inc.",
+        "price": 1289.79,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "GWW"
+      },
+      {
+        "change": -0.14,
+        "change_percent": -0.44,
+        "name": "Halliburton Company",
+        "price": 32.43,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "HAL"
+      },
+      {
         "change": -0.83,
         "change_percent": -2.32,
         "name": "Halliburton Company",
@@ -3127,6 +4863,22 @@
         "price": 90.76,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "HAS"
+      },
+      {
+        "change": 0.98,
+        "change_percent": 1.06,
+        "name": "Hasbro, Inc.",
+        "price": 93.48,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "HAS"
+      },
+      {
+        "change": -0.01,
+        "change_percent": -0.06,
+        "name": "Huntington Bancshares Inc",
+        "price": 15.36,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "HBAN"
       },
       {
         "change": -0.09,
@@ -3145,6 +4897,22 @@
         "symbol": "HCA"
       },
       {
+        "change": 5,
+        "change_percent": 1.12,
+        "name": "HCA Healthcare, Inc.",
+        "price": 450.01,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "HCA"
+      },
+      {
+        "change": -4.52,
+        "change_percent": -1.53,
+        "name": "Home Depot, Inc.",
+        "price": 290.95,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "HD"
+      },
+      {
         "change": 2.13,
         "change_percent": 0.69,
         "name": "Home Depot, Inc.",
@@ -3153,12 +4921,28 @@
         "symbol": "HD"
       },
       {
+        "change": -0.88,
+        "change_percent": -0.68,
+        "name": "The Hartford Insurance Group, Inc.",
+        "price": 128.6,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "HIG"
+      },
+      {
         "change": 1.23,
         "change_percent": 0.9,
         "name": "The Hartford Insurance Group, Inc.",
         "price": 137.59,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "HIG"
+      },
+      {
+        "change": 1.36,
+        "change_percent": 0.51,
+        "name": "Huntington Ingalls Industries, Inc.",
+        "price": 266.38,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "HII"
       },
       {
         "change": 0.32,
@@ -3177,6 +4961,14 @@
         "symbol": "HLT"
       },
       {
+        "change": 3.68,
+        "change_percent": 1.14,
+        "name": "Hilton Worldwide Holdings Inc.",
+        "price": 326.97,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "HLT"
+      },
+      {
         "change": -0.98,
         "change_percent": -0.48,
         "name": "Honeywell International, Inc.",
@@ -3185,12 +4977,36 @@
         "symbol": "HON"
       },
       {
+        "change": 1.19,
+        "change_percent": 0.58,
+        "name": "Honeywell International, Inc.",
+        "price": 207.79,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "HON"
+      },
+      {
+        "change": 2.24,
+        "change_percent": 1.45,
+        "name": "Honeywell Aerospace Inc. Common Stock",
+        "price": 156.25,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "HONA"
+      },
+      {
         "change": 5.82,
         "change_percent": 3.68,
         "name": "Honeywell Aerospace Inc. Common Stock",
         "price": 164.08,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "HONA"
+      },
+      {
+        "change": 2.11,
+        "change_percent": 1.98,
+        "name": "Robinhood Markets, Inc. Class A Common Stock",
+        "price": 109.13,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "HOOD"
       },
       {
         "change": 1.76,
@@ -3209,6 +5025,22 @@
         "symbol": "HPE"
       },
       {
+        "change": 2.67,
+        "change_percent": 3.77,
+        "name": "Hewlett Packard Enterprise Company",
+        "price": 73.67,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "HPE"
+      },
+      {
+        "change": -2.2,
+        "change_percent": -6.78,
+        "name": "HP Inc.",
+        "price": 30.24,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "HPQ"
+      },
+      {
         "change": -1.46,
         "change_percent": -4.11,
         "name": "HP Inc.",
@@ -3217,12 +5049,28 @@
         "symbol": "HPQ"
       },
       {
+        "change": -0.17,
+        "change_percent": -0.9,
+        "name": "Hormel Foods Corporation",
+        "price": 19.25,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "HRL"
+      },
+      {
         "change": 0.39,
         "change_percent": 1.9,
         "name": "Hormel Foods Corporation",
         "price": 20.96,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "HRL"
+      },
+      {
+        "change": -0.66,
+        "change_percent": -0.78,
+        "name": "Henry Schein Inc",
+        "price": 83.97,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "HSIC"
       },
       {
         "change": 0.57,
@@ -3241,6 +5089,22 @@
         "symbol": "HST"
       },
       {
+        "change": 0.18,
+        "change_percent": 0.78,
+        "name": "Host Hotels & Resorts, Inc.",
+        "price": 22.71,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "HST"
+      },
+      {
+        "change": 0.31,
+        "change_percent": 0.19,
+        "name": "The Hershey Company",
+        "price": 162.84,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "HSY"
+      },
+      {
         "change": 0.36,
         "change_percent": 0.21,
         "name": "The Hershey Company",
@@ -3257,12 +5121,36 @@
         "symbol": "HUBB"
       },
       {
+        "change": -1.46,
+        "change_percent": -0.31,
+        "name": "Hubbell Incorporated",
+        "price": 473.94,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "HUBB"
+      },
+      {
         "change": -2.78,
         "change_percent": -0.68,
         "name": "Humana Inc.",
         "price": 407.02,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "HUM"
+      },
+      {
+        "change": 45.27,
+        "change_percent": 11.7,
+        "name": "Humana Inc.",
+        "price": 432.39,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "HUM"
+      },
+      {
+        "change": 2.57,
+        "change_percent": 1.16,
+        "name": "Howmet Aerospace Inc.",
+        "price": 225.13,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "HWM"
       },
       {
         "change": -2.48,
@@ -3273,6 +5161,14 @@
         "symbol": "HWM"
       },
       {
+        "change": 1.56,
+        "change_percent": 1.8,
+        "name": "Interactive Brokers Group, Inc. Class A Common Stock",
+        "price": 88.03,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "IBKR"
+      },
+      {
         "change": -0.62,
         "change_percent": -0.68,
         "name": "Interactive Brokers Group, Inc. Class A Common Stock",
@@ -3281,12 +5177,28 @@
         "symbol": "IBKR"
       },
       {
+        "change": 0.14,
+        "change_percent": 0.06,
+        "name": "International Business Machines Corporation",
+        "price": 226.75,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "IBM"
+      },
+      {
         "change": 5.8,
         "change_percent": 2.38,
         "name": "International Business Machines Corporation",
         "price": 249.09,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "IBM"
+      },
+      {
+        "change": 0.8,
+        "change_percent": 0.51,
+        "name": "Intercontinental Exchange Inc.",
+        "price": 156.15,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "ICE"
       },
       {
         "change": 0.35,
@@ -3305,11 +5217,27 @@
         "symbol": "IDXX"
       },
       {
+        "change": 5.06,
+        "change_percent": 0.99,
+        "name": "Idexx Laboratories Inc",
+        "price": 518.2,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "IDXX"
+      },
+      {
         "change": -2.07,
         "change_percent": -0.92,
         "name": "IDEX Corporation",
         "price": 222.14,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
+        "symbol": "IEX"
+      },
+      {
+        "change": 2.46,
+        "change_percent": 1.06,
+        "name": "IDEX Corporation",
+        "price": 234.21,
+        "snapshot_at": "2026-10-09T22:34:47Z",
         "symbol": "IEX"
       },
       {
@@ -3319,6 +5247,30 @@
         "price": 83.43,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "IFF"
+      },
+      {
+        "change": -0.09,
+        "change_percent": -0.11,
+        "name": "International Flavors & Fragrances Inc.",
+        "price": 84.56,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "IFF"
+      },
+      {
+        "change": 14.25,
+        "change_percent": 5.38,
+        "name": "Illumina Inc",
+        "price": 278.81,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "ILMN"
+      },
+      {
+        "change": 0.54,
+        "change_percent": 0.48,
+        "name": "Incyte Genomics Inc",
+        "price": 113.29,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "INCY"
       },
       {
         "change": 0.72,
@@ -3337,12 +5289,36 @@
         "symbol": "INTC"
       },
       {
+        "change": -2.59,
+        "change_percent": -2.42,
+        "name": "Intel Corp",
+        "price": 104.49,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "INTC"
+      },
+      {
+        "change": -1.37,
+        "change_percent": -0.45,
+        "name": "Intuit Inc",
+        "price": 302.51,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "INTU"
+      },
+      {
         "change": 17.58,
         "change_percent": 5.47,
         "name": "Intuit Inc",
         "price": 339.15,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "INTU"
+      },
+      {
+        "change": 0.32,
+        "change_percent": 1.19,
+        "name": "Invitation Homes Inc. Common Stock",
+        "price": 26.8,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "INVH"
       },
       {
         "change": 0.05,
@@ -3353,12 +5329,28 @@
         "symbol": "INVH"
       },
       {
+        "change": 0.29,
+        "change_percent": 0.89,
+        "name": "International Paper Co.",
+        "price": 32.16,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "IP"
+      },
+      {
         "change": -0.11,
         "change_percent": -0.32,
         "name": "International Paper Co.",
         "price": 34.25,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "IP"
+      },
+      {
+        "change": 1.46,
+        "change_percent": 0.57,
+        "name": "IQVIA Holdings Inc.",
+        "price": 260.34,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "IQV"
       },
       {
         "change": 3.9,
@@ -3377,11 +5369,27 @@
         "symbol": "IR"
       },
       {
+        "change": 0.74,
+        "change_percent": 0.95,
+        "name": "Ingersoll Rand Inc. Common Stock",
+        "price": 78.74,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "IR"
+      },
+      {
         "change": -3.12,
         "change_percent": -2.71,
         "name": "Iron Mountain Inc.",
         "price": 112.06,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
+        "symbol": "IRM"
+      },
+      {
+        "change": 2.47,
+        "change_percent": 2.19,
+        "name": "Iron Mountain Inc.",
+        "price": 115.44,
+        "snapshot_at": "2026-10-09T22:34:47Z",
         "symbol": "IRM"
       },
       {
@@ -3393,12 +5401,36 @@
         "symbol": "ISRG"
       },
       {
+        "change": 8.25,
+        "change_percent": 1.99,
+        "name": "Intuitive Surgical Inc.",
+        "price": 423.66,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "ISRG"
+      },
+      {
+        "change": 0.46,
+        "change_percent": 0.23,
+        "name": "Gartner, Inc.",
+        "price": 195.87,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "IT"
+      },
+      {
         "change": 17.48,
         "change_percent": 9.73,
         "name": "Gartner, Inc.",
         "price": 197.07,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "IT"
+      },
+      {
+        "change": 0,
+        "change_percent": 0,
+        "name": "Illinois Tool Works Inc.",
+        "price": 264.71,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "ITW"
       },
       {
         "change": 0.88,
@@ -3409,6 +5441,14 @@
         "symbol": "ITW"
       },
       {
+        "change": -0.59,
+        "change_percent": -1.94,
+        "name": "Invesco LTD",
+        "price": 29.5,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "IVZ"
+      },
+      {
         "change": -0.77,
         "change_percent": -2.39,
         "name": "Invesco LTD",
@@ -3417,12 +5457,28 @@
         "symbol": "IVZ"
       },
       {
+        "change": 0.59,
+        "change_percent": 0.43,
+        "name": "Jacobs Solutions Inc.",
+        "price": 139.18,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "J"
+      },
+      {
         "change": 2.22,
         "change_percent": 1.57,
         "name": "Jacobs Solutions Inc.",
         "price": 144.07,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "J"
+      },
+      {
+        "change": 0.7,
+        "change_percent": 0.31,
+        "name": "JB Hunt Transport Services Inc",
+        "price": 229.12,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "JBHT"
       },
       {
         "change": 4.54,
@@ -3441,12 +5497,36 @@
         "symbol": "JBL"
       },
       {
+        "change": 7.29,
+        "change_percent": 2.44,
+        "name": "Jabil Inc.",
+        "price": 306.45,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "JBL"
+      },
+      {
         "change": -8.25,
         "change_percent": -5.65,
         "name": "Johnson Controls International plc",
         "price": 137.76,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "JCI"
+      },
+      {
+        "change": 2.8,
+        "change_percent": 1.82,
+        "name": "Johnson Controls International plc",
+        "price": 156.8,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "JCI"
+      },
+      {
+        "change": 0.26,
+        "change_percent": 0.17,
+        "name": "Henry (Jack) & Associates",
+        "price": 149.31,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "JKHY"
       },
       {
         "change": 3.43,
@@ -3457,12 +5537,28 @@
         "symbol": "JKHY"
       },
       {
+        "change": 5.02,
+        "change_percent": 1.96,
+        "name": "Johnson & Johnson",
+        "price": 261.5,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "JNJ"
+      },
+      {
         "change": 0.74,
         "change_percent": 0.28,
         "name": "Johnson & Johnson",
         "price": 266.32,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "JNJ"
+      },
+      {
+        "change": 1.79,
+        "change_percent": 0.54,
+        "name": "JPMorgan Chase & Co.",
+        "price": 333.21,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "JPM"
       },
       {
         "change": -6.1,
@@ -3473,12 +5569,28 @@
         "symbol": "JPM"
       },
       {
+        "change": 0.26,
+        "change_percent": 0.84,
+        "name": "Keurig Dr Pepper Inc.",
+        "price": 31.52,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "KDP"
+      },
+      {
         "change": 0.19,
         "change_percent": 0.61,
         "name": "Keurig Dr Pepper Inc.",
         "price": 31.58,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "KDP"
+      },
+      {
+        "change": -0.1,
+        "change_percent": -0.48,
+        "name": "KeyCorp",
+        "price": 20,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "KEY"
       },
       {
         "change": 0.09,
@@ -3497,6 +5609,22 @@
         "symbol": "KEYS"
       },
       {
+        "change": 7.12,
+        "change_percent": 1.9,
+        "name": "Keysight Technologies, Inc.",
+        "price": 381.79,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "KEYS"
+      },
+      {
+        "change": -0.21,
+        "change_percent": -0.93,
+        "name": "The Kraft Heinz Company",
+        "price": 22.27,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "KHC"
+      },
+      {
         "change": -0.33,
         "change_percent": -1.34,
         "name": "The Kraft Heinz Company Common Stock",
@@ -3505,12 +5633,28 @@
         "symbol": "KHC"
       },
       {
+        "change": 0.18,
+        "change_percent": 0.81,
+        "name": "Kimco Realty Corp.",
+        "price": 22.27,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "KIM"
+      },
+      {
         "change": 0.03,
         "change_percent": 0.13,
         "name": "Kimco Realty Corp.",
         "price": 23.22,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "KIM"
+      },
+      {
+        "change": 2.63,
+        "change_percent": 2.94,
+        "name": "KKR & Co. Inc.",
+        "price": 92.19,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "KKR"
       },
       {
         "change": 1.19,
@@ -3529,6 +5673,22 @@
         "symbol": "KLAC"
       },
       {
+        "change": -1,
+        "change_percent": -0.51,
+        "name": "KLA Corporation Common Stock",
+        "price": 195.72,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "KLAC"
+      },
+      {
+        "change": 0.01,
+        "change_percent": 0.01,
+        "name": "Kimberly-Clark Corp.",
+        "price": 97.75,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "KMB"
+      },
+      {
         "change": 0.94,
         "change_percent": 0.96,
         "name": "Kimberly-Clark Corp.",
@@ -3543,6 +5703,22 @@
         "price": 30.96,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "KMI"
+      },
+      {
+        "change": 0.23,
+        "change_percent": 0.73,
+        "name": "Kinder Morgan, Inc.",
+        "price": 32.48,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "KMI"
+      },
+      {
+        "change": 0.43,
+        "change_percent": 0.49,
+        "name": "Coca-Cola Company",
+        "price": 88.2,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "KO"
       },
       {
         "change": 1.06,
@@ -3561,12 +5737,36 @@
         "symbol": "KR"
       },
       {
+        "change": -0.32,
+        "change_percent": -0.53,
+        "name": "The Kroger Co.",
+        "price": 61.09,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "KR"
+      },
+      {
+        "change": -0.06,
+        "change_percent": -0.35,
+        "name": "Kenvue Inc.",
+        "price": 17.67,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "KVUE"
+      },
+      {
         "change": 0.13,
         "change_percent": 0.73,
         "name": "Kenvue Inc.",
         "price": 17.91,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "KVUE"
+      },
+      {
+        "change": -0.07,
+        "change_percent": -0.06,
+        "name": "Loews Corporation",
+        "price": 107.53,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "L"
       },
       {
         "change": 0.41,
@@ -3577,12 +5777,28 @@
         "symbol": "L"
       },
       {
+        "change": 0.29,
+        "change_percent": 0.24,
+        "name": "Leidos Holdings, Inc.",
+        "price": 119.51,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "LDOS"
+      },
+      {
         "change": 3.97,
         "change_percent": 3.08,
         "name": "Leidos Holdings, Inc.",
         "price": 132.83,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "LDOS"
+      },
+      {
+        "change": -0.9,
+        "change_percent": -1.16,
+        "name": "Lennar Corporation Class A",
+        "price": 76.7,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "LEN"
       },
       {
         "change": 0.39,
@@ -3601,12 +5817,36 @@
         "symbol": "LH"
       },
       {
+        "change": 1.16,
+        "change_percent": 0.37,
+        "name": "Labcorp Holdings Inc.",
+        "price": 315.36,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "LH"
+      },
+      {
+        "change": 0.43,
+        "change_percent": 0.18,
+        "name": "L3Harris Technologies, Inc.",
+        "price": 237.35,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "LHX"
+      },
+      {
         "change": 3.39,
         "change_percent": 1.38,
         "name": "L3Harris Technologies, Inc.",
         "price": 248.93,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "LHX"
+      },
+      {
+        "change": -4.99,
+        "change_percent": -1.38,
+        "name": "Lennox International Inc.",
+        "price": 356.56,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "LII"
       },
       {
         "change": -0.53,
@@ -3625,11 +5865,27 @@
         "symbol": "LIN"
       },
       {
+        "change": 0.8,
+        "change_percent": 0.17,
+        "name": "Linde plc Ordinary Share",
+        "price": 482.5,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "LIN"
+      },
+      {
         "change": -92,
         "change_percent": -9.92,
         "name": "Lumentum Holdings Inc. Common Stock",
         "price": 835.03,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
+        "symbol": "LITE"
+      },
+      {
+        "change": 55.75,
+        "change_percent": 5.32,
+        "name": "Lumentum Holdings Inc. Common Stock",
+        "price": 1104.35,
+        "snapshot_at": "2026-10-09T22:34:47Z",
         "symbol": "LITE"
       },
       {
@@ -3641,6 +5897,22 @@
         "symbol": "LLY"
       },
       {
+        "change": 7.65,
+        "change_percent": 0.65,
+        "name": "Eli Lilly & Co.",
+        "price": 1177.25,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "LLY"
+      },
+      {
+        "change": 2.01,
+        "change_percent": 0.4,
+        "name": "Lockheed Martin Corp.",
+        "price": 509.9,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "LMT"
+      },
+      {
         "change": 5.19,
         "change_percent": 0.99,
         "name": "Lockheed Martin Corp.",
@@ -3649,12 +5921,28 @@
         "symbol": "LMT"
       },
       {
+        "change": 0.28,
+        "change_percent": 0.43,
+        "name": "Alliant Energy Corporation Common Stock",
+        "price": 65.78,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "LNT"
+      },
+      {
         "change": -0.34,
         "change_percent": -0.51,
         "name": "Alliant Energy Corporation Common Stock",
         "price": 66.92,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "LNT"
+      },
+      {
+        "change": -2.67,
+        "change_percent": -1.42,
+        "name": "Lowe's Companies Inc.",
+        "price": 186.18,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "LOW"
       },
       {
         "change": 1.35,
@@ -3673,6 +5961,22 @@
         "symbol": "LRCX"
       },
       {
+        "change": -1.46,
+        "change_percent": -0.46,
+        "name": "Lam Research Corp",
+        "price": 319.13,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "LRCX"
+      },
+      {
+        "change": 1.72,
+        "change_percent": 1.86,
+        "name": "lululemon athletica inc.",
+        "price": 94.4,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "LULU"
+      },
+      {
         "change": 1.33,
         "change_percent": 1.34,
         "name": "lululemon athletica inc.",
@@ -3689,6 +5993,22 @@
         "symbol": "LUV"
       },
       {
+        "change": 0.55,
+        "change_percent": 1.34,
+        "name": "Southwest Airlines Co.",
+        "price": 41.91,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "LUV"
+      },
+      {
+        "change": 0.24,
+        "change_percent": 0.68,
+        "name": "Las Vegas Sands Corp.",
+        "price": 36.34,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "LVS"
+      },
+      {
         "change": -0.43,
         "change_percent": -1,
         "name": "Las Vegas Sands Corp.",
@@ -3697,12 +6017,28 @@
         "symbol": "LVS"
       },
       {
+        "change": -0.78,
+        "change_percent": -1.29,
+        "name": "LyondellBasell Industries N.V. Class A",
+        "price": 59.56,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "LYB"
+      },
+      {
         "change": -0.94,
         "change_percent": -1.48,
         "name": "LyondellBasell Industries N.V. Class A",
         "price": 62.75,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "LYB"
+      },
+      {
+        "change": -0.63,
+        "change_percent": -0.37,
+        "name": "Live Nation Entertainment Inc.",
+        "price": 170.71,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "LYV"
       },
       {
         "change": 1.34,
@@ -3721,6 +6057,22 @@
         "symbol": "MA"
       },
       {
+        "change": 12.61,
+        "change_percent": 2.19,
+        "name": "Mastercard Incorporated",
+        "price": 587.37,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "MA"
+      },
+      {
+        "change": 0.7,
+        "change_percent": 0.6,
+        "name": "Mid-America Apartment Communities, Inc.",
+        "price": 116.89,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "MAA"
+      },
+      {
         "change": 0.81,
         "change_percent": 0.65,
         "name": "Mid-America Apartment Communities, Inc.",
@@ -3737,12 +6089,36 @@
         "symbol": "MAR"
       },
       {
+        "change": 4.67,
+        "change_percent": 1.29,
+        "name": "Marriott International Class A Common Stock",
+        "price": 365.75,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "MAR"
+      },
+      {
+        "change": -0.72,
+        "change_percent": -1.04,
+        "name": "Masco Corporation",
+        "price": 68.78,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "MAS"
+      },
+      {
         "change": 0.89,
         "change_percent": 1.3,
         "name": "Masco Corporation",
         "price": 69.41,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "MAS"
+      },
+      {
+        "change": -1.03,
+        "change_percent": -0.43,
+        "name": "McDonald's Corporation",
+        "price": 235.88,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "MCD"
       },
       {
         "change": 4.96,
@@ -3761,12 +6137,36 @@
         "symbol": "MCHP"
       },
       {
+        "change": 0.01,
+        "change_percent": 0.01,
+        "name": "Microchip Technology Inc",
+        "price": 75.53,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "MCHP"
+      },
+      {
         "change": 29.44,
         "change_percent": 3.34,
         "name": "McKesson Corporation",
         "price": 910.95,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "MCK"
+      },
+      {
+        "change": 10.12,
+        "change_percent": 1.09,
+        "name": "McKesson Corporation",
+        "price": 940.37,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "MCK"
+      },
+      {
+        "change": 4.84,
+        "change_percent": 1.06,
+        "name": "Moody's Corporation",
+        "price": 463.53,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "MCO"
       },
       {
         "change": 2.98,
@@ -3777,12 +6177,28 @@
         "symbol": "MCO"
       },
       {
+        "change": -0.19,
+        "change_percent": -0.31,
+        "name": "Mondelez International, Inc. Class A",
+        "price": 60.48,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "MDLZ"
+      },
+      {
         "change": -0.05,
         "change_percent": -0.08,
         "name": "Mondelez International, Inc. Class A",
         "price": 62.39,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "MDLZ"
+      },
+      {
+        "change": 1.03,
+        "change_percent": 1.17,
+        "name": "Medtronic plc",
+        "price": 88.78,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "MDT"
       },
       {
         "change": 2.84,
@@ -3801,12 +6217,36 @@
         "symbol": "MET"
       },
       {
+        "change": -0.16,
+        "change_percent": -0.16,
+        "name": "MetLife, Inc.",
+        "price": 98.31,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "MET"
+      },
+      {
         "change": 17.57,
         "change_percent": 2.71,
         "name": "Meta Platforms, Inc. Class A Common Stock",
         "price": 665.6,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "META"
+      },
+      {
+        "change": -2.73,
+        "change_percent": -0.38,
+        "name": "Meta Platforms, Inc. Class A Common Stock",
+        "price": 718.16,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "META"
+      },
+      {
+        "change": -0.75,
+        "change_percent": -2.5,
+        "name": "MGM RESORTS INTERNATIONAL",
+        "price": 29.26,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "MGM"
       },
       {
         "change": -0.06,
@@ -3817,12 +6257,28 @@
         "symbol": "MGM"
       },
       {
+        "change": -0.7,
+        "change_percent": -1.52,
+        "name": "McCormick & Company, Incorporated Non-VTG CS",
+        "price": 45.24,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "MKC"
+      },
+      {
         "change": -0.93,
         "change_percent": -1.81,
         "name": "McCormick & Company, Incorporated Non-VTG CS",
         "price": 50.39,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "MKC"
+      },
+      {
+        "change": -3.4,
+        "change_percent": -0.71,
+        "name": "Martin Marietta Materials",
+        "price": 478.17,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "MLM"
       },
       {
         "change": -9.04,
@@ -3833,12 +6289,28 @@
         "symbol": "MLM"
       },
       {
+        "change": -3.45,
+        "change_percent": -2.11,
+        "name": "3M Company",
+        "price": 160.13,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "MMM"
+      },
+      {
         "change": -2.95,
         "change_percent": -1.79,
         "name": "3M Company",
         "price": 162.02,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "MMM"
+      },
+      {
+        "change": 0.14,
+        "change_percent": 0.32,
+        "name": "Monster Beverage Corporation",
+        "price": 43.79,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "MNST"
       },
       {
         "change": 0.8,
@@ -3857,6 +6329,22 @@
         "symbol": "MO"
       },
       {
+        "change": 0.17,
+        "change_percent": 0.24,
+        "name": "Altria Group, Inc.",
+        "price": 71.59,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "MO"
+      },
+      {
+        "change": -0.93,
+        "change_percent": -4.71,
+        "name": "The Mosaic Company",
+        "price": 18.8,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "MOS"
+      },
+      {
         "change": -0.14,
         "change_percent": -0.56,
         "name": "The Mosaic Company",
@@ -3873,11 +6361,27 @@
         "symbol": "MPC"
       },
       {
+        "change": -7.82,
+        "change_percent": -1.69,
+        "name": "MARATHON PETROLEUM CORPORATION",
+        "price": 455.51,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "MPC"
+      },
+      {
         "change": -91.22,
         "change_percent": -7.39,
         "name": "Monolithic Power Systems, Inc.",
         "price": 1143.24,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
+        "symbol": "MPWR"
+      },
+      {
+        "change": 18.04,
+        "change_percent": 1.32,
+        "name": "Monolithic Power Systems, Inc.",
+        "price": 1387.84,
+        "snapshot_at": "2026-10-09T22:34:47Z",
         "symbol": "MPWR"
       },
       {
@@ -3889,12 +6393,36 @@
         "symbol": "MRK"
       },
       {
+        "change": 3.67,
+        "change_percent": 2.58,
+        "name": "Merck & Co., Inc.",
+        "price": 146.05,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "MRK"
+      },
+      {
         "change": 2.72,
         "change_percent": 1.89,
         "name": "Moderna, Inc. Common Stock",
         "price": 146.69,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "MRNA"
+      },
+      {
+        "change": 28.15,
+        "change_percent": 14.29,
+        "name": "Moderna, Inc. Common Stock",
+        "price": 225.15,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "MRNA"
+      },
+      {
+        "change": -0.75,
+        "change_percent": -0.43,
+        "name": "Marsh",
+        "price": 175.91,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "MRSH"
       },
       {
         "change": 3.52,
@@ -3913,6 +6441,22 @@
         "symbol": "MRVL"
       },
       {
+        "change": 0.07,
+        "change_percent": 0.03,
+        "name": "Marvell Technology, Inc. Common Stock",
+        "price": 274.73,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "MRVL"
+      },
+      {
+        "change": 3.24,
+        "change_percent": 1.73,
+        "name": "Morgan Stanley",
+        "price": 190.68,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "MS"
+      },
+      {
         "change": -7.8,
         "change_percent": -3.64,
         "name": "Morgan Stanley",
@@ -3929,6 +6473,14 @@
         "symbol": "MSCI"
       },
       {
+        "change": 0.83,
+        "change_percent": 0.15,
+        "name": "MSCI, Inc.",
+        "price": 562.5,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "MSCI"
+      },
+      {
         "change": 9.78,
         "change_percent": 1.97,
         "name": "Microsoft Corp",
@@ -3937,12 +6489,36 @@
         "symbol": "MSFT"
       },
       {
+        "change": 12.31,
+        "change_percent": 2.35,
+        "name": "Microsoft Corp",
+        "price": 534.92,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "MSFT"
+      },
+      {
+        "change": -0.97,
+        "change_percent": -0.22,
+        "name": "Motorola Solutions, Inc. New",
+        "price": 446.15,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "MSI"
+      },
+      {
         "change": 7.97,
         "change_percent": 1.71,
         "name": "Motorola Solutions, Inc. New",
         "price": 474.13,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "MSI"
+      },
+      {
+        "change": -3.05,
+        "change_percent": -1.4,
+        "name": "M&T Bank Corp.",
+        "price": 214.51,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "MTB"
       },
       {
         "change": -2.01,
@@ -3961,11 +6537,27 @@
         "symbol": "MTD"
       },
       {
+        "change": 20.99,
+        "change_percent": 1.37,
+        "name": "Mettler-Toledo International",
+        "price": 1550.45,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "MTD"
+      },
+      {
         "change": -51.23,
         "change_percent": -5.25,
         "name": "Micron Technology, Inc.",
         "price": 924.03,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
+        "symbol": "MU"
+      },
+      {
+        "change": -7.54,
+        "change_percent": -0.73,
+        "name": "Micron Technology, Inc.",
+        "price": 1028.3,
+        "snapshot_at": "2026-10-09T22:34:47Z",
         "symbol": "MU"
       },
       {
@@ -3977,11 +6569,27 @@
         "symbol": "NCLH"
       },
       {
+        "change": 0.08,
+        "change_percent": 0.52,
+        "name": "Norwegian Cruise Line Holdings Ltd. Ordinary Shares",
+        "price": 15.57,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "NCLH"
+      },
+      {
         "change": 0.38,
         "change_percent": 0.42,
         "name": "Nasdaq, Inc. Common Stock",
         "price": 91.57,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
+        "symbol": "NDAQ"
+      },
+      {
+        "change": 1.11,
+        "change_percent": 1.21,
+        "name": "Nasdaq, Inc. Common Stock",
+        "price": 93.48,
+        "snapshot_at": "2026-10-09T22:34:47Z",
         "symbol": "NDAQ"
       },
       {
@@ -3993,12 +6601,36 @@
         "symbol": "NDSN"
       },
       {
+        "change": 2.34,
+        "change_percent": 0.72,
+        "name": "Nordson Corp",
+        "price": 329.21,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "NDSN"
+      },
+      {
+        "change": 0.16,
+        "change_percent": 0.2,
+        "name": "NextEra Energy, Inc.",
+        "price": 77.53,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "NEE"
+      },
+      {
         "change": -0.68,
         "change_percent": -0.83,
         "name": "NextEra Energy, Inc.",
         "price": 81.63,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "NEE"
+      },
+      {
+        "change": 2.42,
+        "change_percent": 2.09,
+        "name": "Newmont Corporation",
+        "price": 117.97,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "NEM"
       },
       {
         "change": -3.74,
@@ -4009,12 +6641,28 @@
         "symbol": "NEM"
       },
       {
+        "change": -1.26,
+        "change_percent": -1.77,
+        "name": "NetFlix Inc",
+        "price": 70.31,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "NFLX"
+      },
+      {
         "change": 2.92,
         "change_percent": 3.77,
         "name": "NetFlix Inc",
         "price": 80.32,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "NFLX"
+      },
+      {
+        "change": 0.24,
+        "change_percent": 0.59,
+        "name": "NiSource Inc.",
+        "price": 40.77,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "NI"
       },
       {
         "change": -0.34,
@@ -4025,12 +6673,28 @@
         "symbol": "NI"
       },
       {
+        "change": -0.07,
+        "change_percent": -0.19,
+        "name": "Nike, Inc.",
+        "price": 34.67,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "NKE"
+      },
+      {
         "change": 0.25,
         "change_percent": 0.68,
         "name": "Nike, Inc.",
         "price": 37.05,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "NKE"
+      },
+      {
+        "change": -4.47,
+        "change_percent": -0.92,
+        "name": "Northrop Grumman Corp.",
+        "price": 480.01,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "NOC"
       },
       {
         "change": 8.42,
@@ -4041,6 +6705,14 @@
         "symbol": "NOC"
       },
       {
+        "change": 1.13,
+        "change_percent": 0.81,
+        "name": "SERVICENOW, INC.",
+        "price": 140.88,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "NOW"
+      },
+      {
         "change": 9.82,
         "change_percent": 7.41,
         "name": "SERVICENOW, INC.",
@@ -4049,12 +6721,28 @@
         "symbol": "NOW"
       },
       {
+        "change": 1.43,
+        "change_percent": 1.34,
+        "name": "NRG Energy, Inc.",
+        "price": 107.75,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "NRG"
+      },
+      {
         "change": -4.99,
         "change_percent": -4.4,
         "name": "NRG Energy, Inc.",
         "price": 108.47,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "NRG"
+      },
+      {
+        "change": 0.8,
+        "change_percent": 0.25,
+        "name": "Norfolk Southern Corp.",
+        "price": 317.79,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "NSC"
       },
       {
         "change": -0.22,
@@ -4073,12 +6761,36 @@
         "symbol": "NTAP"
       },
       {
+        "change": 6.35,
+        "change_percent": 2.75,
+        "name": "NetApp, Inc",
+        "price": 237.4,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "NTAP"
+      },
+      {
+        "change": 0.04,
+        "change_percent": 0.02,
+        "name": "Northern Trust Corp",
+        "price": 168.54,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "NTRS"
+      },
+      {
         "change": -7.48,
         "change_percent": -3.95,
         "name": "Northern Trust Corp",
         "price": 181.71,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "NTRS"
+      },
+      {
+        "change": 2.99,
+        "change_percent": 1.21,
+        "name": "Nucor Corporation",
+        "price": 249.13,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "NUE"
       },
       {
         "change": -4.8,
@@ -4097,6 +6809,22 @@
         "symbol": "NVDA"
       },
       {
+        "change": -1.05,
+        "change_percent": -0.46,
+        "name": "Nvidia Corp",
+        "price": 229.43,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "NVDA"
+      },
+      {
+        "change": -114.86,
+        "change_percent": -1.91,
+        "name": "NVR, Inc.",
+        "price": 5887.69,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "NVR"
+      },
+      {
         "change": 138.8,
         "change_percent": 2.25,
         "name": "NVR, Inc.",
@@ -4105,12 +6833,28 @@
         "symbol": "NVR"
       },
       {
+        "change": 0.09,
+        "change_percent": 0.3,
+        "name": "News Corporation Class B Common Stock",
+        "price": 32.02,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "NWS"
+      },
+      {
         "change": 1.15,
         "change_percent": 3.52,
         "name": "News Corporation Class B Common Stock",
         "price": 33.86,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "NWS"
+      },
+      {
+        "change": 0.14,
+        "change_percent": 0.5,
+        "name": "News Corporation Class A Common Stock",
+        "price": 29.11,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "NWSA"
       },
       {
         "change": 1.12,
@@ -4129,6 +6873,22 @@
         "symbol": "NXPI"
       },
       {
+        "change": -3.28,
+        "change_percent": -1.42,
+        "name": "NXP Semiconductors N.V.",
+        "price": 227.79,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "NXPI"
+      },
+      {
+        "change": 0.06,
+        "change_percent": 0.12,
+        "name": "Realty Income Corporation",
+        "price": 54.23,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "O"
+      },
+      {
         "change": -0.23,
         "change_percent": -0.39,
         "name": "Realty Income Corporation",
@@ -4137,12 +6897,36 @@
         "symbol": "O"
       },
       {
+        "change": 0.22,
+        "change_percent": 0.12,
+        "name": "Old Dominion Freight Line",
+        "price": 181.88,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "ODFL"
+      },
+      {
         "change": 2.12,
         "change_percent": 1.18,
         "name": "Old Dominion Freight Line",
         "price": 181.91,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "ODFL"
+      },
+      {
+        "change": -0.27,
+        "change_percent": -0.29,
+        "name": "Oneok, Inc.",
+        "price": 90.03,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "OKE"
+      },
+      {
+        "change": 0.05,
+        "change_percent": 0.07,
+        "name": "Omnicom Group Inc.",
+        "price": 76.5,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "OMC"
       },
       {
         "change": 2.06,
@@ -4161,12 +6945,36 @@
         "symbol": "ON"
       },
       {
+        "change": -1.91,
+        "change_percent": -2.41,
+        "name": "ON Semiconductor Corp",
+        "price": 77.5,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "ON"
+      },
+      {
+        "change": 5.69,
+        "change_percent": 4.19,
+        "name": "Oracle Corp",
+        "price": 141.38,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "ORCL"
+      },
+      {
         "change": -5.49,
         "change_percent": -3.65,
         "name": "Oracle Corp",
         "price": 144.79,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "ORCL"
+      },
+      {
+        "change": 0.44,
+        "change_percent": 0.51,
+        "name": "O'Reilly Automotive, Inc.",
+        "price": 86.45,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "ORLY"
       },
       {
         "change": 1.4,
@@ -4177,12 +6985,28 @@
         "symbol": "ORLY"
       },
       {
+        "change": 0.11,
+        "change_percent": 0.16,
+        "name": "Otis Worldwide Corporation",
+        "price": 66.22,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "OTIS"
+      },
+      {
         "change": 1.08,
         "change_percent": 1.56,
         "name": "Otis Worldwide Corporation",
         "price": 70.18,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "OTIS"
+      },
+      {
+        "change": -0.08,
+        "change_percent": -0.13,
+        "name": "Occidental Petroleum Corporation",
+        "price": 60.2,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "OXY"
       },
       {
         "change": 0.32,
@@ -4193,12 +7017,36 @@
         "symbol": "OXY"
       },
       {
+        "change": 4.18,
+        "change_percent": 2.78,
+        "name": "Everpure, Inc.",
+        "price": 154.75,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "P"
+      },
+      {
         "change": 43.29,
         "change_percent": 13.09,
         "name": "Palo Alto Networks, Inc. Common Stock",
         "price": 373.94,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "PANW"
+      },
+      {
+        "change": 20.21,
+        "change_percent": 5.07,
+        "name": "Palo Alto Networks, Inc. Common Stock",
+        "price": 418.71,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "PANW"
+      },
+      {
+        "change": -0.46,
+        "change_percent": -0.44,
+        "name": "Paychex Inc",
+        "price": 104,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "PAYX"
       },
       {
         "change": 2.71,
@@ -4209,12 +7057,28 @@
         "symbol": "PAYX"
       },
       {
+        "change": -1.59,
+        "change_percent": -1.45,
+        "name": "Paccar Inc",
+        "price": 108.07,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "PCAR"
+      },
+      {
         "change": 0.13,
         "change_percent": 0.11,
         "name": "Paccar Inc",
         "price": 122.86,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "PCAR"
+      },
+      {
+        "change": 0.38,
+        "change_percent": 3,
+        "name": "PG&E Corporation",
+        "price": 13.05,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "PCG"
       },
       {
         "change": -0.2,
@@ -4233,6 +7097,22 @@
         "symbol": "PEG"
       },
       {
+        "change": 0.42,
+        "change_percent": 0.59,
+        "name": "Public Service Enterprise Group Incorporated",
+        "price": 72.26,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "PEG"
+      },
+      {
+        "change": -2.27,
+        "change_percent": -1.76,
+        "name": "PepsiCo, Inc.",
+        "price": 126.08,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "PEP"
+      },
+      {
         "change": 0.02,
         "change_percent": 0.01,
         "name": "PepsiCo, Inc.",
@@ -4247,6 +7127,22 @@
         "price": 27.72,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "PFE"
+      },
+      {
+        "change": 0.37,
+        "change_percent": 1.33,
+        "name": "Pfizer Inc.",
+        "price": 28.19,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "PFE"
+      },
+      {
+        "change": -2.5,
+        "change_percent": -2.28,
+        "name": "Principal Financial Group, Inc.",
+        "price": 107.27,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "PFG"
       },
       {
         "change": 0.73,
@@ -4265,6 +7161,22 @@
         "symbol": "PG"
       },
       {
+        "change": 0.59,
+        "change_percent": 0.39,
+        "name": "Procter & Gamble Company",
+        "price": 151.18,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "PG"
+      },
+      {
+        "change": -1.32,
+        "change_percent": -0.61,
+        "name": "Progressive Corporation",
+        "price": 217.41,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "PGR"
+      },
+      {
         "change": 3.4,
         "change_percent": 1.56,
         "name": "Progressive Corporation",
@@ -4281,6 +7193,22 @@
         "symbol": "PH"
       },
       {
+        "change": 15.07,
+        "change_percent": 1.59,
+        "name": "Parker-Hannifin Corporation",
+        "price": 962.03,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "PH"
+      },
+      {
+        "change": -1.42,
+        "change_percent": -1.25,
+        "name": "Pultegroup, Inc.",
+        "price": 112.11,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "PHM"
+      },
+      {
         "change": 0.68,
         "change_percent": 0.58,
         "name": "Pultegroup, Inc.",
@@ -4289,12 +7217,28 @@
         "symbol": "PHM"
       },
       {
+        "change": 0.65,
+        "change_percent": 0.28,
+        "name": "Packaging Corp of America",
+        "price": 230.59,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "PKG"
+      },
+      {
         "change": -1.14,
         "change_percent": -0.49,
         "name": "Packaging Corp of America",
         "price": 233.26,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "PKG"
+      },
+      {
+        "change": -0.25,
+        "change_percent": -0.19,
+        "name": "PROLOGIS, INC.",
+        "price": 129.04,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "PLD"
       },
       {
         "change": -0.56,
@@ -4313,6 +7257,14 @@
         "symbol": "PLTR"
       },
       {
+        "change": 9.35,
+        "change_percent": 4.71,
+        "name": "Palantir Technologies Inc. Class A Common Stock",
+        "price": 208.13,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "PLTR"
+      },
+      {
         "change": 3.8,
         "change_percent": 1.99,
         "name": "Philip Morris International Inc.",
@@ -4321,12 +7273,36 @@
         "symbol": "PM"
       },
       {
+        "change": -0.53,
+        "change_percent": -0.26,
+        "name": "Philip Morris International Inc.",
+        "price": 199.97,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "PM"
+      },
+      {
+        "change": 2.38,
+        "change_percent": 1.09,
+        "name": "PNC Financial Services Group",
+        "price": 222.06,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "PNC"
+      },
+      {
         "change": -1.52,
         "change_percent": -0.62,
         "name": "PNC Financial Services Group",
         "price": 242.72,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "PNC"
+      },
+      {
+        "change": 0.18,
+        "change_percent": 0.33,
+        "name": "Pentair plc",
+        "price": 52.48,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "PNR"
       },
       {
         "change": -0.4,
@@ -4345,12 +7321,36 @@
         "symbol": "PNW"
       },
       {
+        "change": 0.88,
+        "change_percent": 0.89,
+        "name": "Pinnacle West Capital Corporation",
+        "price": 98.86,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "PNW"
+      },
+      {
+        "change": 0.54,
+        "change_percent": 0.4,
+        "name": "Insulet Corporation",
+        "price": 135.01,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "PODD"
+      },
+      {
         "change": 5.84,
         "change_percent": 4.43,
         "name": "Insulet Corporation",
         "price": 137.8,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "PODD"
+      },
+      {
+        "change": -0.85,
+        "change_percent": -0.81,
+        "name": "PPG Industries, Inc.",
+        "price": 104.61,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "PPG"
       },
       {
         "change": -0.25,
@@ -4369,12 +7369,36 @@
         "symbol": "PPL"
       },
       {
+        "change": 0,
+        "change_percent": 0,
+        "name": "PPL Corporation",
+        "price": 34.1,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "PPL"
+      },
+      {
+        "change": -0.47,
+        "change_percent": -0.41,
+        "name": "Prudential Financial, Inc.",
+        "price": 113.06,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "PRU"
+      },
+      {
         "change": 0.26,
         "change_percent": 0.22,
         "name": "Prudential Financial, Inc.",
         "price": 119.5,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "PRU"
+      },
+      {
+        "change": 4.44,
+        "change_percent": 1.56,
+        "name": "Public Storage",
+        "price": 289.96,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "PSA"
       },
       {
         "change": -1.1,
@@ -4401,11 +7425,27 @@
         "symbol": "PSX"
       },
       {
+        "change": -3.91,
+        "change_percent": -1.39,
+        "name": "PHILLIPS 66",
+        "price": 277.69,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "PSX"
+      },
+      {
         "change": 5.87,
         "change_percent": 4.49,
         "name": "PTC, INC",
         "price": 136.65,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
+        "symbol": "PTC"
+      },
+      {
+        "change": 0.3,
+        "change_percent": 0.15,
+        "name": "PTC, INC",
+        "price": 194.03,
+        "snapshot_at": "2026-10-09T22:34:47Z",
         "symbol": "PTC"
       },
       {
@@ -4417,11 +7457,27 @@
         "symbol": "PWR"
       },
       {
+        "change": 20.44,
+        "change_percent": 2.98,
+        "name": "Quanta Services, Inc.",
+        "price": 705.77,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "PWR"
+      },
+      {
         "change": 0.31,
         "change_percent": 0.58,
         "name": "PayPal Holdings, Inc. Common Stock",
         "price": 54.03,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
+        "symbol": "PYPL"
+      },
+      {
+        "change": 0.42,
+        "change_percent": 0.77,
+        "name": "PayPal Holdings, Inc. Common Stock",
+        "price": 55.44,
+        "snapshot_at": "2026-10-09T22:34:47Z",
         "symbol": "PYPL"
       },
       {
@@ -4431,6 +7487,22 @@
         "price": 117.23,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "Q"
+      },
+      {
+        "change": -0.76,
+        "change_percent": -0.6,
+        "name": "Qnity Electronics, Inc.",
+        "price": 125.92,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "Q"
+      },
+      {
+        "change": -0.36,
+        "change_percent": -0.2,
+        "name": "Qualcomm Inc",
+        "price": 175.65,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "QCOM"
       },
       {
         "change": -1.82,
@@ -4449,12 +7521,36 @@
         "symbol": "RCL"
       },
       {
+        "change": -0.59,
+        "change_percent": -0.21,
+        "name": "Royal Caribbean Group",
+        "price": 280.82,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "RCL"
+      },
+      {
+        "change": 3.24,
+        "change_percent": 2.07,
+        "name": "Reddit, Inc.",
+        "price": 159.71,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "RDDT"
+      },
+      {
         "change": 4.61,
         "change_percent": 2.92,
         "name": "Reddit, Inc.",
         "price": 162.38,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "RDDT"
+      },
+      {
+        "change": 0.61,
+        "change_percent": 0.86,
+        "name": "Regency Centers Corporation",
+        "price": 72.09,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "REG"
       },
       {
         "change": -0.09,
@@ -4465,6 +7561,14 @@
         "symbol": "REG"
       },
       {
+        "change": 3.87,
+        "change_percent": 0.52,
+        "name": "Regeneron Pharmaceuticals Inc",
+        "price": 743.44,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "REGN"
+      },
+      {
         "change": 12.25,
         "change_percent": 1.57,
         "name": "Regeneron Pharmaceuticals Inc",
@@ -4473,12 +7577,28 @@
         "symbol": "REGN"
       },
       {
+        "change": -0.01,
+        "change_percent": -0.04,
+        "name": "Regions Financial Corp.",
+        "price": 27.06,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "RF"
+      },
+      {
         "change": -0.1,
         "change_percent": -0.33,
         "name": "Regions Financial Corp.",
         "price": 30.03,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "RF"
+      },
+      {
+        "change": -0.29,
+        "change_percent": -0.19,
+        "name": "Raymond James Financial, Inc.",
+        "price": 158.31,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "RJF"
       },
       {
         "change": -2.66,
@@ -4497,11 +7617,27 @@
         "symbol": "RL"
       },
       {
+        "change": 2.99,
+        "change_percent": 0.81,
+        "name": "Ralph Lauren Corporation",
+        "price": 370.38,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "RL"
+      },
+      {
         "change": 4.72,
         "change_percent": 2.16,
         "name": "ResMed Inc.",
         "price": 222.99,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
+        "symbol": "RMD"
+      },
+      {
+        "change": 3.35,
+        "change_percent": 1.48,
+        "name": "ResMed Inc.",
+        "price": 230.08,
+        "snapshot_at": "2026-10-09T22:34:47Z",
         "symbol": "RMD"
       },
       {
@@ -4513,12 +7649,36 @@
         "symbol": "ROK"
       },
       {
+        "change": -1.61,
+        "change_percent": -0.37,
+        "name": "Rockwell Automation, Inc.",
+        "price": 432.53,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "ROK"
+      },
+      {
+        "change": -0.17,
+        "change_percent": -0.54,
+        "name": "Rollins, Inc.",
+        "price": 32.09,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "ROL"
+      },
+      {
         "change": 0.58,
         "change_percent": 1.67,
         "name": "Rollins, Inc.",
         "price": 35.31,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "ROL"
+      },
+      {
+        "change": -0.2,
+        "change_percent": -0.05,
+        "name": "Roper Technologies, Inc. Common Stock",
+        "price": 364.03,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "ROP"
       },
       {
         "change": 6.09,
@@ -4529,6 +7689,14 @@
         "symbol": "ROP"
       },
       {
+        "change": -1.69,
+        "change_percent": -0.75,
+        "name": "Ross Stores Inc",
+        "price": 223.5,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "ROST"
+      },
+      {
         "change": -0.7,
         "change_percent": -0.3,
         "name": "Ross Stores Inc",
@@ -4537,12 +7705,28 @@
         "symbol": "ROST"
       },
       {
+        "change": 0.16,
+        "change_percent": 0.07,
+        "name": "Republic Services Inc.",
+        "price": 217,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "RSG"
+      },
+      {
         "change": 3.11,
         "change_percent": 1.4,
         "name": "Republic Services Inc.",
         "price": 225.85,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "RSG"
+      },
+      {
+        "change": 0.99,
+        "change_percent": 0.54,
+        "name": "RTX Corporation",
+        "price": 185.31,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "RTX"
       },
       {
         "change": -2.34,
@@ -4561,12 +7745,36 @@
         "symbol": "RVTY"
       },
       {
+        "change": 2.02,
+        "change_percent": 1.33,
+        "name": "Revvity, Inc.",
+        "price": 154.18,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "RVTY"
+      },
+      {
         "change": -2.4,
         "change_percent": -1.29,
         "name": "SBA Communications Corp",
         "price": 183.07,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "SBAC"
+      },
+      {
+        "change": 13.58,
+        "change_percent": 7.99,
+        "name": "SBA Communications Corp",
+        "price": 183.59,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "SBAC"
+      },
+      {
+        "change": -2.21,
+        "change_percent": -2.37,
+        "name": "Starbucks Corp",
+        "price": 91,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "SBUX"
       },
       {
         "change": 0.33,
@@ -4577,12 +7785,28 @@
         "symbol": "SBUX"
       },
       {
+        "change": 0.12,
+        "change_percent": 0.12,
+        "name": "The Charles Schwab Corporation",
+        "price": 96.99,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "SCHW"
+      },
+      {
         "change": 0.06,
         "change_percent": 0.06,
         "name": "The Charles Schwab Corporation",
         "price": 107.31,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "SCHW"
+      },
+      {
+        "change": -1.47,
+        "change_percent": -0.46,
+        "name": "The Sherwin-Williams Company",
+        "price": 319.56,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "SHW"
       },
       {
         "change": 1.19,
@@ -4593,12 +7817,36 @@
         "symbol": "SHW"
       },
       {
+        "change": 0.3,
+        "change_percent": 0.25,
+        "name": "The J.M. Smucker Company",
+        "price": 119.71,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "SJM"
+      },
+      {
         "change": 0.16,
         "change_percent": 0.13,
         "name": "The J.M. Smucker Company",
         "price": 121.3,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "SJM"
+      },
+      {
+        "change": -0.09,
+        "change_percent": -0.97,
+        "name": "Skydance Corporation",
+        "price": 9.19,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "SKYD"
+      },
+      {
+        "change": -0.05,
+        "change_percent": -0.11,
+        "name": "SLB Limited",
+        "price": 48.92,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "SLB"
       },
       {
         "change": -2.74,
@@ -4617,6 +7865,22 @@
         "symbol": "SMCI"
       },
       {
+        "change": -0.95,
+        "change_percent": -2.21,
+        "name": "Super Micro Computer, Inc. Common Stock",
+        "price": 41.83,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "SMCI"
+      },
+      {
+        "change": 1.1,
+        "change_percent": 0.31,
+        "name": "Snap-on Incorporated",
+        "price": 359.98,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "SNA"
+      },
+      {
         "change": 2.34,
         "change_percent": 0.62,
         "name": "Snap-on Incorporated",
@@ -4633,12 +7897,36 @@
         "symbol": "SNDK"
       },
       {
+        "change": -31.89,
+        "change_percent": -1.98,
+        "name": "Sandisk Corporation Common Stock",
+        "price": 1577.57,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "SNDK"
+      },
+      {
         "change": -15.95,
         "change_percent": -4.01,
         "name": "Synopsys Inc",
         "price": 381.43,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "SNPS"
+      },
+      {
+        "change": 11.74,
+        "change_percent": 2.36,
+        "name": "Synopsys Inc",
+        "price": 509.49,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "SNPS"
+      },
+      {
+        "change": -0.38,
+        "change_percent": -0.44,
+        "name": "The Southern Company",
+        "price": 85.77,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "SO"
       },
       {
         "change": -0.17,
@@ -4649,12 +7937,28 @@
         "symbol": "SO"
       },
       {
+        "change": 2.26,
+        "change_percent": 2.62,
+        "name": "Solventum Corporation",
+        "price": 88.67,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "SOLV"
+      },
+      {
         "change": 2.37,
         "change_percent": 2.71,
         "name": "Solventum Corporation",
         "price": 89.82,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "SOLV"
+      },
+      {
+        "change": -0.05,
+        "change_percent": -0.03,
+        "name": "Simon Property Group, Inc.",
+        "price": 199.56,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "SPG"
       },
       {
         "change": 0.14,
@@ -4665,12 +7969,28 @@
         "symbol": "SPG"
       },
       {
+        "change": 4.92,
+        "change_percent": 1.22,
+        "name": "S&P Global Inc.",
+        "price": 407.65,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "SPGI"
+      },
+      {
         "change": 7.83,
         "change_percent": 1.91,
         "name": "S&P Global Inc.",
         "price": 418.54,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "SPGI"
+      },
+      {
+        "change": 1.2,
+        "change_percent": 1.5,
+        "name": "Sempra",
+        "price": 81.28,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "SRE"
       },
       {
         "change": -0.35,
@@ -4689,12 +8009,36 @@
         "symbol": "STE"
       },
       {
+        "change": 3.69,
+        "change_percent": 1.75,
+        "name": "STERIS plc",
+        "price": 214.44,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "STE"
+      },
+      {
         "change": -5.26,
         "change_percent": -2.19,
         "name": "Steel Dynamics Inc",
         "price": 234.53,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "STLD"
+      },
+      {
+        "change": 4.43,
+        "change_percent": 1.89,
+        "name": "Steel Dynamics Inc",
+        "price": 238.6,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "STLD"
+      },
+      {
+        "change": -1.32,
+        "change_percent": -0.75,
+        "name": "State Street Corporation",
+        "price": 173.77,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "STT"
       },
       {
         "change": -5.24,
@@ -4705,12 +8049,28 @@
         "symbol": "STT"
       },
       {
+        "change": 5.41,
+        "change_percent": 0.7,
+        "name": "Seagate Technology Holdings PLC Ordinary Shares (Ireland)",
+        "price": 780.24,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "STX"
+      },
+      {
         "change": -24.62,
         "change_percent": -2.97,
         "name": "Seagate Technology Holdings PLC Ordinary Shares (Ireland)",
         "price": 805.55,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "STX"
+      },
+      {
+        "change": -0.6,
+        "change_percent": -0.49,
+        "name": "Constellation Brands, Inc.",
+        "price": 123.03,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "STZ"
       },
       {
         "change": 2.55,
@@ -4721,12 +8081,28 @@
         "symbol": "STZ"
       },
       {
+        "change": -0.06,
+        "change_percent": -0.15,
+        "name": "Smurfit Westrock plc",
+        "price": 41.39,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "SW"
+      },
+      {
         "change": 0.53,
         "change_percent": 1.23,
         "name": "Smurfit Westrock plc",
         "price": 43.75,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "SW"
+      },
+      {
+        "change": -0.6,
+        "change_percent": -0.67,
+        "name": "Stanley Black & Decker, Inc.",
+        "price": 88.57,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "SWK"
       },
       {
         "change": -0.35,
@@ -4737,12 +8113,28 @@
         "symbol": "SWK"
       },
       {
+        "change": -3.84,
+        "change_percent": -4.76,
+        "name": "Skyworks Solutions Inc",
+        "price": 76.91,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "SWKS"
+      },
+      {
         "change": -9.09,
         "change_percent": -10.29,
         "name": "Skyworks Solutions Inc",
         "price": 79.26,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "SWKS"
+      },
+      {
+        "change": -0.92,
+        "change_percent": -1.25,
+        "name": "SYNCHRONY FINANCIAL",
+        "price": 72.8,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "SYF"
       },
       {
         "change": -0.11,
@@ -4753,6 +8145,14 @@
         "symbol": "SYF"
       },
       {
+        "change": 0.25,
+        "change_percent": 0.09,
+        "name": "Stryker Corporation",
+        "price": 277.23,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "SYK"
+      },
+      {
         "change": 6.31,
         "change_percent": 2.29,
         "name": "Stryker Corporation",
@@ -4761,12 +8161,28 @@
         "symbol": "SYK"
       },
       {
+        "change": 0.19,
+        "change_percent": 0.24,
+        "name": "Sysco Corporation",
+        "price": 78.39,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "SYY"
+      },
+      {
         "change": 0.33,
         "change_percent": 0.4,
         "name": "Sysco Corporation",
         "price": 83.54,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "SYY"
+      },
+      {
+        "change": -2.63,
+        "change_percent": -10.57,
+        "name": "AT&T Inc.",
+        "price": 22.24,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "T"
       },
       {
         "change": 0.45,
@@ -4785,6 +8201,14 @@
         "symbol": "TAP"
       },
       {
+        "change": 18.36,
+        "change_percent": 1.69,
+        "name": "TransDigm Group Incorporated",
+        "price": 1107.65,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "TDG"
+      },
+      {
         "change": -29.1,
         "change_percent": -2.55,
         "name": "TransDigm Group Incorporated",
@@ -4801,11 +8225,27 @@
         "symbol": "TDY"
       },
       {
+        "change": 5.98,
+        "change_percent": 0.99,
+        "name": "Teledyne Technologies Incorporated",
+        "price": 610.8,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "TDY"
+      },
+      {
         "change": 0.15,
         "change_percent": 0.21,
         "name": "Bio-Techne Corp.",
         "price": 72.27,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
+        "symbol": "TECH"
+      },
+      {
+        "change": -0.02,
+        "change_percent": -0.02,
+        "name": "Bio-Techne Corp.",
+        "price": 72.44,
+        "snapshot_at": "2026-10-09T22:34:47Z",
         "symbol": "TECH"
       },
       {
@@ -4817,6 +8257,14 @@
         "symbol": "TEL"
       },
       {
+        "change": 3.43,
+        "change_percent": 1.6,
+        "name": "TE Connectivity plc",
+        "price": 217.74,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "TEL"
+      },
+      {
         "change": -50.52,
         "change_percent": -13.3,
         "name": "Teradyne, Inc. Common Stock",
@@ -4825,12 +8273,36 @@
         "symbol": "TER"
       },
       {
+        "change": 4.42,
+        "change_percent": 1.11,
+        "name": "Teradyne, Inc. Common Stock",
+        "price": 403.14,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "TER"
+      },
+      {
+        "change": -0.06,
+        "change_percent": -0.12,
+        "name": "Truist Financial Corporation",
+        "price": 46.12,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "TFC"
+      },
+      {
         "change": -0.3,
         "change_percent": -0.6,
         "name": "Truist Financial Corporation",
         "price": 50.1,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "TFC"
+      },
+      {
+        "change": -1,
+        "change_percent": -0.64,
+        "name": "Target Corporation",
+        "price": 153.76,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "TGT"
       },
       {
         "change": 2.87,
@@ -4849,6 +8321,22 @@
         "symbol": "TJX"
       },
       {
+        "change": 0.11,
+        "change_percent": 0.08,
+        "name": "TJX Companies, Inc. (The)",
+        "price": 138.86,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "TJX"
+      },
+      {
+        "change": -3.69,
+        "change_percent": -2.03,
+        "name": "TKO Group Holdings, Inc.",
+        "price": 177.94,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "TKO"
+      },
+      {
         "change": 3.41,
         "change_percent": 1.79,
         "name": "TKO Group Holdings, Inc.",
@@ -4865,6 +8353,22 @@
         "symbol": "TMO"
       },
       {
+        "change": -0.47,
+        "change_percent": -0.07,
+        "name": "Thermo Fisher Scientific, Inc.",
+        "price": 651.51,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "TMO"
+      },
+      {
+        "change": -22.38,
+        "change_percent": -13.07,
+        "name": "T-Mobile US, Inc.",
+        "price": 148.93,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "TMUS"
+      },
+      {
         "change": 0.57,
         "change_percent": 0.31,
         "name": "T-Mobile US, Inc.",
@@ -4873,12 +8377,28 @@
         "symbol": "TMUS"
       },
       {
+        "change": 5.79,
+        "change_percent": 1.62,
+        "name": "Texas Pacific Land Corporation",
+        "price": 363.57,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "TPL"
+      },
+      {
         "change": -3.83,
         "change_percent": -1.04,
         "name": "Texas Pacific Land Corporation",
         "price": 365.27,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "TPL"
+      },
+      {
+        "change": -0.15,
+        "change_percent": -0.13,
+        "name": "Tapestry, Inc. Common Stock",
+        "price": 115.67,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "TPR"
       },
       {
         "change": -0.58,
@@ -4897,12 +8417,36 @@
         "symbol": "TRGP"
       },
       {
+        "change": 4.58,
+        "change_percent": 1.59,
+        "name": "Targa Resources Corp.",
+        "price": 293.07,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "TRGP"
+      },
+      {
         "change": 1.08,
         "change_percent": 1.87,
         "name": "Trimble Inc. Common Stock",
         "price": 58.74,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "TRMB"
+      },
+      {
+        "change": 0.24,
+        "change_percent": 0.41,
+        "name": "Trimble Inc. Common Stock",
+        "price": 60.09,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "TRMB"
+      },
+      {
+        "change": 0.63,
+        "change_percent": 0.6,
+        "name": "T Rowe Price Group Inc",
+        "price": 104.86,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "TROW"
       },
       {
         "change": -0.49,
@@ -4913,12 +8457,28 @@
         "symbol": "TROW"
       },
       {
+        "change": -1.64,
+        "change_percent": -0.44,
+        "name": "The Travelers Companies, Inc.",
+        "price": 368.63,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "TRV"
+      },
+      {
         "change": 2.85,
         "change_percent": 0.76,
         "name": "The Travelers Companies, Inc.",
         "price": 378.05,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "TRV"
+      },
+      {
+        "change": -0.1,
+        "change_percent": -0.3,
+        "name": "Tractor Supply Co",
+        "price": 33.38,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "TSCO"
       },
       {
         "change": 0.82,
@@ -4937,6 +8497,22 @@
         "symbol": "TSLA"
       },
       {
+        "change": 7.45,
+        "change_percent": 1.99,
+        "name": "Tesla, Inc. Common Stock",
+        "price": 382.45,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "TSLA"
+      },
+      {
+        "change": 0.81,
+        "change_percent": 1.56,
+        "name": "Tyson Foods, Inc.",
+        "price": 53.15,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "TSN"
+      },
+      {
         "change": 0.18,
         "change_percent": 0.34,
         "name": "Tyson Foods, Inc.",
@@ -4953,12 +8529,28 @@
         "symbol": "TT"
       },
       {
+        "change": 6.57,
+        "change_percent": 1.4,
+        "name": "Trane Technologies plc",
+        "price": 476.51,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "TT"
+      },
+      {
         "change": 0.63,
         "change_percent": 4.39,
         "name": "The Trade Desk, Inc.",
         "price": 14.97,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "TTD"
+      },
+      {
+        "change": 4.22,
+        "change_percent": 2.01,
+        "name": "Take-Two Interactive Software Inc",
+        "price": 213.59,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "TTWO"
       },
       {
         "change": 7.44,
@@ -4969,12 +8561,36 @@
         "symbol": "TTWO"
       },
       {
+        "change": 13.75,
+        "change_percent": 4.99,
+        "name": "Twilio Inc.",
+        "price": 289.52,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "TWLO"
+      },
+      {
         "change": -5.28,
         "change_percent": -1.97,
         "name": "Texas Instruments Incorporated",
         "price": 263.42,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "TXN"
+      },
+      {
+        "change": -4.95,
+        "change_percent": -1.72,
+        "name": "Texas Instruments Incorporated",
+        "price": 283.25,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "TXN"
+      },
+      {
+        "change": 0.94,
+        "change_percent": 1.28,
+        "name": "Textron, Inc.",
+        "price": 74.16,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "TXT"
       },
       {
         "change": -0.42,
@@ -4985,12 +8601,28 @@
         "symbol": "TXT"
       },
       {
+        "change": -1.97,
+        "change_percent": -0.6,
+        "name": "Tyler Technologies, Inc.",
+        "price": 329.18,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "TYL"
+      },
+      {
         "change": 22.87,
         "change_percent": 6.79,
         "name": "Tyler Technologies, Inc.",
         "price": 359.54,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "TYL"
+      },
+      {
+        "change": 0.08,
+        "change_percent": 0.07,
+        "name": "United Airlines Holdings, Inc. Common Stock",
+        "price": 107.52,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "UAL"
       },
       {
         "change": -0.86,
@@ -5001,12 +8633,28 @@
         "symbol": "UAL"
       },
       {
+        "change": 1.2,
+        "change_percent": 1.7,
+        "name": "Uber Technologies, Inc.",
+        "price": 71.44,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "UBER"
+      },
+      {
         "change": 0.96,
         "change_percent": 1.34,
         "name": "Uber Technologies, Inc.",
         "price": 72.63,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "UBER"
+      },
+      {
+        "change": 0.45,
+        "change_percent": 1.33,
+        "name": "UDR, Inc.",
+        "price": 34.02,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "UDR"
       },
       {
         "change": 0.25,
@@ -5025,12 +8673,36 @@
         "symbol": "UHS"
       },
       {
+        "change": 1.67,
+        "change_percent": 0.95,
+        "name": "Universal Health Services, Inc. Class B",
+        "price": 177.39,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "UHS"
+      },
+      {
         "change": 1.87,
         "change_percent": 0.34,
         "name": "Ulta Beauty, Inc. Common Stock",
         "price": 548.65,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "ULTA"
+      },
+      {
+        "change": 5.91,
+        "change_percent": 1.05,
+        "name": "Ulta Beauty, Inc. Common Stock",
+        "price": 570.13,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "ULTA"
+      },
+      {
+        "change": 8.78,
+        "change_percent": 2.37,
+        "name": "UNITEDHEALTH GROUP INCORPORATED (Delaware)",
+        "price": 379.73,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "UNH"
       },
       {
         "change": 4.46,
@@ -5041,12 +8713,28 @@
         "symbol": "UNH"
       },
       {
+        "change": -0.63,
+        "change_percent": -0.23,
+        "name": "Union Pacific Corp.",
+        "price": 277.57,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "UNP"
+      },
+      {
         "change": 0.68,
         "change_percent": 0.24,
         "name": "Union Pacific Corp.",
         "price": 285.08,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "UNP"
+      },
+      {
+        "change": 0.57,
+        "change_percent": 0.61,
+        "name": "United Parcel Service, Inc. Class B",
+        "price": 94.7,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "UPS"
       },
       {
         "change": 2.18,
@@ -5065,6 +8753,22 @@
         "symbol": "URI"
       },
       {
+        "change": 8.7,
+        "change_percent": 0.83,
+        "name": "United Rentals, Inc.",
+        "price": 1058.86,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "URI"
+      },
+      {
+        "change": 0.09,
+        "change_percent": 0.16,
+        "name": "U.S. Bancorp",
+        "price": 57.12,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "USB"
+      },
+      {
         "change": -0.16,
         "change_percent": -0.25,
         "name": "U.S. Bancorp",
@@ -5081,12 +8785,36 @@
         "symbol": "V"
       },
       {
+        "change": 10.97,
+        "change_percent": 2.93,
+        "name": "VISA Inc.",
+        "price": 386.07,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "V"
+      },
+      {
         "change": 3.27,
         "change_percent": 1.25,
         "name": "Veeva Systems Inc.",
         "price": 265.67,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "VEEV"
+      },
+      {
+        "change": 12.1,
+        "change_percent": 4.25,
+        "name": "Veeva Systems Inc.",
+        "price": 296.94,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "VEEV"
+      },
+      {
+        "change": 0.15,
+        "change_percent": 0.66,
+        "name": "VICI Properties Inc. Common Stock",
+        "price": 22.94,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "VICI"
       },
       {
         "change": 0.21,
@@ -5105,12 +8833,36 @@
         "symbol": "VLO"
       },
       {
+        "change": -9.13,
+        "change_percent": -2.06,
+        "name": "Valero Energy Corporation",
+        "price": 434.67,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "VLO"
+      },
+      {
         "change": 2.2,
         "change_percent": 2.34,
         "name": "Veralto Corporation",
         "price": 96.3,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "VLTO"
+      },
+      {
+        "change": 0.46,
+        "change_percent": 0.48,
+        "name": "Veralto Corporation",
+        "price": 96.94,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "VLTO"
+      },
+      {
+        "change": -1.66,
+        "change_percent": -0.67,
+        "name": "Vulcan Materials Company(Holding Company)",
+        "price": 244.6,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "VMC"
       },
       {
         "change": -2.2,
@@ -5121,12 +8873,28 @@
         "symbol": "VMC"
       },
       {
+        "change": 0.19,
+        "change_percent": 0.31,
+        "name": "Vivmark Residential",
+        "price": 60.16,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "VMRK"
+      },
+      {
         "change": 0.78,
         "change_percent": 1.19,
         "name": "Vivmark Residential",
         "price": 66.32,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "VMRK"
+      },
+      {
+        "change": 1.04,
+        "change_percent": 0.6,
+        "name": "Verisk Analytics, Inc. Common Stock",
+        "price": 176.53,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "VRSK"
       },
       {
         "change": 10.83,
@@ -5145,12 +8913,36 @@
         "symbol": "VRSN"
       },
       {
+        "change": 5.76,
+        "change_percent": 1.93,
+        "name": "VeriSign Inc",
+        "price": 303.55,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "VRSN"
+      },
+      {
         "change": -19.67,
         "change_percent": -7.65,
         "name": "Vertiv Holdings Co Class A Common Stock",
         "price": 237.39,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "VRT"
+      },
+      {
+        "change": -1.08,
+        "change_percent": -0.44,
+        "name": "Vertiv Holdings Co Class A Common Stock",
+        "price": 242.65,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "VRT"
+      },
+      {
+        "change": 7.97,
+        "change_percent": 1.58,
+        "name": "Vertex Pharmaceuticals Inc",
+        "price": 511.22,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "VRTX"
       },
       {
         "change": 4.07,
@@ -5169,6 +8961,22 @@
         "symbol": "VST"
       },
       {
+        "change": 4.84,
+        "change_percent": 3.1,
+        "name": "Vistra Corp.",
+        "price": 160.97,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "VST"
+      },
+      {
+        "change": 0.3,
+        "change_percent": 0.36,
+        "name": "Ventas, Inc.",
+        "price": 82.06,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "VTR"
+      },
+      {
         "change": -0.89,
         "change_percent": -0.99,
         "name": "Ventas, Inc.",
@@ -5183,6 +8991,30 @@
         "price": 16.66,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "VTRS"
+      },
+      {
+        "change": 0.14,
+        "change_percent": 0.8,
+        "name": "Viatris Inc. Common Stock",
+        "price": 17.58,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "VTRS"
+      },
+      {
+        "change": 0.65,
+        "change_percent": 0.89,
+        "name": "Vylor Inc.",
+        "price": 73.44,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "VYLR"
+      },
+      {
+        "change": -4.51,
+        "change_percent": -9.72,
+        "name": "Verizon Communications",
+        "price": 41.84,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "VZ"
       },
       {
         "change": 0.68,
@@ -5201,11 +9033,27 @@
         "symbol": "WAB"
       },
       {
+        "change": 4.53,
+        "change_percent": 1.62,
+        "name": "Wabtec Inc.",
+        "price": 285.33,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "WAB"
+      },
+      {
         "change": 1.67,
         "change_percent": 0.41,
         "name": "Waters Corp",
         "price": 410.01,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
+        "symbol": "WAT"
+      },
+      {
+        "change": 4.87,
+        "change_percent": 1.13,
+        "name": "Waters Corp",
+        "price": 434,
+        "snapshot_at": "2026-10-09T22:34:47Z",
         "symbol": "WAT"
       },
       {
@@ -5217,12 +9065,28 @@
         "symbol": "WBD"
       },
       {
+        "change": -1.46,
+        "change_percent": -0.78,
+        "name": "Workday, Inc. Class A Common Stock",
+        "price": 186.35,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "WDAY"
+      },
+      {
         "change": 8.51,
         "change_percent": 4.58,
         "name": "Workday, Inc. Class A Common Stock",
         "price": 194.21,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "WDAY"
+      },
+      {
+        "change": 2.18,
+        "change_percent": 0.55,
+        "name": "Western Digital Corp.",
+        "price": 395.49,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "WDC"
       },
       {
         "change": -20.24,
@@ -5233,12 +9097,28 @@
         "symbol": "WDC"
       },
       {
+        "change": 0.13,
+        "change_percent": 0.12,
+        "name": "WEC Energy Group, Inc.",
+        "price": 103.73,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "WEC"
+      },
+      {
         "change": -0.16,
         "change_percent": -0.15,
         "name": "WEC Energy Group, Inc.",
         "price": 105.17,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "WEC"
+      },
+      {
+        "change": 2.96,
+        "change_percent": 1.33,
+        "name": "Welltower Inc.",
+        "price": 226,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "WELL"
       },
       {
         "change": -1.41,
@@ -5249,12 +9129,28 @@
         "symbol": "WELL"
       },
       {
+        "change": 1.64,
+        "change_percent": 2.01,
+        "name": "Wells Fargo & Co.",
+        "price": 83.67,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "WFC"
+      },
+      {
         "change": -1.58,
         "change_percent": -1.75,
         "name": "Wells Fargo & Co.",
         "price": 88.71,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "WFC"
+      },
+      {
+        "change": -1.09,
+        "change_percent": -0.52,
+        "name": "Waste Management, Inc.",
+        "price": 209.01,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "WM"
       },
       {
         "change": 4.63,
@@ -5273,11 +9169,27 @@
         "symbol": "WMB"
       },
       {
+        "change": 0.74,
+        "change_percent": 1.02,
+        "name": "Williams Companies Inc.",
+        "price": 73.08,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "WMB"
+      },
+      {
         "change": 1.93,
         "change_percent": 1.8,
         "name": "Walmart Inc. Common Stock",
         "price": 109.08,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
+        "symbol": "WMT"
+      },
+      {
+        "change": 0.81,
+        "change_percent": 0.73,
+        "name": "Walmart Inc. Common Stock",
+        "price": 111.37,
+        "snapshot_at": "2026-10-09T22:34:47Z",
         "symbol": "WMT"
       },
       {
@@ -5289,11 +9201,27 @@
         "symbol": "WRB"
       },
       {
+        "change": 0.18,
+        "change_percent": 0.25,
+        "name": "W.R. Berkley Corporation",
+        "price": 72.23,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "WRB"
+      },
+      {
         "change": 3.2,
         "change_percent": 1.41,
         "name": "Williams-Sonoma, Inc.",
         "price": 229.43,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
+        "symbol": "WSM"
+      },
+      {
+        "change": 2.82,
+        "change_percent": 1.18,
+        "name": "Williams-Sonoma, Inc.",
+        "price": 241.82,
+        "snapshot_at": "2026-10-09T22:34:47Z",
         "symbol": "WSM"
       },
       {
@@ -5305,12 +9233,36 @@
         "symbol": "WST"
       },
       {
+        "change": -1.71,
+        "change_percent": -0.47,
+        "name": "West Pharmaceutical Services, Inc.",
+        "price": 361.56,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "WST"
+      },
+      {
+        "change": -0.23,
+        "change_percent": -0.08,
+        "name": "Willis Towers Watson Public Limited Company Ordinary Shares",
+        "price": 297.63,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "WTW"
+      },
+      {
         "change": 8.1,
         "change_percent": 2.57,
         "name": "Willis Towers Watson Public Limited Company Ordinary Shares",
         "price": 323.71,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "WTW"
+      },
+      {
+        "change": -0.12,
+        "change_percent": -0.63,
+        "name": "Weyerhaeuser Company",
+        "price": 19.05,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "WY"
       },
       {
         "change": 0.17,
@@ -5321,12 +9273,28 @@
         "symbol": "WY"
       },
       {
+        "change": 0.01,
+        "change_percent": 0.01,
+        "name": "Wynn Resorts Ltd",
+        "price": 75.3,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "WYNN"
+      },
+      {
         "change": 0.06,
         "change_percent": 0.07,
         "name": "Wynn Resorts Ltd",
         "price": 87.76,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "WYNN"
+      },
+      {
+        "change": 0.38,
+        "change_percent": 0.52,
+        "name": "Xcel Energy, Inc.",
+        "price": 73.74,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "XEL"
       },
       {
         "change": -1.34,
@@ -5345,12 +9313,36 @@
         "symbol": "XOM"
       },
       {
+        "change": 0.44,
+        "change_percent": 0.26,
+        "name": "ExxonMobil Holdings Corporation",
+        "price": 168.94,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "XOM"
+      },
+      {
+        "change": 0.72,
+        "change_percent": 0.71,
+        "name": "Xylem Inc",
+        "price": 102.71,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "XYL"
+      },
+      {
         "change": 0.53,
         "change_percent": 0.5,
         "name": "Xylem Inc",
         "price": 107.49,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "XYL"
+      },
+      {
+        "change": 2.27,
+        "change_percent": 3.02,
+        "name": "Block, Inc.",
+        "price": 77.5,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "XYZ"
       },
       {
         "change": 0.28,
@@ -5361,12 +9353,28 @@
         "symbol": "XYZ"
       },
       {
+        "change": 0.66,
+        "change_percent": 0.46,
+        "name": "Yum! Brands, Inc.",
+        "price": 143.66,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "YUM"
+      },
+      {
         "change": 5.46,
         "change_percent": 3.88,
         "name": "Yum! Brands, Inc.",
         "price": 146.33,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
         "symbol": "YUM"
+      },
+      {
+        "change": 0.26,
+        "change_percent": 0.29,
+        "name": "Zimmer Biomet Holdings, Inc.",
+        "price": 89.14,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "ZBH"
       },
       {
         "change": 3.05,
@@ -5385,11 +9393,27 @@
         "symbol": "ZBRA"
       },
       {
+        "change": 4.82,
+        "change_percent": 1.26,
+        "name": "Zebra Technologies Corporation",
+        "price": 386.96,
+        "snapshot_at": "2026-10-09T22:34:47Z",
+        "symbol": "ZBRA"
+      },
+      {
         "change": 0.7,
         "change_percent": 0.96,
         "name": "ZOETIS INC.",
         "price": 73.67,
         "snapshot_at": "2026-09-15T02:44:46.301Z",
+        "symbol": "ZTS"
+      },
+      {
+        "change": 1.12,
+        "change_percent": 1.53,
+        "name": "ZOETIS INC.",
+        "price": 74.2,
+        "snapshot_at": "2026-10-09T22:34:47Z",
         "symbol": "ZTS"
       }
     ],
